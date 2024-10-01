@@ -1,0 +1,13 @@
+zendesk.section INCIDENT_8350___user_segment_test_INCIDENT_8350___user_segment_test_anotherBrand___Eden_test_sbss_bsbsssuuuuum@bsbsssuuuuuuuuuuuuum {
+  category_id = zendesk.category.instance.INCIDENT_8350___user_segment_test_anotherBrand___Eden_test_sbss@bsbsssuuuuum
+  sorting = "manual"
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  outdated = false
+  theme_template = "section_page"
+  translations = [
+    zendesk.section_translation.instance.INCIDENT_8350___user_segment_test_INCIDENT_8350___user_segment_test_anotherBrand___Eden_test_sbss_bsbsssuuuuum_bsbsssuuuuuuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuuuuuuuuuumuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _alias = "INCIDENT-8350 - user segment test"
+}

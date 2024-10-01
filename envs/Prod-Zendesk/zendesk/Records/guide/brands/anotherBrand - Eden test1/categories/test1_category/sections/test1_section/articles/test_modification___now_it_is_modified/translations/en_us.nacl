@@ -1,0 +1,13 @@
+zendesk.article_translation test_modification___now_it_is_modified_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum_ssbssssuuuuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuuuuuuuuumuuuuuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  title = "test modification - now it is modified"
+  body = file("zendesk/translations/guide/brands/anotherBrand - Eden test1/categories/test1_category/sections/test1_section/articles/test_modification___now_it_is_modified/translations/cbbcbe7e9f_test_modification___now_it_is_modified")
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.article.instance.test_modification___now_it_is_modified_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@ssbssssuuuuuuuuuuum,
+  ]
+  _alias = "en-us - test modification - now it is modified"
+}

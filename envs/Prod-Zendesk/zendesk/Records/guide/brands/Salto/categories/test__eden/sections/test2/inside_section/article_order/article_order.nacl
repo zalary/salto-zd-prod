@@ -1,0 +1,7 @@
+zendesk.article_order inside_section_test2_test__eden_Salto_bsu_uuuum_suuuuuum@uuuuuuuum {
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.section.instance.inside_section_test2_test__eden_Salto_bsu_uuuum@suuuuuum,
+  ]
+  _alias = "inside section Article Order"
+}

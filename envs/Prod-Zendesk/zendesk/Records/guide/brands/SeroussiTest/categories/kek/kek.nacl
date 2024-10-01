@@ -1,0 +1,13 @@
+zendesk.category kek_SeroussiTest {
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_fr
+  source_locale = zendesk.guide_language_settings.instance.SeroussiTest_fr
+  outdated = false
+  translations = [
+    zendesk.category_translation.instance.kek_SeroussiTest__SeroussiTest_ar,
+    zendesk.category_translation.instance.kek_SeroussiTest__SeroussiTest_da,
+    zendesk.category_translation.instance.kek_SeroussiTest__SeroussiTest_en_us_ub@uuuuum,
+    zendesk.category_translation.instance.kek_SeroussiTest__SeroussiTest_fr,
+  ]
+  brand = zendesk.brand.instance.SeroussiTest
+  _alias = "kek"
+}

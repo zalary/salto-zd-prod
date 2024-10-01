@@ -1,0 +1,7 @@
+zendesk.organization shirs_org@s {
+  name = "shirs org"
+  shared_tickets = false
+  shared_comments = false
+  details = ""
+  notes = ""
+}

@@ -1,0 +1,11 @@
+zendesk.article_attachment How_do_I_customize_my_Help_Center__FAQ_General_nms_test_b_uum_uuuum_ssssssauuuuuum__Screenshot_2024_03_31_at_10_07_05_png_false@uuuuuuuuuuuuuumuusbbssvvvu {
+  file_name = "Screenshot 2024-03-31 at 10.07.05.png"
+  content_type = "image/png"
+  inline = false
+  brand = zendesk.brand.instance.nms_test@b
+  content = file("zendesk/article_attachments/guide/brands/nms-test/categories/General/sections/FAQ/articles/How_do_I_customize_my_Help_Center_/article_attachment/Screenshot 2024-03-31 at 10/ef0f877e1a_90db09aaa7_Screenshot 2024-03-31 at 10.07.05.png")
+  _parent = [
+    zendesk.article.instance.How_do_I_customize_my_Help_Center__FAQ_General_nms_test_b_uum_uuuum@ssssssauuuuuum,
+  ]
+  _alias = "Screenshot 2024-03-31 at 10.07.05.png - How do I customize my Help Center?"
+}

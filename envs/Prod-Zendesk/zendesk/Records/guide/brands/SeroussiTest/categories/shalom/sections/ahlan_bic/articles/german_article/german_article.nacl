@@ -1,0 +1,25 @@
+zendesk.article german_article_ahlan_bic_shalom_SeroussiTest_suu@suuuum {
+  author_id = "zendesk-adapter@salto.io"
+  comments_disabled = false
+  draft = true
+  promoted = false
+  section_id = zendesk.section.instance.ahlan_bic_shalom_SeroussiTest@suu
+  source_locale = zendesk.guide_language_settings.instance.SeroussiTest_de
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_de
+  outdated = false
+  user_segment_id = zendesk.user_segment.instance.Agents_and_admins@s
+  permission_group_id = zendesk.permission_group.instance.Admins
+  translations = [
+    zendesk.article_translation.instance.german_article_ahlan_bic_shalom_SeroussiTest_suu_suuuum__SeroussiTest_de@uuuuuumuuu,
+  ]
+  user_segment_ids = [
+    zendesk.user_segment.instance.Agents_and_admins@s,
+  ]
+  brand = zendesk.brand.instance.SeroussiTest
+  attachments = [
+    zendesk.article_attachment.instance.german_article_ahlan_bic_shalom_SeroussiTest_suu_suuuum__Screen_Shot_2022_09_14_at_16_06_27_copy_png_true@uuuuuumuuuubbuuvvuvu,
+    zendesk.article_attachment.instance.german_article_ahlan_bic_shalom_SeroussiTest_suu_suuuum__again_again_png_true@uuuuuumuuuvu,
+    zendesk.article_attachment.instance.german_article_ahlan_bic_shalom_SeroussiTest_suu_suuuum__again_again2_png_true@uuuuuumuuuvu,
+  ]
+  _alias = "german article"
+}

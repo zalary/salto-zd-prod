@@ -1,0 +1,12 @@
+zendesk.article_translation Hey_Test_Test_SeroussiTest__SeroussiTest_en_us_ub@uuuuuuum {
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_en_us@ub
+  title = "Hey"
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.article.instance.Hey_Test_Test_SeroussiTest,
+  ]
+  _alias = "en-us - Hey"
+}

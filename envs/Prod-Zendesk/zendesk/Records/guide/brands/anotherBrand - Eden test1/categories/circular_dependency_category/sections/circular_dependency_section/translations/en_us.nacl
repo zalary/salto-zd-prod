@@ -1,0 +1,12 @@
+zendesk.section_translation circular_dependency_section_circular_dependency_category_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuumuuuuuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  title = "circular dependency section"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.section.instance.circular_dependency_section_circular_dependency_category_anotherBrand___Eden_test_sbss_ssuuuuum@ssuuuuuuuuum,
+  ]
+  _alias = "en-us - circular dependency section"
+}

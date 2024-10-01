@@ -1,0 +1,7 @@
+zendesk.section_order Announcements_General_neta_eden_111 {
+  brand = zendesk.brand.instance.neta_eden_111
+  _parent = [
+    zendesk.section.instance.Announcements_General_neta_eden_111,
+  ]
+  _alias = "Announcements Section Order"
+}

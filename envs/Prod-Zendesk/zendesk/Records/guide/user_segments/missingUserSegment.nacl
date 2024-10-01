@@ -1,0 +1,19 @@
+zendesk.user_segment missingUserSegment {
+  user_type = "signed_in_users"
+  organization_ids = [
+    "BioLand",
+    "Salto",
+  ]
+  tags = [
+    zendesk.tag.instance.alltag,
+  ]
+  or_tags = [
+    zendesk.tag.instance.anytag,
+  ]
+  built_in = false
+  added_user_ids = [
+    "la+3@example.org",
+  ]
+  name = "missingUserSegment"
+  _alias = "missingUserSegment"
+}

@@ -1,0 +1,7 @@
+zendesk.section_order att_test1_att_test1_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@uuuuuuuuuum {
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.section.instance.att_test1_att_test1_anotherBrand___Eden_test_sbss_suuuuum@suuuuuuuum,
+  ]
+  _alias = "att test1 Section Order"
+}

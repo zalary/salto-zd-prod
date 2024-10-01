@@ -1,0 +1,12 @@
+zendesk.article_attachment german_article_ahlan_bic_shalom_SeroussiTest_suu_suuuum__again_again_png_true@uuuuuumuuuvu {
+  file_name = "again_again.png"
+  locale = "de"
+  content_type = "image/png"
+  inline = true
+  brand = zendesk.brand.instance.SeroussiTest
+  content = file("zendesk/article_attachments/guide/brands/SeroussiTest/categories/shalom/sections/ahlan_bic/articles/german_article/article_attachment/again_again/913cdf111c_e5b1ba938a_again_again.png")
+  _parent = [
+    zendesk.article.instance.german_article_ahlan_bic_shalom_SeroussiTest_suu@suuuum,
+  ]
+  _alias = "again_again.png - german article"
+}

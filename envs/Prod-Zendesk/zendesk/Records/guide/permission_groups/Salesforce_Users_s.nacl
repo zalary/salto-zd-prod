@@ -1,0 +1,8 @@
+zendesk.permission_group Salesforce_Users@s {
+  name = "Salesforce Users"
+  built_in = false
+  edit = [
+    zendesk.user_segment.instance.Tier_3_Articles@s,
+  ]
+  _alias = "Salesforce Users"
+}

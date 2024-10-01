@@ -1,0 +1,5 @@
+zendesk.organization Voonyx {
+  name = "Voonyx"
+  shared_tickets = false
+  shared_comments = false
+}

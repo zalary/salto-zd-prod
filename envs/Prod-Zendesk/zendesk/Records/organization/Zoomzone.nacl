@@ -1,0 +1,5 @@
+zendesk.organization Zoomzone {
+  name = "Zoomzone"
+  shared_tickets = false
+  shared_comments = false
+}

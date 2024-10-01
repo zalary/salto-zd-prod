@@ -1,0 +1,45 @@
+zendesk.article something123_FAQ_General_nms_test_b_uum_uuuum@uuuuuum {
+  author_id = "neta.marcus@salto.io"
+  comments_disabled = true
+  draft = true
+  promoted = false
+  section_id = zendesk.section.instance.FAQ_General_nms_test_b_uum@uuuum
+  source_locale = zendesk.guide_language_settings.instance.nms_test_b_en_us@umub
+  locale = zendesk.guide_language_settings.instance.nms_test_b_en_us@umub
+  outdated = false
+  user_segment_id = zendesk.user_segment.instance.Agents_and_admins@s
+  permission_group_id = zendesk.permission_group.instance.Admins
+  translations = [
+    zendesk.article_translation.instance.something123_FAQ_General_nms_test_b_uum_uuuum_uuuuuum__nms_test_b_en_us_umub@uuuuuuumuuuuuum,
+  ]
+  label_names = [
+    "123",
+    "2",
+    "3",
+    "6hi6hi6",
+    "a",
+    "aaa",
+    "aaaa",
+    "abc",
+    "adad",
+    "ahi",
+    "b",
+    "bbb",
+    "c",
+    "d",
+    "hi",
+    "hi2",
+    "hi3",
+    "hi5",
+    "z",
+    "zaza",
+    "zz",
+    "zzhi",
+    "zzz",
+  ]
+  user_segment_ids = [
+    zendesk.user_segment.instance.Agents_and_admins@s,
+  ]
+  brand = zendesk.brand.instance.nms_test@b
+  _alias = "something123"
+}

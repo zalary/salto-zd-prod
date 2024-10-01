@@ -1,0 +1,7 @@
+zendesk.section_order NewSection_General_BrandAForGuide {
+  brand = zendesk.brand.instance.BrandAForGuide
+  _parent = [
+    zendesk.section.instance.NewSection_General_BrandAForGuide,
+  ]
+  _alias = "NewSection Section Order"
+}

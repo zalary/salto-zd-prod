@@ -1,0 +1,6 @@
+zendesk.guide_language_settings anotherBrand___Eden_test_sbss_ar@uuuumu {
+  locale = "ar"
+  name = "checking- again"
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _alias = "anotherBrand - Eden test1 ar language settings"
+}

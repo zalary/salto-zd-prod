@@ -1,0 +1,14 @@
+zendesk.section i_am_a_lil_section_kek_SeroussiTest@ssssuu {
+  category_id = zendesk.category.instance.kek_SeroussiTest
+  sorting = "manual"
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_it
+  source_locale = zendesk.guide_language_settings.instance.SeroussiTest_it
+  outdated = false
+  theme_template = "section_page"
+  translations = [
+    zendesk.section_translation.instance.i_am_a_lil_section_kek_SeroussiTest_ssssuu__SeroussiTest_da@uuuuuumuuu,
+    zendesk.section_translation.instance.i_am_a_lil_section_kek_SeroussiTest_ssssuu__SeroussiTest_it@uuuuuumuuu,
+  ]
+  brand = zendesk.brand.instance.SeroussiTest
+  _alias = "i am a lil section"
+}

@@ -1,0 +1,32 @@
+zendesk.article How_do_I_customize_my_Help_Center__FAQ_General_nms_test_b_uum_uuuum@ssssssauuuuuum {
+  author_id = "gil.hoffer@salto.io"
+  comments_disabled = false
+  draft = false
+  promoted = false
+  section_id = zendesk.section.instance.FAQ_General_nms_test_b_uum@uuuum
+  source_locale = zendesk.guide_language_settings.instance.nms_test_b_en_us@umub
+  locale = zendesk.guide_language_settings.instance.nms_test_b_en_us@umub
+  outdated = false
+  user_segment_id = zendesk.user_segment.instance.VIP_Customers@s
+  permission_group_id = zendesk.permission_group.instance.Admins
+  translations = [
+    zendesk.article_translation.instance.How_do_I_customize_my_Help_Center__FAQ_General_nms_test_b_uum_uuuum_ssssssauuuuuum__nms_test_b_en_us_umub@uuuuuuuuuuuuuumuuuuuum,
+  ]
+  content_tag_ids = [
+    "01GHERGNDHC3A3KRKHMJX28V40",
+    "01GHERGQQDFTB0YT8QP0D89SZW",
+  ]
+  label_names = [
+    "aaa",
+    "bbb",
+  ]
+  user_segment_ids = [
+    zendesk.user_segment.instance.VIP_Customers@s,
+  ]
+  brand = zendesk.brand.instance.nms_test@b
+  attachments = [
+    zendesk.article_attachment.instance.How_do_I_customize_my_Help_Center__FAQ_General_nms_test_b_uum_uuuum_ssssssauuuuuum__Screenshot_2024_03_31_at_10_07_05_png_false@uuuuuuuuuuuuuumuusbbssvvvu,
+    zendesk.article_attachment.instance.How_do_I_customize_my_Help_Center__FAQ_General_nms_test_b_uum_uuuum_ssssssauuuuuum__x_false@uuuuuuuuuuuuuumuuu,
+  ]
+  _alias = "How do I customize my Help Center?"
+}

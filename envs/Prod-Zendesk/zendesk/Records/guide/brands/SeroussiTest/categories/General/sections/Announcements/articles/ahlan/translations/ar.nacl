@@ -1,0 +1,13 @@
+zendesk.article_translation ahlan_Announcements_General_SeroussiTest__SeroussiTest_ar {
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_ar
+  title = "ahlan"
+  body = file("zendesk/translations/guide/brands/SeroussiTest/categories/General/sections/Announcements/articles/ahlan/translations/325f0174d6_ahlan")
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.article.instance.ahlan_Announcements_General_SeroussiTest,
+  ]
+  _alias = "ar - ahlan"
+}

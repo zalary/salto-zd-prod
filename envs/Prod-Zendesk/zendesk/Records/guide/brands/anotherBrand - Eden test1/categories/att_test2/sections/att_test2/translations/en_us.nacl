@@ -1,0 +1,12 @@
+zendesk.section_translation att_test2_att_test2_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuumuuuuuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  title = "att test2"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.section.instance.att_test2_att_test2_anotherBrand___Eden_test_sbss_suuuuum@suuuuuuuum,
+  ]
+  _alias = "en-us - att test2"
+}

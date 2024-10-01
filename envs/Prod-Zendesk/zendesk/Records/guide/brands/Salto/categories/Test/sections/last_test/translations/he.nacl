@@ -1,0 +1,13 @@
+zendesk.section_translation last_test_Test_Salto_suu__Salto_he@uuumuuu {
+  locale = zendesk.guide_language_settings.instance.Salto_he
+  title = "מבחן אחרון"
+  body = "123אחרון!"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.section.instance.last_test_Test_Salto@suu,
+  ]
+  _alias = "he - last test"
+}

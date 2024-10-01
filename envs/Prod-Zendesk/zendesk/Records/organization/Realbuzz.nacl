@@ -1,0 +1,5 @@
+zendesk.organization Realbuzz {
+  name = "Realbuzz"
+  shared_tickets = false
+  shared_comments = false
+}

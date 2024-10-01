@@ -1,0 +1,34 @@
+zendesk.guide_settings anotherBrand___Eden_test_sbss@uuuum {
+  help_center = {
+    general_settings_attributes = {
+      agent_requests_enabled = true
+      anonymous_kb_voting_enabled = true
+      article_sanitization_disabled = false
+      at_mentions_enabled = false
+      community_badges_shown = false
+      community_enabled = false
+      community_post_content_tagging_enabled = false
+      content_moderation_enabled = true
+      embeddables_automatic_answers = false
+      embeddables_connect_ipms = false
+      embeddables_web_widget = false
+      google_universal_analytics_enabled = false
+      mobile_site_enabled = false
+      moderate_all_content_enabled = false
+      powered_by_enabled = false
+      public_user_profiles_enabled = false
+      request_comments_order_asc = false
+      sign_in_required = true
+      user_aliases_enabled = false
+      user_profiles_enabled = true
+      google_analytics_tracking_id = ""
+      google_analytics_4_enabled = false
+      google_analytics_4_tracking_id = ""
+      enable_article_notification_on_all_articles = false
+      anonymous_user_tracking_enabled = false
+    }
+  }
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  default_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  _alias = "anotherBrand - Eden test1 Settings"
+}

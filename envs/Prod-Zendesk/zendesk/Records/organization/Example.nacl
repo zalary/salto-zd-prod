@@ -1,0 +1,16 @@
+zendesk.organization Example {
+  name = "Example"
+  shared_tickets = false
+  shared_comments = false
+  domain_names = [
+    "example.com",
+  ]
+  details = ""
+  notes = ""
+  tags = [
+    "option2",
+  ]
+  organization_fields = {
+    another_drop_down = "option2"
+  }
+}

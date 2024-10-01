@@ -1,0 +1,5 @@
+zendesk.organization Vinte {
+  name = "Vinte"
+  shared_tickets = false
+  shared_comments = false
+}

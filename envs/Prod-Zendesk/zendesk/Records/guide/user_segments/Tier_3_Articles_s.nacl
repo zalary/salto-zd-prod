@@ -1,0 +1,9 @@
+zendesk.user_segment Tier_3_Articles@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Tier 3 Articles"
+  _alias = "Tier 3 Articles"
+}

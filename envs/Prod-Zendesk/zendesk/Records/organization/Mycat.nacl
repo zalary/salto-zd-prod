@@ -1,0 +1,5 @@
+zendesk.organization Mycat {
+  name = "Mycat"
+  shared_tickets = false
+  shared_comments = false
+}

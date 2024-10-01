@@ -1,0 +1,9 @@
+zendesk.user_segment DevOps_Experts_Segment@s {
+  user_type = "staff"
+  tags = [
+    zendesk.tag.instance.devops,
+  ]
+  built_in = false
+  name = "DevOps Experts Segment"
+  _alias = "DevOps Experts Segment"
+}

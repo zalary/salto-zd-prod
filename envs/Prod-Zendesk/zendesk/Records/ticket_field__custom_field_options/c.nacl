@@ -1,0 +1,19 @@
+
+zendesk.ticket_field__custom_field_options edenTestForm_tagger__c {
+  
+  raw_name = "c"
+  value = "c"
+  _parent = [
+    zendesk.ticket_field.instance.edenTestForm_tagger,
+  ]
+  _alias = "c"
+}
+zendesk.ticket_field__custom_field_options edenTestForm_clone_tagger_su__c_clone@uumuuu {
+  
+  raw_name = "c"
+  value = "c_clone"
+  _parent = [
+    zendesk.ticket_field.instance.edenTestForm_clone_tagger@su,
+  ]
+  _alias = "c"
+}

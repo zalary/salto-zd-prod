@@ -1,0 +1,13 @@
+zendesk.article_translation Artic1_Section1_Categ1_TomerBrand__TomerBrand_en_us_ub@uuuuuuum {
+  locale = zendesk.guide_language_settings.instance.TomerBrand_en_us@ub
+  title = "Artic1"
+  body = file("zendesk/translations/guide/brands/TomerBrand/categories/Categ1/sections/Section1/articles/Artic1/translations/275e351013_Artic1")
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.TomerBrand
+  _parent = [
+    zendesk.article.instance.Artic1_Section1_Categ1_TomerBrand,
+  ]
+  _alias = "en-us - Artic1"
+}

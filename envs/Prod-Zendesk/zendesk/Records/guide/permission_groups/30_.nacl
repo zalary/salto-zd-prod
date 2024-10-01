@@ -1,0 +1,5 @@
+zendesk.permission_group "30@" {
+  name = "30"
+  built_in = false
+  _alias = "30"
+}

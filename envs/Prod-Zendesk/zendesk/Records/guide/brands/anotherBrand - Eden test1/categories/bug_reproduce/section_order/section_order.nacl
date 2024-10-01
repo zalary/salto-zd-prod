@@ -1,0 +1,10 @@
+zendesk.section_order bug_reproduce_anotherBrand___Eden_test_sbss_suuuuum@uuuuuuum {
+  sections = [
+    zendesk.section.instance.bug_reproduce_bug_reproduce_anotherBrand___Eden_test_sbss_suuuuum@suuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.category.instance.bug_reproduce_anotherBrand___Eden_test_sbss@suuuuum,
+  ]
+  _alias = "bug reproduce Section Order"
+}

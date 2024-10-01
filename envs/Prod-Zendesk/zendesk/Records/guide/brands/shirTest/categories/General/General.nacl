@@ -1,0 +1,10 @@
+zendesk.category General_shirTest {
+  locale = zendesk.guide_language_settings.instance.shirTest_en_us@ub
+  source_locale = zendesk.guide_language_settings.instance.shirTest_en_us@ub
+  outdated = false
+  translations = [
+    zendesk.category_translation.instance.General_shirTest__shirTest_en_us_ub@uuuuum,
+  ]
+  brand = zendesk.brand.instance.shirTest
+  _alias = "General"
+}

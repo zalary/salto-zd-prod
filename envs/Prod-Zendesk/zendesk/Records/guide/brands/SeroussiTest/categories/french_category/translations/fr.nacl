@@ -1,0 +1,13 @@
+zendesk.category_translation french_category_SeroussiTest_su__SeroussiTest_fr@uumuuu {
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_fr
+  title = "french category"
+  body = "asd"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.category.instance.french_category_SeroussiTest@su,
+  ]
+  _alias = "fr - french category"
+}

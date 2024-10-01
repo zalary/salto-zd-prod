@@ -1,0 +1,16 @@
+zendesk.article_translation article_with_links_and_attachments____article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum_ssuuuuuuuum_ssssllluuuuuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuuuuuuuuuumuuuuuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  title = "article with links and attachments!!!"
+  body = file(
+    "zendesk/translations/guide/brands/anotherBrand - Eden test1/categories/article_test/sections/article_test_section2/articles/article_with_links_and_attachments___/translations/fb9537b252_article_with_links_and_attachments___",
+    "template",
+  )
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.article.instance.article_with_links_and_attachments____article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum_ssuuuuuuuum@ssssllluuuuuuuuuuuum,
+  ]
+  _alias = "en-us - article with links and attachments!!!"
+}

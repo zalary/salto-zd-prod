@@ -1,0 +1,5 @@
+zendesk.organization Blognation {
+  name = "Blognation"
+  shared_tickets = false
+  shared_comments = false
+}

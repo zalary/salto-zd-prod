@@ -1,0 +1,6 @@
+zendesk.guide_language_settings BrandAForGuide_en_us@ub {
+  locale = "en-us"
+  name = "BrandAForGuide"
+  brand = zendesk.brand.instance.BrandAForGuide
+  _alias = "BrandAForGuide en-us language settings"
+}

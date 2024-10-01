@@ -1,0 +1,10 @@
+zendesk.category bug_reproduce_anotherBrand___Eden_test_sbss@suuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  outdated = false
+  translations = [
+    zendesk.category_translation.instance.bug_reproduce_anotherBrand___Eden_test_sbss_suuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuumuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _alias = "bug reproduce"
+}

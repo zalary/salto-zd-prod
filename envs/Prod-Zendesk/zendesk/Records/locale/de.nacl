@@ -1,0 +1,10 @@
+zendesk.locale de {
+  locale = "de"
+  name = "Deutsch"
+  native_name = "Deutsch"
+  presentation_name = "German - Deutsch"
+  rtl = false
+  
+  _alias = "German - Deutsch"
+  id = 8
+}

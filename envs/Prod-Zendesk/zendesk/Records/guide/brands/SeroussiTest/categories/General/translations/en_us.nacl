@@ -1,0 +1,12 @@
+zendesk.category_translation General_SeroussiTest__SeroussiTest_en_us_ub@uuuuum {
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_en_us@ub
+  title = "General"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.category.instance.General_SeroussiTest,
+  ]
+  _alias = "en-us - General"
+}

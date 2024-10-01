@@ -1,0 +1,12 @@
+zendesk.category_translation no_articles_BrandBForGuide_su__BrandBForGuide_en_us_ub@uumuuuum {
+  locale = zendesk.guide_language_settings.instance.BrandBForGuide_en_us@ub
+  title = "no articles"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.BrandBForGuide
+  _parent = [
+    zendesk.category.instance.no_articles_BrandBForGuide@su,
+  ]
+  _alias = "en-us - no articles"
+}

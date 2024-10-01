@@ -1,0 +1,13 @@
+zendesk.section_translation inside_section_test2_test__eden_Salto_bsu_uuuum_suuuuuum__Salto_en_us_ub@uuuuuuuumuuuum {
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  title = "inside section"
+  body = "des"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.section.instance.inside_section_test2_test__eden_Salto_bsu_uuuum@suuuuuum,
+  ]
+  _alias = "en-us - inside section"
+}

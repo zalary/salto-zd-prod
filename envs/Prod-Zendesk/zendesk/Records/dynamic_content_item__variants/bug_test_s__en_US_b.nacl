@@ -1,0 +1,11 @@
+zendesk.dynamic_content_item__variants bug_test_s__en_US_b@umuuum {
+  content = "bla bla"
+  locale_id = zendesk.locale.instance.en_US@b
+  
+  active = true
+  default = false
+  _parent = [
+    zendesk.dynamic_content_item.instance.bug_test@s,
+  ]
+  _alias = "bug test2 - en-US"
+}

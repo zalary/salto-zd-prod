@@ -1,0 +1,13 @@
+zendesk.section Section1_Categ1_TomerBrand {
+  category_id = zendesk.category.instance.Categ1_TomerBrand
+  sorting = "manual"
+  locale = zendesk.guide_language_settings.instance.TomerBrand_en_us@ub
+  source_locale = zendesk.guide_language_settings.instance.TomerBrand_en_us@ub
+  outdated = false
+  theme_template = "section_page"
+  translations = [
+    zendesk.section_translation.instance.Section1_Categ1_TomerBrand__TomerBrand_en_us_ub@uuuuuum,
+  ]
+  brand = zendesk.brand.instance.TomerBrand
+  _alias = "Section1"
+}

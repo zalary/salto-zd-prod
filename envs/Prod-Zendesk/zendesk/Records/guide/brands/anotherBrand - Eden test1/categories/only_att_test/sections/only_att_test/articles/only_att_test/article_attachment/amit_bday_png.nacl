@@ -1,0 +1,12 @@
+zendesk.article_attachment only_att_test_only_att_test_only_att_test_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum_ssuuuuuuuuuuuuum__amit_bday_png_true@uuuuuuuuuuuuuuuumuuuvu {
+  file_name = "amit_bday.png"
+  locale = "en-us"
+  content_type = "image/png"
+  inline = true
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test1/categories/only_att_test/sections/only_att_test/articles/only_att_test/article_attachment/amit_bday/26c55c54fc_87b384b84f_amit_bday.png")
+  _parent = [
+    zendesk.article.instance.only_att_test_only_att_test_only_att_test_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum@ssuuuuuuuuuuuuum,
+  ]
+  _alias = "amit_bday.png - only att test"
+}

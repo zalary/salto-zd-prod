@@ -1,0 +1,16 @@
+zendesk.article_translation german_article_ahlan_bic_shalom_SeroussiTest_suu_suuuum__SeroussiTest_de@uuuuuumuuu {
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_de
+  title = "german article"
+  body = file(
+    "zendesk/translations/guide/brands/SeroussiTest/categories/shalom/sections/ahlan_bic/articles/german_article/translations/f307d67cc2_german_article",
+    "template",
+  )
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.article.instance.german_article_ahlan_bic_shalom_SeroussiTest_suu@suuuum,
+  ]
+  _alias = "de - german article"
+}

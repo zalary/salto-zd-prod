@@ -1,0 +1,13 @@
+zendesk.article_translation ___3_Announcements_General_Salto__01488_01489_01490uuu__Salto_he@uuuuuumuuuuuu {
+  locale = zendesk.guide_language_settings.instance.Salto_he
+  title = "אבג3"
+  body = file("zendesk/translations/guide/brands/Salto/categories/General/sections/Announcements/articles/___3/translations/bdc7f15df2____3")
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.article.instance.___3_Announcements_General_Salto@_01488_01489_01490uuu,
+  ]
+  _alias = "he - אבג3"
+}

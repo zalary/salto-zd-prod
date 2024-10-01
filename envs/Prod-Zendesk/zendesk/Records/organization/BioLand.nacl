@@ -1,0 +1,7 @@
+zendesk.organization BioLand {
+  name = "BioLand"
+  shared_tickets = false
+  shared_comments = false
+  details = ""
+  notes = ""
+}

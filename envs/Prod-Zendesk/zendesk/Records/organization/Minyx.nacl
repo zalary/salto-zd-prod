@@ -1,0 +1,5 @@
+zendesk.organization Minyx {
+  name = "Minyx"
+  shared_tickets = false
+  shared_comments = false
+}

@@ -1,0 +1,5 @@
+zendesk.organization Thoughtbeat {
+  name = "Thoughtbeat"
+  shared_tickets = false
+  shared_comments = false
+}

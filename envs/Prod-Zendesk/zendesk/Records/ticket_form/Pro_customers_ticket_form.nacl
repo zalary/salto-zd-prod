@@ -1,0 +1,18 @@
+zendesk.ticket_form Pro_customers_ticket_form@s {
+  raw_name = "Pro customers ticket form"
+  raw_display_name = "Create a Pro support ticket"
+  end_user_visible = true
+  ticket_field_ids = [
+    zendesk.ticket_field.instance.Status_status,
+    zendesk.ticket_field.instance.Group_group,
+    zendesk.ticket_field.instance.Assignee_assignee,
+    zendesk.ticket_field.instance.Ticket_status_custom_status@suu,
+    zendesk.ticket_field.instance.Subject_subject,
+    zendesk.ticket_field.instance.Description_description,
+    zendesk.ticket_field.instance.Is_Pro_Customer_checkbox@ssu,
+  ]
+  active = true
+  default = false
+  in_all_brands = true
+  _alias = "Pro customers ticket form"
+}

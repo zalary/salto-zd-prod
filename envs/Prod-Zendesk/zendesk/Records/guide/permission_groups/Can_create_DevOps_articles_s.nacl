@@ -1,0 +1,11 @@
+zendesk.permission_group Can_create_DevOps_articles@s {
+  name = "Can create DevOps articles"
+  built_in = false
+  publish = [
+    zendesk.user_segment.instance.DevOps_Experts_Segment@s,
+  ]
+  edit = [
+    zendesk.user_segment.instance.DevOps_Experts_Segment@s,
+  ]
+  _alias = "Can create DevOps articles"
+}

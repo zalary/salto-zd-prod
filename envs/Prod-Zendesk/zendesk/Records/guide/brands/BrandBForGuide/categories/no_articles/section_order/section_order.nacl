@@ -1,0 +1,7 @@
+zendesk.section_order no_articles_BrandBForGuide_su@uum {
+  brand = zendesk.brand.instance.BrandBForGuide
+  _parent = [
+    zendesk.category.instance.no_articles_BrandBForGuide@su,
+  ]
+  _alias = "no articles Section Order"
+}

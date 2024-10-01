@@ -1,0 +1,7 @@
+zendesk.section_order Neta_repro12_Neta_repro1_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@uuuuuuuuuum {
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.section.instance.Neta_repro12_Neta_repro1_anotherBrand___Eden_test_sbss_suuuuum@suuuuuuuum,
+  ]
+  _alias = "Neta repro12 Section Order"
+}

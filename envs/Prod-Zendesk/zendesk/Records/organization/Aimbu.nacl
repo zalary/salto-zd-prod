@@ -1,0 +1,5 @@
+zendesk.organization Aimbu {
+  name = "Aimbu"
+  shared_tickets = false
+  shared_comments = false
+}

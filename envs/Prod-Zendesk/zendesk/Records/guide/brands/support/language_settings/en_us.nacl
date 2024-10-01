@@ -1,0 +1,6 @@
+zendesk.guide_language_settings support_en_us@ub {
+  locale = "en-us"
+  name = "support"
+  brand = zendesk.brand.instance.support
+  _alias = "support en-us language settings"
+}

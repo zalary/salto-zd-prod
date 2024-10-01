@@ -1,0 +1,12 @@
+zendesk.article_attachment att_modification_INCIDENT_11376_INCIDENT_11376_anotherBrand___Eden_test_sbss_buuuuum_buuuuuuuum_suuuuuuuuuuum__other_name_png_true@uuuuuuuuuuuuumuuuvu {
+  file_name = "other_name.png"
+  locale = "en-us"
+  content_type = "image/png"
+  inline = true
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test1/categories/INCIDENT_11376/sections/INCIDENT_11376/articles/att_modification/article_attachment/other_name/830f8dc07c_73405e0eec_other_name.png")
+  _parent = [
+    zendesk.article.instance.att_modification_INCIDENT_11376_INCIDENT_11376_anotherBrand___Eden_test_sbss_buuuuum_buuuuuuuum@suuuuuuuuuuum,
+  ]
+  _alias = "other_name.png - att modification"
+}

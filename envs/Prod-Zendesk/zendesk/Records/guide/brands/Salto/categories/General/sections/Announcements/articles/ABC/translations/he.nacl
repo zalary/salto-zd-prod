@@ -1,0 +1,13 @@
+zendesk.article_translation ABC_Announcements_General_Salto__Salto_he {
+  locale = zendesk.guide_language_settings.instance.Salto_he
+  title = "אבג"
+  body = file("zendesk/translations/guide/brands/Salto/categories/General/sections/Announcements/articles/ABC/translations/281cb0dd4f____")
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.article.instance.ABC_Announcements_General_Salto,
+  ]
+  _alias = "he - ABC"
+}

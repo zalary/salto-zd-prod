@@ -1,0 +1,17 @@
+zendesk.article How_do_I_customize_my_Help_Center__FAQ_General_neta_eden_111@ssssssauuuuu {
+  author_id = "gil.hoffer@salto.io"
+  comments_disabled = false
+  draft = false
+  promoted = false
+  section_id = zendesk.section.instance.FAQ_General_neta_eden_111
+  source_locale = zendesk.guide_language_settings.instance.neta_eden_111_en_us@uuub
+  locale = zendesk.guide_language_settings.instance.neta_eden_111_en_us@uuub
+  outdated = false
+  permission_group_id = zendesk.permission_group.instance.Admins
+  translations = [
+    zendesk.article_translation.instance.How_do_I_customize_my_Help_Center__FAQ_General_neta_eden_111_ssssssauuuuu__neta_eden_111_en_us_uuub@uuuuuuuuuuuumuuuuuum,
+  ]
+  brand = zendesk.brand.instance.neta_eden_111
+  user_segment_id = zendesk.user_segment.instance.Everyone
+  _alias = "How do I customize my Help Center?"
+}

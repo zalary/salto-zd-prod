@@ -1,0 +1,13 @@
+zendesk.category_translation test3_Salto__Salto_he {
+  locale = zendesk.guide_language_settings.instance.Salto_he
+  title = "בדיקה3"
+  body = "בדיקה"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.category.instance.test3_Salto,
+  ]
+  _alias = "he - test3"
+}

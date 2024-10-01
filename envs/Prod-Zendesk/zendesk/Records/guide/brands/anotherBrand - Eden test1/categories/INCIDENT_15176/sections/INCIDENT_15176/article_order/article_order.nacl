@@ -1,0 +1,12 @@
+zendesk.article_order INCIDENT_15176_INCIDENT_15176_anotherBrand___Eden_test_sbss_buuuuum_buuuuuuuum@uuuuuuuuuum {
+  articles = [
+    zendesk.article.instance.test_incident_INCIDENT_15176_INCIDENT_15176_anotherBrand___Eden_test_sbss_buuuuum_buuuuuuuum@suuuuuuuuuuum,
+    zendesk.article.instance.Untitled_INCIDENT_15176_INCIDENT_15176_anotherBrand___Eden_test_sbss_buuuuum_buuuuuuuum@uuuuuuuuuuum,
+    zendesk.article.instance.INCIDENT_15176___try_to_reference_non_inline_INCIDENT_15176_INCIDENT_15176_anotherBrand___Eden_test_sbss_buuuuum_buuuuuuuum@bsbsssssuuuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.section.instance.INCIDENT_15176_INCIDENT_15176_anotherBrand___Eden_test_sbss_buuuuum@buuuuuuuum,
+  ]
+  _alias = "INCIDENT-15176 Article Order"
+}

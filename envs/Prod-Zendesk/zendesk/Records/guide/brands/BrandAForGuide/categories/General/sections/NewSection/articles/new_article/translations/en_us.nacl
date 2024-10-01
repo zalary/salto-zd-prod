@@ -1,0 +1,13 @@
+zendesk.article_translation new_article_NewSection_General_BrandAForGuide_suuu__BrandAForGuide_en_us_ub@uuuumuuuum {
+  locale = zendesk.guide_language_settings.instance.BrandAForGuide_en_us@ub
+  title = "new article"
+  body = file("zendesk/translations/guide/brands/BrandAForGuide/categories/General/sections/NewSection/articles/new_article/translations/45b3584659_new_article")
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.BrandAForGuide
+  _parent = [
+    zendesk.article.instance.new_article_NewSection_General_BrandAForGuide@suuu,
+  ]
+  _alias = "en-us - new article"
+}

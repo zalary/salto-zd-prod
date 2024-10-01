@@ -1,0 +1,12 @@
+zendesk.article_attachment incident_14689_fundraise_fundraise_Salto_suuu__nacl_png_true@uuuumuuvu {
+  file_name = "nacl.png"
+  locale = "en-us"
+  content_type = "image/png"
+  inline = true
+  brand = zendesk.brand.instance.Salto
+  content = file("zendesk/article_attachments/guide/brands/Salto/categories/fundraise/sections/fundraise/articles/incident_14689/article_attachment/nacl/52228ce2b5_ec8e79c0d7_nacl.png")
+  _parent = [
+    zendesk.article.instance.incident_14689_fundraise_fundraise_Salto@suuu,
+  ]
+  _alias = "nacl.png - incident 14689"
+}

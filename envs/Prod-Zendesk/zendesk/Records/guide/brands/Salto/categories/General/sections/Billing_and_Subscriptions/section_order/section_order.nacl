@@ -1,0 +1,7 @@
+zendesk.section_order Billing_and_Subscriptions_General_Salto_ssuu@uuuum {
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.section.instance.Billing_and_Subscriptions_General_Salto@ssuu,
+  ]
+  _alias = "Billing and Subscriptions Section Order"
+}

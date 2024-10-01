@@ -1,0 +1,13 @@
+zendesk.article_translation What_is_DevOps_Everything_about_DevOps_General_Salto_ssuu_ssuuuuum__Salto_en_us_ub@uuuuuuuumuuuum {
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  title = "What is DevOps"
+  body = file("zendesk/translations/guide/brands/Salto/categories/General/sections/Everything_about_DevOps/articles/What_is_DevOps/translations/30cc5679ab_What_is_DevOps")
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.article.instance.What_is_DevOps_Everything_about_DevOps_General_Salto_ssuu@ssuuuuum,
+  ]
+  _alias = "en-us - What is DevOps"
+}

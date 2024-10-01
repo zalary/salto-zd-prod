@@ -1,0 +1,13 @@
+zendesk.section FAQ_General_anotherBrand___Eden_test_sbss_uuuuum@uuuuuuum {
+  category_id = zendesk.category.instance.General_anotherBrand___Eden_test_sbss@uuuuum
+  sorting = "manual"
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  outdated = false
+  theme_template = "section_page"
+  translations = [
+    zendesk.section_translation.instance.FAQ_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuumuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _alias = "FAQ"
+}

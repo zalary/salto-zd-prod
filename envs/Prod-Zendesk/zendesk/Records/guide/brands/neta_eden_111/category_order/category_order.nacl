@@ -1,0 +1,10 @@
+zendesk.category_order neta_eden_111 {
+  categories = [
+    zendesk.category.instance.General_neta_eden_111,
+  ]
+  brand = zendesk.brand.instance.neta_eden_111
+  _parent = [
+    zendesk.brand.instance.neta_eden_111,
+  ]
+  _alias = "neta_eden_111 Category Order"
+}

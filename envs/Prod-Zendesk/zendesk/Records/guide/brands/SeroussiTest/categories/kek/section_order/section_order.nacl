@@ -1,0 +1,10 @@
+zendesk.section_order kek_SeroussiTest {
+  sections = [
+    zendesk.section.instance.i_am_a_lil_section_kek_SeroussiTest@ssssuu,
+  ]
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.category.instance.kek_SeroussiTest,
+  ]
+  _alias = "kek Section Order"
+}

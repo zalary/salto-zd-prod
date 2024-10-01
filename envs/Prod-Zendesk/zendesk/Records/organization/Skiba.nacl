@@ -1,0 +1,5 @@
+zendesk.organization Skiba {
+  name = "Skiba"
+  shared_tickets = false
+  shared_comments = false
+}

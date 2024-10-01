@@ -1,0 +1,7 @@
+zendesk.section_order aa__bb_nms_test_b_vvuum@uuuuum {
+  brand = zendesk.brand.instance.nms_test@b
+  _parent = [
+    zendesk.category.instance.aa__bb_nms_test_b@vvuum,
+  ]
+  _alias = "aa..bb Section Order"
+}

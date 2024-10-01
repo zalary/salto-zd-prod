@@ -1,0 +1,6 @@
+zendesk.guide_language_settings SeroussiTest_he_il@ub {
+  locale = "he-il"
+  name = "Hebrew"
+  brand = zendesk.brand.instance.SeroussiTest
+  _alias = "SeroussiTest he-il language settings"
+}

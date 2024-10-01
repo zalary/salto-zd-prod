@@ -1,0 +1,6 @@
+zendesk.guide_language_settings SeroussiTest_ar {
+  locale = "ar"
+  name = "Arabic"
+  brand = zendesk.brand.instance.SeroussiTest
+  _alias = "SeroussiTest ar language settings"
+}

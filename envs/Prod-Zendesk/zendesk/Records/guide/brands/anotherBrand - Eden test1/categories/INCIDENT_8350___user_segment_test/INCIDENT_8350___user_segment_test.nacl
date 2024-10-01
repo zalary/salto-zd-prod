@@ -1,0 +1,10 @@
+zendesk.category INCIDENT_8350___user_segment_test_anotherBrand___Eden_test_sbss@bsbsssuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  outdated = false
+  translations = [
+    zendesk.category_translation.instance.INCIDENT_8350___user_segment_test_anotherBrand___Eden_test_sbss_bsbsssuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuumuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _alias = "INCIDENT-8350 - user segment test"
+}

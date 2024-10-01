@@ -1,0 +1,7 @@
+zendesk.section_order french_category_SeroussiTest_su@uum {
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.category.instance.french_category_SeroussiTest@su,
+  ]
+  _alias = "french category Section Order"
+}

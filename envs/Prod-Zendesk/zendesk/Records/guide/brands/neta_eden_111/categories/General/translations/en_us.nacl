@@ -1,0 +1,12 @@
+zendesk.category_translation General_neta_eden_111__neta_eden_111_en_us_uuub@uuuuuuuuum {
+  locale = zendesk.guide_language_settings.instance.neta_eden_111_en_us@uuub
+  title = "General"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.neta_eden_111
+  _parent = [
+    zendesk.category.instance.General_neta_eden_111,
+  ]
+  _alias = "en-us - General"
+}

@@ -1,0 +1,14 @@
+zendesk.article_order test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@uuuuuuuuuum {
+  articles = [
+    zendesk.article.instance.path_test_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@suuuuuuuuuuum,
+    zendesk.article.instance.recreate_bug_2_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@ssuuuuuuuuuuum,
+    zendesk.article.instance.recreate_bug_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@suuuuuuuuuuum,
+    zendesk.article.instance.test_modification___now_it_is_modified_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@ssbssssuuuuuuuuuuum,
+    zendesk.article.instance.with_translation_and_attachment_modification_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@ssssuuuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.section.instance.test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum@suuuuuuuum,
+  ]
+  _alias = "test1 section Article Order"
+}

@@ -1,0 +1,22 @@
+zendesk.article user_segment_ids_test_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@sssuuuuuuuuum {
+  author_id = "zendesk-adapter@salto.io"
+  comments_disabled = false
+  draft = true
+  promoted = false
+  section_id = zendesk.section.instance.b_a_anotherBrand___Eden_test_sbss_uuuuum@uuuuuuum
+  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  outdated = false
+  user_segment_id = zendesk.user_segment.instance.Agents_and_admins@s
+  permission_group_id = zendesk.permission_group.instance.Admins
+  translations = [
+    zendesk.article_translation.instance.user_segment_ids_test_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum_sssuuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuuumuuuuuuuuum,
+  ]
+  user_segment_ids = [
+    zendesk.user_segment.instance.Agents_and_admins@s,
+    zendesk.user_segment.instance.DevOps_Experts_Segment@s,
+    zendesk.user_segment.instance.test_err@s,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _alias = "user segment ids test"
+}

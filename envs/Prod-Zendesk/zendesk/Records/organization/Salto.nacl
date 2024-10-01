@@ -1,0 +1,11 @@
+zendesk.organization Salto {
+  name = "Salto"
+  shared_tickets = false
+  shared_comments = false
+  tags = [
+    "option2",
+  ]
+  organization_fields = {
+    another_drop_down = "option2"
+  }
+}

@@ -1,0 +1,12 @@
+zendesk.section_translation article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum_ssuuuuuuuum__anotherBrand___Eden_test_sbss_he_uuuumu@uuuuuuuuuuumuuuuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_he@uuuumu
+  title = "article test section"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.section.instance.article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum@ssuuuuuuuum,
+  ]
+  _alias = "he - article test section2"
+}

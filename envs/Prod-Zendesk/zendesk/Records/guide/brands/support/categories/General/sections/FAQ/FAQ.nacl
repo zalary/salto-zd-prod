@@ -1,0 +1,13 @@
+zendesk.section FAQ_General_support {
+  category_id = zendesk.category.instance.General_support
+  sorting = "manual"
+  locale = zendesk.guide_language_settings.instance.support_en_us@ub
+  source_locale = zendesk.guide_language_settings.instance.support_en_us@ub
+  outdated = false
+  theme_template = "section_page"
+  translations = [
+    zendesk.section_translation.instance.FAQ_General_support__support_en_us_ub@uuuuuum,
+  ]
+  brand = zendesk.brand.instance.support
+  _alias = "FAQ"
+}

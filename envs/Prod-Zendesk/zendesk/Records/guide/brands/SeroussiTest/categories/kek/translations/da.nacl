@@ -1,0 +1,13 @@
+zendesk.category_translation kek_SeroussiTest__SeroussiTest_da {
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_da
+  title = "asd"
+  body = "asd"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.category.instance.kek_SeroussiTest,
+  ]
+  _alias = "da - kek"
+}

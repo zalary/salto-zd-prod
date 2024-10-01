@@ -1,0 +1,11 @@
+zendesk.article_order NewSection_General_BrandAForGuide {
+  articles = [
+    zendesk.article.instance.article_with_refs_2_NewSection_General_BrandAForGuide@sssuuu,
+    zendesk.article.instance.new_article_NewSection_General_BrandAForGuide@suuu,
+  ]
+  brand = zendesk.brand.instance.BrandAForGuide
+  _parent = [
+    zendesk.section.instance.NewSection_General_BrandAForGuide,
+  ]
+  _alias = "NewSection Article Order"
+}

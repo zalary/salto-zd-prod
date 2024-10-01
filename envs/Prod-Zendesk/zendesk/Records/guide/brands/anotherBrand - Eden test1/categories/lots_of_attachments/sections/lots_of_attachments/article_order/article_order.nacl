@@ -1,0 +1,10 @@
+zendesk.article_order lots_of_attachments_lots_of_attachments_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum@uuuuuuuuuuuum {
+  articles = [
+    zendesk.article.instance.bla_lots_of_attachments_lots_of_attachments_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum@uuuuuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.section.instance.lots_of_attachments_lots_of_attachments_anotherBrand___Eden_test_sbss_ssuuuuum@ssuuuuuuuuum,
+  ]
+  _alias = "lots of attachments Article Order"
+}

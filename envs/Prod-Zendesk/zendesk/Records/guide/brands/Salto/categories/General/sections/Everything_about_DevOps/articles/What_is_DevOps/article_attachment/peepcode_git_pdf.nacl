@@ -1,0 +1,11 @@
+zendesk.article_attachment What_is_DevOps_Everything_about_DevOps_General_Salto_ssuu_ssuuuuum__peepcode_git_pdf_false@uuuuuuuumuubvu {
+  file_name = "peepcode-git.pdf"
+  content_type = "application/pdf"
+  inline = false
+  brand = zendesk.brand.instance.Salto
+  content = file("zendesk/article_attachments/guide/brands/Salto/categories/General/sections/Everything_about_DevOps/articles/What_is_DevOps/article_attachment/peepcode-git/927ea613e5_7a9de8b2aa_peepcode-git.pdf")
+  _parent = [
+    zendesk.article.instance.What_is_DevOps_Everything_about_DevOps_General_Salto_ssuu@ssuuuuum,
+  ]
+  _alias = "peepcode-git.pdf - What is DevOps"
+}

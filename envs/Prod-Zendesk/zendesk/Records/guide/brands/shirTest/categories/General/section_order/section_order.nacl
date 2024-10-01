@@ -1,0 +1,11 @@
+zendesk.section_order General_shirTest {
+  sections = [
+    zendesk.section.instance.Announcements_General_shirTest,
+    zendesk.section.instance.FAQ_General_shirTest,
+  ]
+  brand = zendesk.brand.instance.shirTest
+  _parent = [
+    zendesk.category.instance.General_shirTest,
+  ]
+  _alias = "General Section Order"
+}

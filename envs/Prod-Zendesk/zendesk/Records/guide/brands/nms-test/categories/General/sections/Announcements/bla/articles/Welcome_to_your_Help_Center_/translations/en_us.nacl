@@ -1,0 +1,13 @@
+zendesk.article_translation Welcome_to_your_Help_Center__bla_Announcements_General_nms_test_b_uum_uuuum_uuuuuum_ssssluuuuuuuum__nms_test_b_en_us_umub@uuuuuuuuuuuuuumuuuuuum {
+  locale = zendesk.guide_language_settings.instance.nms_test_b_en_us@umub
+  title = "Welcome to your Help Center!"
+  body = file("zendesk/translations/guide/brands/nms-test/categories/General/sections/Announcements/bla/articles/Welcome_to_your_Help_Center_/translations/d041164a89_Welcome_to_your_Help_Center_")
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.nms_test@b
+  _parent = [
+    zendesk.article.instance.Welcome_to_your_Help_Center__bla_Announcements_General_nms_test_b_uum_uuuum_uuuuuum@ssssluuuuuuuum,
+  ]
+  _alias = "en-us - Welcome to your Help Center!"
+}

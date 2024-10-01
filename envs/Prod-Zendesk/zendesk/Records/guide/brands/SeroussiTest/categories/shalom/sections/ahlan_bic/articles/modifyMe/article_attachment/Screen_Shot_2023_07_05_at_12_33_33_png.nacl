@@ -1,0 +1,11 @@
+zendesk.article_attachment modifyMe_ahlan_bic_shalom_SeroussiTest_suu_uuuum__Screen_Shot_2023_07_05_at_12_33_33_png_false@uuuuumuuuubbuuvvvu {
+  file_name = "Screen_Shot_2023-07-05_at_12.33.33.png"
+  content_type = "image/png"
+  inline = false
+  brand = zendesk.brand.instance.SeroussiTest
+  content = file("zendesk/article_attachments/guide/brands/SeroussiTest/categories/shalom/sections/ahlan_bic/articles/modifyMe/article_attachment/Screen_Shot_2023-07-05_at_12/9fff14612f_f6a7923aba_Screen_Shot_2023-07-05_at_12.33.33.png")
+  _parent = [
+    zendesk.article.instance.modifyMe_ahlan_bic_shalom_SeroussiTest_suu@uuuum,
+  ]
+  _alias = "Screen_Shot_2023-07-05_at_12.33.33.png - modifyMe"
+}

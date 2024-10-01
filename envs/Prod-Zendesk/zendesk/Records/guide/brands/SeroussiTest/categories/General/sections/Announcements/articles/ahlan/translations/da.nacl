@@ -1,0 +1,13 @@
+zendesk.article_translation ahlan_Announcements_General_SeroussiTest__SeroussiTest_da {
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_da
+  title = "fur helvede"
+  body = file("zendesk/translations/guide/brands/SeroussiTest/categories/General/sections/Announcements/articles/ahlan/translations/7d417cfafb_fur_helvede")
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.article.instance.ahlan_Announcements_General_SeroussiTest,
+  ]
+  _alias = "da - ahlan"
+}

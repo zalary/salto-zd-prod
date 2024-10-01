@@ -1,0 +1,5 @@
+zendesk.organization Eden_test2@s {
+  name = "Eden test2"
+  shared_tickets = false
+  shared_comments = false
+}

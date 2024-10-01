@@ -1,0 +1,21 @@
+zendesk.article ___3_Announcements_General_Salto@_01488_01489_01490uuu {
+  author_id = "zendesk-adapter@salto.io"
+  comments_disabled = false
+  draft = false
+  promoted = false
+  section_id = zendesk.section.instance.Announcements_General_Salto
+  source_locale = zendesk.guide_language_settings.instance.Salto_he
+  locale = zendesk.guide_language_settings.instance.Salto_he
+  outdated = false
+  permission_group_id = zendesk.permission_group.instance.Admins
+  translations = [
+    zendesk.article_translation.instance.___3_Announcements_General_Salto__01488_01489_01490uuu__Salto_en_us_ub@uuuuuumuuuuuuum,
+    zendesk.article_translation.instance.___3_Announcements_General_Salto__01488_01489_01490uuu__Salto_he@uuuuuumuuuuuu,
+  ]
+  label_names = [
+    "noam",
+  ]
+  brand = zendesk.brand.instance.Salto
+  user_segment_id = zendesk.user_segment.instance.Everyone
+  _alias = "אבג3"
+}

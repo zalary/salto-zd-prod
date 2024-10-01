@@ -1,0 +1,8 @@
+zendesk.permission_group test_err_permission@s {
+  name = "test err permission"
+  built_in = false
+  edit = [
+    zendesk.user_segment.instance.test_err@s,
+  ]
+  _alias = "test err permission"
+}

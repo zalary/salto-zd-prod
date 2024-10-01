@@ -1,0 +1,12 @@
+zendesk.article_translation Untitled_b1_a1_neta_test_Salto_bu_uuum_uuuuum_uuuuuuum__Salto_en_us_ub@uuuuuuuumuuuum {
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  title = "Untitled"
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.article.instance.Untitled_b1_a1_neta_test_Salto_bu_uuum_uuuuum@uuuuuuum,
+  ]
+  _alias = "en-us - Untitled"
+}

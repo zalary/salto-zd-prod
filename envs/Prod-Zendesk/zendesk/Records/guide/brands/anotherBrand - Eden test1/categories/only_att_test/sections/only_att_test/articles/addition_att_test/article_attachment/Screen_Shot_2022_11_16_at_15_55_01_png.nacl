@@ -1,0 +1,11 @@
+zendesk.article_attachment addition_att_test_only_att_test_only_att_test_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum_ssuuuuuuuuuuuuum__Screen_Shot_2022_11_16_at_15_55_01_png_false@uuuuuuuuuuuuuuuumuuuubbuuvvvu {
+  file_name = "Screen_Shot_2022-11-16_at_15.55.01.png"
+  content_type = "image/png"
+  inline = false
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test1/categories/only_att_test/sections/only_att_test/articles/addition_att_test/article_attachment/Screen_Shot_2022-11-16_at_15/244c5e0995_946ad7efe2_Screen_Shot_2022-11-16_at_15.55.01.png")
+  _parent = [
+    zendesk.article.instance.addition_att_test_only_att_test_only_att_test_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum@ssuuuuuuuuuuuuum,
+  ]
+  _alias = "Screen_Shot_2022-11-16_at_15.55.01.png - addition att test"
+}

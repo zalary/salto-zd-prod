@@ -1,0 +1,6 @@
+zendesk.guide_language_settings BrandAForGuide_he {
+  locale = "he"
+  name = "heBrandForGuide"
+  brand = zendesk.brand.instance.BrandAForGuide
+  _alias = "BrandAForGuide he language settings"
+}

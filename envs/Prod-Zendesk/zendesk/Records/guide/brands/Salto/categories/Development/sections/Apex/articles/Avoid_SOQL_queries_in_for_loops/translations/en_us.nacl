@@ -1,0 +1,13 @@
+zendesk.article_translation Avoid_SOQL_queries_in_for_loops_Apex_Development_Salto_sssssuuu__Salto_en_us_ub@uuuuuuuumuuuum {
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  title = "Avoid SOQL queries in for loops"
+  body = file("zendesk/translations/guide/brands/Salto/categories/Development/sections/Apex/articles/Avoid_SOQL_queries_in_for_loops/translations/872d02cc6e_Avoid_SOQL_queries_in_for_loops")
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.article.instance.Avoid_SOQL_queries_in_for_loops_Apex_Development_Salto@sssssuuu,
+  ]
+  _alias = "en-us - Avoid SOQL queries in for loops"
+}

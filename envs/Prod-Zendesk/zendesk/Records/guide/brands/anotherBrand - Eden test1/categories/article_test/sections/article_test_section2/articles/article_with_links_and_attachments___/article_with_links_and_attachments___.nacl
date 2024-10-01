@@ -1,0 +1,26 @@
+zendesk.article article_with_links_and_attachments____article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum_ssuuuuuuuum@ssssllluuuuuuuuuuuum {
+  author_id = "zendesk-adapter@salto.io"
+  comments_disabled = false
+  draft = false
+  promoted = false
+  section_id = zendesk.section.instance.article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum@ssuuuuuuuum
+  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  outdated = false
+  user_segment_id = zendesk.user_segment.instance.Agents_and_admins@s
+  permission_group_id = zendesk.permission_group.instance.Admins
+  translations = [
+    zendesk.article_translation.instance.article_with_links_and_attachments____article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum_ssuuuuuuuum_ssssllluuuuuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuuuuuuuuuumuuuuuuuuum,
+  ]
+  label_names = [
+    "three",
+  ]
+  user_segment_ids = [
+    zendesk.user_segment.instance.Agents_and_admins@s,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  attachments = [
+    zendesk.article_attachment.instance.article_with_links_and_attachments____article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum_ssuuuuuuuum_ssssllluuuuuuuuuuuum__nacl_png_true@uuuuuuuuuuuuuuuuuuuumuuvu,
+  ]
+  _alias = "article with links and attachments!!!"
+}

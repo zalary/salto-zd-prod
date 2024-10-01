@@ -1,0 +1,16 @@
+zendesk.article_translation with_translation_and_attachment_modification_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum_ssssuuuuuuuuuuum__anotherBrand___Eden_test_sbss_he_uuuumu@uuuuuuuuuuuuuuuumuuuuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_he@uuuumu
+  title = "זה התרגום עם שינוי"
+  body = file(
+    "zendesk/translations/guide/brands/anotherBrand - Eden test1/categories/test1_category/sections/test1_section/articles/with_translation_and_attachment_modification/translations/87375bd31d___________________",
+    "template",
+  )
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.article.instance.with_translation_and_attachment_modification_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@ssssuuuuuuuuuuum,
+  ]
+  _alias = "he - with translation and attachment modification"
+}

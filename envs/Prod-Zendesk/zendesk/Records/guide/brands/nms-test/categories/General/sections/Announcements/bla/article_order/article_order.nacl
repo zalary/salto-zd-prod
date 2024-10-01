@@ -1,0 +1,10 @@
+zendesk.article_order bla_Announcements_General_nms_test_b_uum_uuuum_uuuuuum@uuuuuuum {
+  articles = [
+    zendesk.article.instance.Welcome_to_your_Help_Center__bla_Announcements_General_nms_test_b_uum_uuuum_uuuuuum@ssssluuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.nms_test@b
+  _parent = [
+    zendesk.section.instance.bla_Announcements_General_nms_test_b_uum_uuuum@uuuuuum,
+  ]
+  _alias = "bla Article Order"
+}

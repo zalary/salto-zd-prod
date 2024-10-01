@@ -1,0 +1,11 @@
+zendesk.article_order Internal_KB_General_Salto_suu@uuum {
+  articles = [
+    zendesk.article.instance.Tier_3_Article_Template___Apex_Internal_KB_General_Salto_suu@ssssbsuuuum,
+    zendesk.article.instance.Updating_payment_method_Internal_KB_General_Salto_suu@ssuuuum,
+  ]
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.section.instance.Internal_KB_General_Salto@suu,
+  ]
+  _alias = "Internal KB Article Order"
+}

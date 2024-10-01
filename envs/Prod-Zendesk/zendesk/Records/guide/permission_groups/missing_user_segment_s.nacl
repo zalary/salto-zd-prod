@@ -1,0 +1,8 @@
+zendesk.permission_group missing_user_segment@s {
+  name = "missing user segment"
+  built_in = false
+  edit = [
+    30649408268179,
+  ]
+  _alias = "missing user segment"
+}

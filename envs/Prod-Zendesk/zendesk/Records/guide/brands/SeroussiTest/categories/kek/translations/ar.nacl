@@ -1,0 +1,13 @@
+zendesk.category_translation kek_SeroussiTest__SeroussiTest_ar {
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_ar
+  title = "blub"
+  body = "ahlan!"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.category.instance.kek_SeroussiTest,
+  ]
+  _alias = "ar - kek"
+}

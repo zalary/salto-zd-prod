@@ -1,0 +1,10 @@
+zendesk.category_order support {
+  categories = [
+    zendesk.category.instance.General_support,
+  ]
+  brand = zendesk.brand.instance.support
+  _parent = [
+    zendesk.brand.instance.support,
+  ]
+  _alias = "support Category Order"
+}

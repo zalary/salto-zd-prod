@@ -1,0 +1,12 @@
+zendesk.category_translation aa__bb_nms_test_b_vvuum__nms_test_b_en_us_umub@uuuuumuuuuuum {
+  locale = zendesk.guide_language_settings.instance.nms_test_b_en_us@umub
+  title = "aa..bb"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.nms_test@b
+  _parent = [
+    zendesk.category.instance.aa__bb_nms_test_b@vvuum,
+  ]
+  _alias = "en-us - aa..bb"
+}

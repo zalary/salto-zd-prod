@@ -1,0 +1,11 @@
+zendesk.section_order neta_test_Salto_bu@uum {
+  sections = [
+    zendesk.section.instance.neta_test_neta_test_Salto_bu@duuum,
+    zendesk.section.instance.a1_neta_test_Salto_bu@uuum,
+  ]
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.category.instance.neta_test_Salto@bu,
+  ]
+  _alias = "neta-test Section Order"
+}

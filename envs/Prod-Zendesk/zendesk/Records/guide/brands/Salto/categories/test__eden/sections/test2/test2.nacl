@@ -1,0 +1,14 @@
+zendesk.section test2_test__eden_Salto_bsu@uuuum {
+  category_id = zendesk.category.instance.test__eden_Salto@bsu
+  sorting = "creation_desc"
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  source_locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  outdated = false
+  theme_template = "section_page"
+  translations = [
+    zendesk.section_translation.instance.test2_test__eden_Salto_bsu_uuuum__Salto_en_us_ub@uuuuumuuuum,
+    zendesk.section_translation.instance.test2_test__eden_Salto_bsu_uuuum__Salto_he@uuuuumuuu,
+  ]
+  brand = zendesk.brand.instance.Salto
+  _alias = "test2"
+}

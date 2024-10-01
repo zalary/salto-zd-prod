@@ -1,0 +1,14 @@
+zendesk.section ahlan_bic_shalom_SeroussiTest@suu {
+  category_id = zendesk.category.instance.shalom_SeroussiTest
+  sorting = "manual"
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_en_us@ub
+  source_locale = zendesk.guide_language_settings.instance.SeroussiTest_en_us@ub
+  outdated = false
+  theme_template = "section_page"
+  translations = [
+    zendesk.section_translation.instance.ahlan_bic_shalom_SeroussiTest_suu__SeroussiTest_ar@uuumuuu,
+    zendesk.section_translation.instance.ahlan_bic_shalom_SeroussiTest_suu__SeroussiTest_en_us_ub@uuumuuuum,
+  ]
+  brand = zendesk.brand.instance.SeroussiTest
+  _alias = "ahlan bic"
+}

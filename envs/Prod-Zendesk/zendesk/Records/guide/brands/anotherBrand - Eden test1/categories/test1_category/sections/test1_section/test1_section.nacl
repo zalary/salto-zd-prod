@@ -1,0 +1,13 @@
+zendesk.section test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum@suuuuuuuum {
+  category_id = zendesk.category.instance.test1_category_anotherBrand___Eden_test_sbss@suuuuum
+  sorting = "manual"
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  outdated = false
+  theme_template = "section_page"
+  translations = [
+    zendesk.section_translation.instance.test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuumuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _alias = "test1 section"
+}

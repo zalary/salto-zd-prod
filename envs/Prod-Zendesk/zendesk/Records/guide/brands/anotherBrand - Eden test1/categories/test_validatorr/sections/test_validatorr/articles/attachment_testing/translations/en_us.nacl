@@ -1,0 +1,16 @@
+zendesk.article_translation attachment_testing_test_validatorr_test_validatorr_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum_suuuuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuuumuuuuuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  title = "attachment testing"
+  body = file(
+    "zendesk/translations/guide/brands/anotherBrand - Eden test1/categories/test_validatorr/sections/test_validatorr/articles/attachment_testing/translations/95e2ba3bb8_attachment_testing",
+    "template",
+  )
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.article.instance.attachment_testing_test_validatorr_test_validatorr_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@suuuuuuuuuuum,
+  ]
+  _alias = "en-us - attachment testing"
+}

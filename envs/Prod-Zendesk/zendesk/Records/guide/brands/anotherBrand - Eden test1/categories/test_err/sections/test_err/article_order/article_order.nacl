@@ -1,0 +1,10 @@
+zendesk.article_order test_err_test_err_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@uuuuuuuuuum {
+  articles = [
+    zendesk.article.instance.static_file_test5_test_err_test_err_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@ssuuuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.section.instance.test_err_test_err_anotherBrand___Eden_test_sbss_suuuuum@suuuuuuuum,
+  ]
+  _alias = "test err Article Order"
+}

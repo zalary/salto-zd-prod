@@ -1,0 +1,10 @@
+zendesk.section_order shalom_SeroussiTest {
+  sections = [
+    zendesk.section.instance.ahlan_bic_shalom_SeroussiTest@suu,
+  ]
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.category.instance.shalom_SeroussiTest,
+  ]
+  _alias = "shalom Section Order"
+}

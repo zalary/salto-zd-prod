@@ -1,0 +1,17 @@
+zendesk.article Welcome_to_your_Help_Center__Announcements_General_neta_eden_111@ssssluuuuu {
+  author_id = "neta.marcus@salto.io"
+  comments_disabled = false
+  draft = false
+  promoted = false
+  section_id = zendesk.section.instance.Announcements_General_neta_eden_111
+  source_locale = zendesk.guide_language_settings.instance.neta_eden_111_en_us@uuub
+  locale = zendesk.guide_language_settings.instance.neta_eden_111_en_us@uuub
+  outdated = false
+  permission_group_id = zendesk.permission_group.instance.Admins
+  translations = [
+    zendesk.article_translation.instance.Welcome_to_your_Help_Center__Announcements_General_neta_eden_111_ssssluuuuu__neta_eden_111_en_us_uuub@uuuuuuuuuumuuuuuum,
+  ]
+  brand = zendesk.brand.instance.neta_eden_111
+  user_segment_id = zendesk.user_segment.instance.Everyone
+  _alias = "Welcome to your Help Center!"
+}

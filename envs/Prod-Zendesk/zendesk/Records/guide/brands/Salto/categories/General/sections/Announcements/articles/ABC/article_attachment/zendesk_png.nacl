@@ -1,0 +1,11 @@
+zendesk.article_attachment ABC_Announcements_General_Salto__zendesk_png_false@uuuuuvu {
+  file_name = "zendesk.png"
+  content_type = "image/png"
+  inline = false
+  brand = zendesk.brand.instance.Salto
+  content = file("zendesk/article_attachments/guide/brands/Salto/categories/General/sections/Announcements/articles/ABC/article_attachment/zendesk/2fb7ae66f3_1a371c42d2_zendesk.png")
+  _parent = [
+    zendesk.article.instance.ABC_Announcements_General_Salto,
+  ]
+  _alias = "zendesk.png - ABC"
+}

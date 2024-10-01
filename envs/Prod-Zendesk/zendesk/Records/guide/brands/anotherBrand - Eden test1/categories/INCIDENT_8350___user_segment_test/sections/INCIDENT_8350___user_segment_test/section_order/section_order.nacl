@@ -1,0 +1,7 @@
+zendesk.section_order INCIDENT_8350___user_segment_test_INCIDENT_8350___user_segment_test_anotherBrand___Eden_test_sbss_bsbsssuuuuum_bsbsssuuuuuuuuuuuuum@uuuuuuuuuuuuuuuuuuuum {
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.section.instance.INCIDENT_8350___user_segment_test_INCIDENT_8350___user_segment_test_anotherBrand___Eden_test_sbss_bsbsssuuuuum@bsbsssuuuuuuuuuuuuum,
+  ]
+  _alias = "INCIDENT-8350 - user segment test Section Order"
+}

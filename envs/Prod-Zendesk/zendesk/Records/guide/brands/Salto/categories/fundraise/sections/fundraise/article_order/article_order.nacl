@@ -1,0 +1,11 @@
+zendesk.article_order fundraise_fundraise_Salto {
+  articles = [
+    zendesk.article.instance.incident_14689_fundraise_fundraise_Salto@suuu,
+    zendesk.article.instance.fundraising_fundraise_fundraise_Salto,
+  ]
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.section.instance.fundraise_fundraise_Salto,
+  ]
+  _alias = "fundraise Article Order"
+}

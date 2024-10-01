@@ -1,0 +1,17 @@
+zendesk.article What_are_these_sections_and_articles_doing_here__FAQ_General_TomerBrand@sssssssauuu {
+  author_id = "gil.hoffer@salto.io"
+  comments_disabled = false
+  draft = false
+  promoted = false
+  section_id = zendesk.section.instance.FAQ_General_TomerBrand
+  source_locale = zendesk.guide_language_settings.instance.TomerBrand_en_us@ub
+  locale = zendesk.guide_language_settings.instance.TomerBrand_en_us@ub
+  outdated = false
+  permission_group_id = zendesk.permission_group.instance.Admins
+  translations = [
+    zendesk.article_translation.instance.What_are_these_sections_and_articles_doing_here__FAQ_General_TomerBrand_sssssssauuu__TomerBrand_en_us_ub@uuuuuuuuuuumuuuum,
+  ]
+  brand = zendesk.brand.instance.TomerBrand
+  user_segment_id = zendesk.user_segment.instance.Everyone
+  _alias = "What are these sections and articles doing here?"
+}

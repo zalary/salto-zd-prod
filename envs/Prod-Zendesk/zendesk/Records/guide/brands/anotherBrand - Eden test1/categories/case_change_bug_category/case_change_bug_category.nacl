@@ -1,0 +1,10 @@
+zendesk.category case_change_bug_category_anotherBrand___Eden_test_sbss@sssuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  outdated = false
+  translations = [
+    zendesk.category_translation.instance.case_change_bug_category_anotherBrand___Eden_test_sbss_sssuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuumuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _alias = "case change bug category"
+}

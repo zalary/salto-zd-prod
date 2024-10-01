@@ -1,0 +1,6 @@
+zendesk.guide_language_settings nms_test_b_en_us@umub {
+  locale = "en-us"
+  name = "nms-test"
+  brand = zendesk.brand.instance.nms_test@b
+  _alias = "nms-test en-us language settings"
+}

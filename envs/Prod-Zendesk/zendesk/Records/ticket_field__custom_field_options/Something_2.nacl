@@ -1,0 +1,18 @@
+zendesk.ticket_field__custom_field_options Must_Select_From_Here_multiselect_sssu__eshed_something_2@uuuumuuuu {
+  
+  raw_name = "Something#2"
+  value = "eshed_something_2"
+  _parent = [
+    zendesk.ticket_field.instance.Must_Select_From_Here_multiselect@sssu,
+  ]
+  _alias = "Something#2"
+}
+zendesk.ticket_field__custom_field_options _eshed__test__drop_down_tagger_hihisbu___eshed_something_2@uuuuuuumuuuuu {
+  
+  raw_name = "something_2"
+  value = "_eshed_something_2"
+  _parent = [
+    zendesk.ticket_field.instance._eshed__test__drop_down_tagger@hihisbu,
+  ]
+  _alias = "something_2"
+}

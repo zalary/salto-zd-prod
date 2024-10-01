@@ -1,0 +1,12 @@
+zendesk.article_translation deletion_of_attachment_article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum_ssuuuuuuuum_ssuuuuuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuuuuumuuuuuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  title = "deletion of attachment"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.article.instance.deletion_of_attachment_article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum_ssuuuuuuuum@ssuuuuuuuuuuuum,
+  ]
+  _alias = "en-us - deletion of attachment"
+}

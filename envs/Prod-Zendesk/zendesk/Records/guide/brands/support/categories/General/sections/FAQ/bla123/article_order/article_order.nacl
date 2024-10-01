@@ -1,0 +1,7 @@
+zendesk.article_order bla123_FAQ_General_support {
+  brand = zendesk.brand.instance.support
+  _parent = [
+    zendesk.section.instance.bla123_FAQ_General_support,
+  ]
+  _alias = "bla123 Article Order"
+}

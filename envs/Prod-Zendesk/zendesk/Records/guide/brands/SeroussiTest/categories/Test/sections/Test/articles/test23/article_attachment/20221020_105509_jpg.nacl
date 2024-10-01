@@ -1,0 +1,11 @@
+zendesk.article_attachment test23_Test_Test_SeroussiTest__20221020_105509_jpg_false@uuuuuuvu {
+  file_name = "20221020_105509.jpg"
+  content_type = "image/jpeg"
+  inline = false
+  brand = zendesk.brand.instance.SeroussiTest
+  content = file("zendesk/article_attachments/guide/brands/SeroussiTest/categories/Test/sections/Test/articles/test23/article_attachment/20221020_105509/075fdcb42a_344fdae51f_20221020_105509.jpg")
+  _parent = [
+    zendesk.article.instance.test23_Test_Test_SeroussiTest,
+  ]
+  _alias = "20221020_105509.jpg - test23"
+}

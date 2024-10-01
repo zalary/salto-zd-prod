@@ -1,0 +1,12 @@
+zendesk.article_translation test_space2_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum_suuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuumuuuuuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  title = "test space2"
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.article.instance.test_space2_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@suuuuuuuuum,
+  ]
+  _alias = "en-us - test space2"
+}

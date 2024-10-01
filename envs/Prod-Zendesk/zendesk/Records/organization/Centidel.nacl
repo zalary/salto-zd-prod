@@ -1,0 +1,5 @@
+zendesk.organization Centidel {
+  name = "Centidel"
+  shared_tickets = false
+  shared_comments = false
+}

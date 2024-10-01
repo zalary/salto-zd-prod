@@ -1,0 +1,5 @@
+zendesk.organization Oyoloo {
+  name = "Oyoloo"
+  shared_tickets = false
+  shared_comments = false
+}

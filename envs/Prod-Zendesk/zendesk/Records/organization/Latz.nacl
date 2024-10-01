@@ -1,0 +1,5 @@
+zendesk.organization Latz {
+  name = "Latz"
+  shared_tickets = false
+  shared_comments = false
+}

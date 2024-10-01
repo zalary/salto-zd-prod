@@ -1,0 +1,6 @@
+zendesk.guide_language_settings SeroussiTest_de {
+  locale = "de"
+  name = "german"
+  brand = zendesk.brand.instance.SeroussiTest
+  _alias = "SeroussiTest de language settings"
+}

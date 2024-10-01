@@ -1,0 +1,3 @@
+<p>You can execute a maximum of 100 SOQL queries per Apex transaction.</p>
+<p>To avoid hitting this limit, do not use SOQL queries inside for loops</p>
+<p> </p>

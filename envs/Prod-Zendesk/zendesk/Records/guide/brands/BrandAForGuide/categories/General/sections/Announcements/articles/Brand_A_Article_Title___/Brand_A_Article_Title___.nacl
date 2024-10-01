@@ -1,0 +1,24 @@
+zendesk.article Brand_A_Article_Title____Announcements_General_BrandAForGuide@sssllluuu {
+  author_id = "zendesk-adapter@salto.io"
+  comments_disabled = false
+  draft = false
+  promoted = false
+  section_id = zendesk.section.instance.Announcements_General_BrandAForGuide
+  source_locale = zendesk.guide_language_settings.instance.BrandAForGuide_en_us@ub
+  locale = zendesk.guide_language_settings.instance.BrandAForGuide_en_us@ub
+  outdated = false
+  user_segment_id = zendesk.user_segment.instance.Agents_and_admins@s
+  permission_group_id = zendesk.permission_group.instance.Admins
+  translations = [
+    zendesk.article_translation.instance.Brand_A_Article_Title____Announcements_General_BrandAForGuide_sssllluuu__BrandAForGuide_en_us_ub@uuuuuuuuumuuuum,
+  ]
+  label_names = [
+    "articleAlabel",
+    "del",
+  ]
+  user_segment_ids = [
+    zendesk.user_segment.instance.Agents_and_admins@s,
+  ]
+  brand = zendesk.brand.instance.BrandAForGuide
+  _alias = "Brand A Article Title!!!"
+}

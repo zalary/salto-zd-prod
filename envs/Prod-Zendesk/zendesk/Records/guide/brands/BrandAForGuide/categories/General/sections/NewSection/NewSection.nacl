@@ -1,0 +1,13 @@
+zendesk.section NewSection_General_BrandAForGuide {
+  category_id = zendesk.category.instance.General_BrandAForGuide
+  sorting = "manual"
+  locale = zendesk.guide_language_settings.instance.BrandAForGuide_en_us@ub
+  source_locale = zendesk.guide_language_settings.instance.BrandAForGuide_en_us@ub
+  outdated = false
+  theme_template = "section_page"
+  translations = [
+    zendesk.section_translation.instance.NewSection_General_BrandAForGuide__BrandAForGuide_en_us_ub@uuuuuum,
+  ]
+  brand = zendesk.brand.instance.BrandAForGuide
+  _alias = "NewSection"
+}

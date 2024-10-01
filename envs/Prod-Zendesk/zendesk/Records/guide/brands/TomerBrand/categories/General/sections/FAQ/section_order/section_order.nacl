@@ -1,0 +1,7 @@
+zendesk.section_order FAQ_General_TomerBrand {
+  brand = zendesk.brand.instance.TomerBrand
+  _parent = [
+    zendesk.section.instance.FAQ_General_TomerBrand,
+  ]
+  _alias = "FAQ Section Order"
+}

@@ -1,0 +1,10 @@
+zendesk.article_order deleted_attachments_deleted_attachments_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@uuuuuuuuuum {
+  articles = [
+    zendesk.article.instance.deleted_attachments_deleted_attachments_deleted_attachments_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@suuuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.section.instance.deleted_attachments_deleted_attachments_anotherBrand___Eden_test_sbss_suuuuum@suuuuuuuum,
+  ]
+  _alias = "deleted attachments Article Order"
+}

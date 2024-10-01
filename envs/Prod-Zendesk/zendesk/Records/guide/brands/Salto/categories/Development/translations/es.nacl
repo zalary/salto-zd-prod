@@ -1,0 +1,13 @@
+zendesk.category_translation Development_Salto__Salto_es {
+  locale = zendesk.guide_language_settings.instance.Salto_es
+  title = "Desarrollo"
+  body = "Desarrollo con Apex y LWC"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.category.instance.Development_Salto,
+  ]
+  _alias = "es - Development"
+}

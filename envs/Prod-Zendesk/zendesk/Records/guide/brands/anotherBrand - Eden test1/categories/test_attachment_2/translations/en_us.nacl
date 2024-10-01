@@ -1,0 +1,12 @@
+zendesk.category_translation test_attachment_2_anotherBrand___Eden_test_sbss_ssuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuumuuuuuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  title = "test attachment 2"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.category.instance.test_attachment_2_anotherBrand___Eden_test_sbss@ssuuuuum,
+  ]
+  _alias = "en-us - test attachment 2"
+}

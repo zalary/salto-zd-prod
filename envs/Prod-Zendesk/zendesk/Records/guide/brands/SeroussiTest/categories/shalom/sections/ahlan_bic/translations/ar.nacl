@@ -1,0 +1,13 @@
+zendesk.section_translation ahlan_bic_shalom_SeroussiTest_suu__SeroussiTest_ar@uuumuuu {
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_ar
+  title = "ahlan bic"
+  body = "yo yo section"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.section.instance.ahlan_bic_shalom_SeroussiTest@suu,
+  ]
+  _alias = "ar - ahlan bic"
+}

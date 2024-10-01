@@ -1,0 +1,10 @@
+<p>this is a link to an article: ${ zendesk.brand.instance.anotherBrand___Eden_test@sbss }/hc/en-us/articles/${ zendesk.article.instance.Welcome_to_your_Help_Center__Announcements_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@ssssluuuuuuuuum }-Welcome-to-your-Help-Center-</p>
+<p>this is a link to an category: ${ zendesk.brand.instance.anotherBrand___Eden_test@sbss }/hc/en-us/categories/${ zendesk.category.instance.no_articles_anotherBrand___Eden_test_sbss@suuuuum }-no-articles</p>
+<p>this is a link to an section: ${ zendesk.brand.instance.anotherBrand___Eden_test@sbss }/hc/en-us/sections/${ zendesk.section.instance.Announcements_General_anotherBrand___Eden_test_sbss_uuuuum@uuuuuuum }-Announcements</p>
+<p> </p>
+<p>outside:</p>
+<p>youtube: <a href="https://www.youtube.com/">https://www.youtube.com/</a></p>
+<p>ynet: https://www.ynet.co.il/home/0,7340,L-8,00.html</p>
+<p> </p>
+<p> </p>
+<p> </p>

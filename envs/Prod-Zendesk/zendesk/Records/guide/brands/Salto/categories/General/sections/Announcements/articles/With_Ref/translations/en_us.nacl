@@ -1,0 +1,16 @@
+zendesk.article_translation With_Ref_Announcements_General_Salto_suuu__Salto_en_us_ub@uuuumuuuum {
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  title = "With Ref"
+  body = file(
+    "zendesk/translations/guide/brands/Salto/categories/General/sections/Announcements/articles/With_Ref/translations/7b3450333e_With_Ref",
+    "template",
+  )
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.article.instance.With_Ref_Announcements_General_Salto@suuu,
+  ]
+  _alias = "en-us - With Ref"
+}

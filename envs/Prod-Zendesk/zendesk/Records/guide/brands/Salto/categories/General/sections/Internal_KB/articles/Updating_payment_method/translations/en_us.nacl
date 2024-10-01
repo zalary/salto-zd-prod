@@ -1,0 +1,13 @@
+zendesk.article_translation Updating_payment_method_Internal_KB_General_Salto_suu_ssuuuum__Salto_en_us_ub@uuuuuuumuuuum {
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  title = "Updating payment method"
+  body = file("zendesk/translations/guide/brands/Salto/categories/General/sections/Internal_KB/articles/Updating_payment_method/translations/a19a35efc6_Updating_payment_method")
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.article.instance.Updating_payment_method_Internal_KB_General_Salto_suu@ssuuuum,
+  ]
+  _alias = "en-us - Updating payment method"
+}

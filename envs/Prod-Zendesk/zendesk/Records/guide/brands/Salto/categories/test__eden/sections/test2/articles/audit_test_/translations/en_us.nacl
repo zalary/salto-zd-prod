@@ -1,0 +1,12 @@
+zendesk.article_translation audit_test__test2_test__eden_Salto_bsu_uuuum_ssuuuuuum__Salto_en_us_ub@uuuuuuuuumuuuum {
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  title = "audit test "
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.article.instance.audit_test__test2_test__eden_Salto_bsu_uuuum@ssuuuuuum,
+  ]
+  _alias = "en-us - audit test "
+}

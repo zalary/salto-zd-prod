@@ -1,0 +1,24 @@
+zendesk.article Tier_3_Article_Template___Apex_Internal_KB_General_Salto_suu@ssssbsuuuum {
+  author_id = "pablo.gonzalez@salto.io"
+  comments_disabled = false
+  draft = true
+  promoted = false
+  section_id = zendesk.section.instance.Internal_KB_General_Salto@suu
+  source_locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  outdated = false
+  user_segment_id = zendesk.user_segment.instance.Agents_and_admins@s
+  permission_group_id = zendesk.permission_group.instance.Admins
+  translations = [
+    zendesk.article_translation.instance.Tier_3_Article_Template___Apex_Internal_KB_General_Salto_suu_ssssbsuuuum__Salto_en_us_ub@uuuuuuuuuuumuuuum,
+  ]
+  label_names = [
+    "KCTemplate",
+    "instructions",
+  ]
+  user_segment_ids = [
+    zendesk.user_segment.instance.Agents_and_admins@s,
+  ]
+  brand = zendesk.brand.instance.Salto
+  _alias = "Tier 3 Article Template - Apex"
+}

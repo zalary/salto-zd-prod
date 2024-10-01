@@ -1,0 +1,10 @@
+zendesk.section_order Categ1_TomerBrand {
+  sections = [
+    zendesk.section.instance.Section1_Categ1_TomerBrand,
+  ]
+  brand = zendesk.brand.instance.TomerBrand
+  _parent = [
+    zendesk.category.instance.Categ1_TomerBrand,
+  ]
+  _alias = "Categ1 Section Order"
+}

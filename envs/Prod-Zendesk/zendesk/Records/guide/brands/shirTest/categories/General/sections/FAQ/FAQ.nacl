@@ -1,0 +1,13 @@
+zendesk.section FAQ_General_shirTest {
+  category_id = zendesk.category.instance.General_shirTest
+  sorting = "manual"
+  locale = zendesk.guide_language_settings.instance.shirTest_en_us@ub
+  source_locale = zendesk.guide_language_settings.instance.shirTest_en_us@ub
+  outdated = false
+  theme_template = "section_page"
+  translations = [
+    zendesk.section_translation.instance.FAQ_General_shirTest__shirTest_en_us_ub@uuuuuum,
+  ]
+  brand = zendesk.brand.instance.shirTest
+  _alias = "FAQ"
+}

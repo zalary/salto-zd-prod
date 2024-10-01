@@ -1,0 +1,6 @@
+zendesk.guide_language_settings shirTest_en_us@ub {
+  locale = "en-us"
+  name = "shirTest"
+  brand = zendesk.brand.instance.shirTest
+  _alias = "shirTest en-us language settings"
+}

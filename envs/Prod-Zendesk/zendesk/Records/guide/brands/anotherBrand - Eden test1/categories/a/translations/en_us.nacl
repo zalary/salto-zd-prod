@@ -1,0 +1,13 @@
+zendesk.category_translation a_anotherBrand___Eden_test_sbss_uuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuumuuuuuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  title = "a"
+  body = "a b c d"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.category.instance.a_anotherBrand___Eden_test_sbss@uuuuum,
+  ]
+  _alias = "en-us - a"
+}

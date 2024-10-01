@@ -1,0 +1,10 @@
+zendesk.section_order case_change_bug_category_anotherBrand___Eden_test_sbss_sssuuuuum@uuuuuuuuum {
+  sections = [
+    zendesk.section.instance.case_change_bug_section_case_change_bug_category_anotherBrand___Eden_test_sbss_sssuuuuum@sssuuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.category.instance.case_change_bug_category_anotherBrand___Eden_test_sbss@sssuuuuum,
+  ]
+  _alias = "case change bug category Section Order"
+}

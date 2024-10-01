@@ -1,0 +1,17 @@
+zendesk.article Welcome_to_your_Help_Center__Announcements_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@ssssluuuuuuuuum {
+  author_id = "gil.hoffer@salto.io"
+  comments_disabled = false
+  draft = false
+  promoted = false
+  section_id = zendesk.section.instance.Announcements_General_anotherBrand___Eden_test_sbss_uuuuum@uuuuuuum
+  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  outdated = false
+  permission_group_id = zendesk.permission_group.instance.Admins
+  translations = [
+    zendesk.article_translation.instance.Welcome_to_your_Help_Center__Announcements_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum_ssssluuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuuuuumuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  user_segment_id = zendesk.user_segment.instance.Everyone
+  _alias = "Welcome to your Help Center!"
+}

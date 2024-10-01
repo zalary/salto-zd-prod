@@ -1,0 +1,5 @@
+zendesk.organization Photobug {
+  name = "Photobug"
+  shared_tickets = false
+  shared_comments = false
+}

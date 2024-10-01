@@ -1,0 +1,18 @@
+zendesk {
+  fetch = {
+        guide = {
+       brands = [".*"]
+      }
+    include = [
+      {
+        type = ".*"
+      },
+    ]
+    exclude = [
+      {
+        type = "oauth_global_client"
+      },
+    ]
+    resolveOrganizationIDs = true
+  }
+}

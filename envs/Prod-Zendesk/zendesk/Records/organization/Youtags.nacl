@@ -1,0 +1,5 @@
+zendesk.organization Youtags {
+  name = "Youtags"
+  shared_tickets = false
+  shared_comments = false
+}

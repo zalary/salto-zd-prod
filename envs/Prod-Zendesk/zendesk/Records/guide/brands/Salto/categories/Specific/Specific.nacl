@@ -1,0 +1,11 @@
+zendesk.category Specific_Salto {
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  source_locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  outdated = false
+  translations = [
+    zendesk.category_translation.instance.Specific_Salto__Salto_en_us_ub@uuuuum,
+    zendesk.category_translation.instance.Specific_Salto__Salto_he,
+  ]
+  brand = zendesk.brand.instance.Salto
+  _alias = "Specific"
+}

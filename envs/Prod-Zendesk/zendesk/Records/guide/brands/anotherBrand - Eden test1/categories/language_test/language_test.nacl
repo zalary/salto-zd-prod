@@ -1,0 +1,10 @@
+zendesk.category language_test_anotherBrand___Eden_test_sbss@suuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_sl@uuuumu
+  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_sl@uuuumu
+  outdated = false
+  translations = [
+    zendesk.category_translation.instance.language_test_anotherBrand___Eden_test_sbss_suuuuum__anotherBrand___Eden_test_sbss_sl_uuuumu@uuuuuuumuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _alias = "language test"
+}

@@ -1,0 +1,12 @@
+zendesk.article_order two_points_attachment_two_points_attachment_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum@uuuuuuuuuuuum {
+  articles = [
+    zendesk.article.instance.Multi_attachments_two_points_attachment_two_points_attachment_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum@suuuuuuuuuuuuum,
+    zendesk.article.instance.article2_two_points_attachment_two_points_attachment_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum@uuuuuuuuuuuuum,
+    zendesk.article.instance.article1_two_points_attachment_two_points_attachment_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum@uuuuuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.section.instance.two_points_attachment_two_points_attachment_anotherBrand___Eden_test_sbss_ssuuuuum@ssuuuuuuuuum,
+  ]
+  _alias = "two points attachment Article Order"
+}

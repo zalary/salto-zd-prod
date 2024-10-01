@@ -1,0 +1,10 @@
+zendesk.category only_att_test_anotherBrand___Eden_test_sbss@ssuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  outdated = false
+  translations = [
+    zendesk.category_translation.instance.only_att_test_anotherBrand___Eden_test_sbss_ssuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuumuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _alias = "only att test"
+}

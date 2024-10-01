@@ -1,0 +1,26 @@
+zendesk.article What_is_DevOps_Everything_about_DevOps_General_Salto_ssuu@ssuuuuum {
+  author_id = "zendesk-adapter@salto.io"
+  comments_disabled = false
+  draft = true
+  promoted = false
+  section_id = zendesk.section.instance.Everything_about_DevOps_General_Salto@ssuu
+  source_locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  outdated = false
+  user_segment_id = zendesk.user_segment.instance.DevOps_Experts_Segment@s
+  permission_group_id = zendesk.permission_group.instance.Can_create_DevOps_articles@s
+  translations = [
+    zendesk.article_translation.instance.What_is_DevOps_Everything_about_DevOps_General_Salto_ssuu_ssuuuuum__Salto_en_us_ub@uuuuuuuumuuuum,
+  ]
+  label_names = [
+    "devops",
+  ]
+  user_segment_ids = [
+    zendesk.user_segment.instance.DevOps_Experts_Segment@s,
+  ]
+  brand = zendesk.brand.instance.Salto
+  attachments = [
+    zendesk.article_attachment.instance.What_is_DevOps_Everything_about_DevOps_General_Salto_ssuu_ssuuuuum__peepcode_git_pdf_false@uuuuuuuumuubvu,
+  ]
+  _alias = "What is DevOps"
+}

@@ -1,0 +1,17 @@
+zendesk.article Updating_your_payment_method_Billing_and_Subscriptions_General_Salto_ssuu@sssuuuuum {
+  author_id = "pablo.gonzalez@salto.io"
+  comments_disabled = false
+  draft = false
+  promoted = false
+  section_id = zendesk.section.instance.Billing_and_Subscriptions_General_Salto@ssuu
+  source_locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  outdated = false
+  permission_group_id = zendesk.permission_group.instance.Admins
+  translations = [
+    zendesk.article_translation.instance.Updating_your_payment_method_Billing_and_Subscriptions_General_Salto_ssuu_sssuuuuum__Salto_en_us_ub@uuuuuuuuumuuuum,
+  ]
+  brand = zendesk.brand.instance.Salto
+  user_segment_id = zendesk.user_segment.instance.Everyone
+  _alias = "Updating your payment method"
+}

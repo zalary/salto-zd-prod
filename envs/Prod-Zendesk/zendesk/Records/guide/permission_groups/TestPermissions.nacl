@@ -1,0 +1,11 @@
+zendesk.permission_group TestPermissions {
+  name = "TestPermissions"
+  built_in = false
+  publish = [
+    zendesk.user_segment.instance.Agents_and_admins@s,
+  ]
+  edit = [
+    zendesk.user_segment.instance.Agents_and_admins@s,
+  ]
+  _alias = "TestPermissions"
+}

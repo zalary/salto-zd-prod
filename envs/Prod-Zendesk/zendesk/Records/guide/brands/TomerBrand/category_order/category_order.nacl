@@ -1,0 +1,11 @@
+zendesk.category_order TomerBrand {
+  categories = [
+    zendesk.category.instance.General_TomerBrand,
+    zendesk.category.instance.Categ1_TomerBrand,
+  ]
+  brand = zendesk.brand.instance.TomerBrand
+  _parent = [
+    zendesk.brand.instance.TomerBrand,
+  ]
+  _alias = "TomerBrand Category Order"
+}

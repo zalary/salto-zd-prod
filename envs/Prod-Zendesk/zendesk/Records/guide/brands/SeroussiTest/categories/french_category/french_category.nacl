@@ -1,0 +1,10 @@
+zendesk.category french_category_SeroussiTest@su {
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_fr
+  source_locale = zendesk.guide_language_settings.instance.SeroussiTest_fr
+  outdated = false
+  translations = [
+    zendesk.category_translation.instance.french_category_SeroussiTest_su__SeroussiTest_fr@uumuuu,
+  ]
+  brand = zendesk.brand.instance.SeroussiTest
+  _alias = "french category"
+}

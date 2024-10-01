@@ -1,0 +1,13 @@
+zendesk.section FAQ_General_nms_test_b_uum@uuuum {
+  category_id = zendesk.category.instance.General_nms_test_b@uum
+  sorting = "manual"
+  locale = zendesk.guide_language_settings.instance.nms_test_b_en_us@umub
+  source_locale = zendesk.guide_language_settings.instance.nms_test_b_en_us@umub
+  outdated = false
+  theme_template = "section_page"
+  translations = [
+    zendesk.section_translation.instance.FAQ_General_nms_test_b_uum_uuuum__nms_test_b_en_us_umub@uuuuumuuuuuum,
+  ]
+  brand = zendesk.brand.instance.nms_test@b
+  _alias = "FAQ"
+}

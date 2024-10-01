@@ -1,0 +1,6 @@
+zendesk.guide_language_settings SeroussiTest_da {
+  locale = "da"
+  name = "Danish"
+  brand = zendesk.brand.instance.SeroussiTest
+  _alias = "SeroussiTest da language settings"
+}

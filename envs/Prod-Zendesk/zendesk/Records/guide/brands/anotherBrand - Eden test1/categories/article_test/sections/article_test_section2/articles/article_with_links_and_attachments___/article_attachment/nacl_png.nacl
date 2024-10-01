@@ -1,0 +1,12 @@
+zendesk.article_attachment article_with_links_and_attachments____article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum_ssuuuuuuuum_ssssllluuuuuuuuuuuum__nacl_png_true@uuuuuuuuuuuuuuuuuuuumuuvu {
+  file_name = "nacl.png"
+  locale = "en-us"
+  content_type = "image/png"
+  inline = true
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test1/categories/article_test/sections/article_test_section2/articles/article_with_links_and_attachments___/article_attachment/nacl/8a499d7df8_80f6f478ed_nacl.png")
+  _parent = [
+    zendesk.article.instance.article_with_links_and_attachments____article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum_ssuuuuuuuum@ssssllluuuuuuuuuuuum,
+  ]
+  _alias = "nacl.png - article with links and attachments!!!"
+}

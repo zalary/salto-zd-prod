@@ -1,0 +1,7 @@
+zendesk.section_order Internal_KB_General_Salto_suu@uuum {
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.section.instance.Internal_KB_General_Salto@suu,
+  ]
+  _alias = "Internal KB Section Order"
+}

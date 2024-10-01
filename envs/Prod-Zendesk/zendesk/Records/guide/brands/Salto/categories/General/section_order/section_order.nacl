@@ -1,0 +1,15 @@
+zendesk.section_order General_Salto {
+  sections = [
+    zendesk.section.instance.Everything_about_DevOps_General_Salto@ssuu,
+    zendesk.section.instance.Billing_and_Subscriptions_General_Salto@ssuu,
+    zendesk.section.instance.Internal_KB_General_Salto@suu,
+    zendesk.section.instance.FAQ_General_Salto,
+    zendesk.section.instance.Announcements_General_Salto,
+    zendesk.section.instance.edenTest234_General_Salto,
+  ]
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.category.instance.General_Salto,
+  ]
+  _alias = "General Section Order"
+}

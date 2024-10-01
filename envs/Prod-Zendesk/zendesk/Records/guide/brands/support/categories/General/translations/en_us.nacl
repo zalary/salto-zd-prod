@@ -1,0 +1,12 @@
+zendesk.category_translation General_support__support_en_us_ub@uuuuum {
+  locale = zendesk.guide_language_settings.instance.support_en_us@ub
+  title = "General"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.support
+  _parent = [
+    zendesk.category.instance.General_support,
+  ]
+  _alias = "en-us - General"
+}

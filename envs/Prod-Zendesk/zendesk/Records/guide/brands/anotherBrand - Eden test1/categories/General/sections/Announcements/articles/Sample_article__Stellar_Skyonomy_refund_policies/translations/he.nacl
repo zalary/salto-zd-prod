@@ -1,0 +1,12 @@
+zendesk.article_translation Sample_article__Stellar_Skyonomy_refund_policies_Announcements_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum_sfssssuuuuuuuuum__anotherBrand___Eden_test_sbss_he_uuuumu@uuuuuuuuuuuuuuuumuuuuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_he@uuuumu
+  title = "בדיקת תרגום"
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.article.instance.Sample_article__Stellar_Skyonomy_refund_policies_Announcements_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@sfssssuuuuuuuuum,
+  ]
+  _alias = "he - Sample article: Stellar Skyonomy refund policies"
+}

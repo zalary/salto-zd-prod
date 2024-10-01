@@ -1,0 +1,5 @@
+zendesk.organization Eadel {
+  name = "Eadel"
+  shared_tickets = false
+  shared_comments = false
+}

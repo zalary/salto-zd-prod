@@ -1,0 +1,18 @@
+zendesk.ticket_field __dc_about_field_title___tagger@_00123_00123vuu_00125_00125u {
+  type = "tagger"
+  raw_title = "hi"
+  raw_description = ""
+  active = true
+  required = false
+  collapsed_for_agents = false
+  raw_title_in_portal = "abcds"
+  visible_in_portal = true
+  editable_in_portal = true
+  required_in_portal = false
+  removable = true
+  custom_field_options = [
+    zendesk.ticket_field__custom_field_options.instance.__dc_about_field_title___tagger__00123_00123vuu_00125_00125u__late_order@uuuuuuuumuuuuuuu,
+    zendesk.ticket_field__custom_field_options.instance.__dc_about_field_title___tagger__00123_00123vuu_00125_00125u__missed_package@uuuuuuuumuuuuuuu,
+  ]
+  _alias = "hi"
+}

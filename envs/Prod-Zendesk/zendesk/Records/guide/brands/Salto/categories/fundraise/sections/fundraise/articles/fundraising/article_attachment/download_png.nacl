@@ -1,0 +1,12 @@
+zendesk.article_attachment fundraising_fundraise_fundraise_Salto__download_png_true@uuuuuvu {
+  file_name = "download.png"
+  locale = "en-us"
+  content_type = "image/png"
+  inline = true
+  brand = zendesk.brand.instance.Salto
+  content = file("zendesk/article_attachments/guide/brands/Salto/categories/fundraise/sections/fundraise/articles/fundraising/article_attachment/download/2bd5da385b_b02dee1581_download.png")
+  _parent = [
+    zendesk.article.instance.fundraising_fundraise_fundraise_Salto,
+  ]
+  _alias = "download.png - fundraising"
+}

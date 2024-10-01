@@ -1,0 +1,10 @@
+zendesk.category_order BrandAForGuide {
+  categories = [
+    zendesk.category.instance.General_BrandAForGuide,
+  ]
+  brand = zendesk.brand.instance.BrandAForGuide
+  _parent = [
+    zendesk.brand.instance.BrandAForGuide,
+  ]
+  _alias = "BrandAForGuide Category Order"
+}

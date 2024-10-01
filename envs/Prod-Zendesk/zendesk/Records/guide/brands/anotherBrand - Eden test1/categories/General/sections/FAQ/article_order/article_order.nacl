@@ -1,0 +1,16 @@
+zendesk.article_order FAQ_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@uuuuuuuum {
+  articles = [
+    zendesk.article.instance.article_with_deleted_attachment_FAQ_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@sssuuuuuuuuum,
+    zendesk.article.instance.content_block_____modify_FAQ_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@sslllsuuuuuuuuum,
+    zendesk.article.instance.add_article_FAQ_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@suuuuuuuuum,
+    zendesk.article.instance.How_can_agents_leverage_knowledge_to_help_customers__FAQ_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@sssssssauuuuuuuuum,
+    zendesk.article.instance.How_do_I_publish_my_content_in_other_languages__FAQ_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@ssssssssauuuuuuuuum,
+    zendesk.article.instance.How_do_I_customize_my_Help_Center__FAQ_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@ssssssauuuuuuuuum,
+    zendesk.article.instance.What_are_these_sections_and_articles_doing_here__FAQ_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@sssssssauuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.section.instance.FAQ_General_anotherBrand___Eden_test_sbss_uuuuum@uuuuuuum,
+  ]
+  _alias = "FAQ Article Order"
+}

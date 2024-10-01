@@ -1,0 +1,12 @@
+zendesk.article_translation Neta__test__article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum_ssuuuuuuuum_fsvuuuuuuuuuuuum__anotherBrand___Eden_test_sbss_he_uuuumu@uuuuuuuuuuuuuuuumuuuuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_he@uuuumu
+  title = "2מבחן"
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.article.instance.Neta__test__article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum_ssuuuuuuuum@fsvuuuuuuuuuuuum,
+  ]
+  _alias = "he - Neta: test."
+}

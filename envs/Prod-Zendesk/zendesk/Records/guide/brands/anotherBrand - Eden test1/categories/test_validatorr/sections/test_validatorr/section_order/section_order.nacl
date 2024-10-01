@@ -1,0 +1,7 @@
+zendesk.section_order test_validatorr_test_validatorr_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@uuuuuuuuuum {
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.section.instance.test_validatorr_test_validatorr_anotherBrand___Eden_test_sbss_suuuuum@suuuuuuuum,
+  ]
+  _alias = "test validatorr Section Order"
+}

@@ -1,0 +1,7 @@
+zendesk.section_order Everything_about_DevOps_General_Salto_ssuu@uuuum {
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.section.instance.Everything_about_DevOps_General_Salto@ssuu,
+  ]
+  _alias = "Everything about DevOps Section Order"
+}

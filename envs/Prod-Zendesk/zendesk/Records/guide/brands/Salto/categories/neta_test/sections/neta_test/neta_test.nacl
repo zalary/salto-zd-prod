@@ -1,0 +1,13 @@
+zendesk.section neta_test_neta_test_Salto_bu@duuum {
+  category_id = zendesk.category.instance.neta_test_Salto@bu
+  sorting = "manual"
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  source_locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  outdated = false
+  theme_template = "section_page"
+  translations = [
+    zendesk.section_translation.instance.neta_test_neta_test_Salto_bu_duuum__Salto_en_us_ub@uuuuumuuuum,
+  ]
+  brand = zendesk.brand.instance.Salto
+  _alias = "neta/test"
+}

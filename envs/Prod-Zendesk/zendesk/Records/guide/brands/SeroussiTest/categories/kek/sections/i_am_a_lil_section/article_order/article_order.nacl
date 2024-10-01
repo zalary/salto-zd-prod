@@ -1,0 +1,7 @@
+zendesk.article_order i_am_a_lil_section_kek_SeroussiTest_ssssuu@uuuuuum {
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.section.instance.i_am_a_lil_section_kek_SeroussiTest@ssssuu,
+  ]
+  _alias = "i am a lil section Article Order"
+}

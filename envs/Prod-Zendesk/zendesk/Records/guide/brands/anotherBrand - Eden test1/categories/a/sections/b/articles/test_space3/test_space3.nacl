@@ -1,0 +1,17 @@
+zendesk.article test_space3_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@suuuuuuuuum {
+  author_id = "la+1@example.org"
+  comments_disabled = false
+  draft = true
+  promoted = false
+  section_id = zendesk.section.instance.b_a_anotherBrand___Eden_test_sbss_uuuuum@uuuuuuum
+  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  outdated = false
+  permission_group_id = zendesk.permission_group.instance.TestPermissions
+  translations = [
+    zendesk.article_translation.instance.test_space3_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum_suuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuumuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  user_segment_id = zendesk.user_segment.instance.Everyone
+  _alias = "test space3"
+}

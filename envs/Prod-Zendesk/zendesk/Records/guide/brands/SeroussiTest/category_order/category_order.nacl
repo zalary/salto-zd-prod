@@ -1,0 +1,14 @@
+zendesk.category_order SeroussiTest {
+  categories = [
+    zendesk.category.instance.french_category_SeroussiTest@su,
+    zendesk.category.instance.kek_SeroussiTest,
+    zendesk.category.instance.shalom_SeroussiTest,
+    zendesk.category.instance.Test_SeroussiTest,
+    zendesk.category.instance.General_SeroussiTest,
+  ]
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.brand.instance.SeroussiTest,
+  ]
+  _alias = "SeroussiTest Category Order"
+}

@@ -1,0 +1,6 @@
+zendesk.user_segment test_err@s {
+  user_type = "staff"
+  built_in = false
+  name = "test err"
+  _alias = "test err"
+}

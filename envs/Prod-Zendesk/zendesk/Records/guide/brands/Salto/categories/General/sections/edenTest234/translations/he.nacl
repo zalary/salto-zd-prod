@@ -1,0 +1,13 @@
+zendesk.section_translation edenTest234_General_Salto__Salto_he {
+  locale = zendesk.guide_language_settings.instance.Salto_he
+  title = "edenTest234"
+  body = "bla"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.section.instance.edenTest234_General_Salto,
+  ]
+  _alias = "he - edenTest234"
+}

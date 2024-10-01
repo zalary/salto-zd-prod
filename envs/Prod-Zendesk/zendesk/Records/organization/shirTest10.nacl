@@ -1,0 +1,5 @@
+zendesk.organization shirTest10 {
+  name = "shirTest10"
+  shared_tickets = false
+  shared_comments = false
+}

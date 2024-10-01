@@ -1,0 +1,12 @@
+zendesk.article_attachment test_space_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum_suuuuuuuuum__download_png_true@uuuuuuuuuuumuuvu {
+  file_name = "download.png"
+  locale = "en-us"
+  content_type = "image/png"
+  inline = true
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test1/categories/a/sections/b/articles/test_space/article_attachment/download/64cd270190_87b384b84f_download.png")
+  _parent = [
+    zendesk.article.instance.test_space_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@suuuuuuuuum,
+  ]
+  _alias = "download.png - test space"
+}

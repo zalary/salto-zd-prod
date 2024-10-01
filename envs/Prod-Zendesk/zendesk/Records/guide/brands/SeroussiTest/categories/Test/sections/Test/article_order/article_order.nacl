@@ -1,0 +1,12 @@
+zendesk.article_order Test_Test_SeroussiTest {
+  articles = [
+    zendesk.article.instance.test23_Test_Test_SeroussiTest,
+    zendesk.article.instance.Test_Test_Test_SeroussiTest,
+    zendesk.article.instance.Hey_Test_Test_SeroussiTest,
+  ]
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.section.instance.Test_Test_SeroussiTest,
+  ]
+  _alias = "Test Article Order"
+}

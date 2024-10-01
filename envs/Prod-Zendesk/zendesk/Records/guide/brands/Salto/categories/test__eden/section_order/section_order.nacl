@@ -1,0 +1,10 @@
+zendesk.section_order test__eden_Salto_bsu@uuum {
+  sections = [
+    zendesk.section.instance.test2_test__eden_Salto_bsu@uuuum,
+  ]
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.category.instance.test__eden_Salto@bsu,
+  ]
+  _alias = "test- eden Section Order"
+}

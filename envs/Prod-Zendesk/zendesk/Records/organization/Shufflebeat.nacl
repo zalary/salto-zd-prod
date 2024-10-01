@@ -1,0 +1,5 @@
+zendesk.organization Shufflebeat {
+  name = "Shufflebeat"
+  shared_tickets = false
+  shared_comments = false
+}

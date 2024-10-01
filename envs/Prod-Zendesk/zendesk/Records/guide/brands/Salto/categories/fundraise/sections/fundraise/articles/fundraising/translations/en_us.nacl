@@ -1,0 +1,16 @@
+zendesk.article_translation fundraising_fundraise_fundraise_Salto__Salto_en_us_ub@uuuuuuum {
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  title = "fundraising"
+  body = file(
+    "zendesk/translations/guide/brands/Salto/categories/fundraise/sections/fundraise/articles/fundraising/translations/eee5c2bbc0_fundraising",
+    "template",
+  )
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.article.instance.fundraising_fundraise_fundraise_Salto,
+  ]
+  _alias = "en-us - fundraising"
+}

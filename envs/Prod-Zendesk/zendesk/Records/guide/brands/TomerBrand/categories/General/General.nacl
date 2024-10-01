@@ -1,0 +1,10 @@
+zendesk.category General_TomerBrand {
+  locale = zendesk.guide_language_settings.instance.TomerBrand_en_us@ub
+  source_locale = zendesk.guide_language_settings.instance.TomerBrand_en_us@ub
+  outdated = false
+  translations = [
+    zendesk.category_translation.instance.General_TomerBrand__TomerBrand_en_us_ub@uuuuum,
+  ]
+  brand = zendesk.brand.instance.TomerBrand
+  _alias = "General"
+}

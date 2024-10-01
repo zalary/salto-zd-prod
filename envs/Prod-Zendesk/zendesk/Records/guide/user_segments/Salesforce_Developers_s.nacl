@@ -1,0 +1,12 @@
+zendesk.user_segment Salesforce_Developers@s {
+  user_type = "signed_in_users"
+  tags = [
+    zendesk.tag.instance.sf_developer@b,
+  ]
+  built_in = false
+  added_user_ids = [
+    "la+32@example.org",
+  ]
+  name = "Salesforce Developers"
+  _alias = "Salesforce Developers"
+}

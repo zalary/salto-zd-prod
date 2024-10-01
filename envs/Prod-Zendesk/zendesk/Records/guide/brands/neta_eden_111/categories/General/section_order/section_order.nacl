@@ -1,0 +1,11 @@
+zendesk.section_order General_neta_eden_111 {
+  sections = [
+    zendesk.section.instance.FAQ_General_neta_eden_111,
+    zendesk.section.instance.Announcements_General_neta_eden_111,
+  ]
+  brand = zendesk.brand.instance.neta_eden_111
+  _parent = [
+    zendesk.category.instance.General_neta_eden_111,
+  ]
+  _alias = "General Section Order"
+}

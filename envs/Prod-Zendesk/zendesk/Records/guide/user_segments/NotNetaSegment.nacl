@@ -1,0 +1,6 @@
+zendesk.user_segment NotNetaSegment {
+  user_type = "signed_in_users"
+  built_in = false
+  name = "NotNetaSegment"
+  _alias = "NotNetaSegment"
+}

@@ -1,0 +1,10 @@
+zendesk.section_order Test_Salto {
+  sections = [
+    zendesk.section.instance.last_test_Test_Salto@suu,
+  ]
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.category.instance.Test_Salto,
+  ]
+  _alias = "Test Section Order"
+}

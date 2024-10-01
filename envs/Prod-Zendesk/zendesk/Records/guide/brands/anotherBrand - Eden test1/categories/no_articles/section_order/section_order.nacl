@@ -1,0 +1,7 @@
+zendesk.section_order no_articles_anotherBrand___Eden_test_sbss_suuuuum@uuuuuuum {
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.category.instance.no_articles_anotherBrand___Eden_test_sbss@suuuuum,
+  ]
+  _alias = "no articles Section Order"
+}

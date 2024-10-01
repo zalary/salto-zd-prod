@@ -1,0 +1,13 @@
+zendesk.section_translation Billing_and_Subscriptions_General_Salto_ssuu__Salto_en_us_ub@uuuumuuuum {
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  title = "Billing and Subscriptions"
+  body = "Billing and Subscriptions"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.section.instance.Billing_and_Subscriptions_General_Salto@ssuu,
+  ]
+  _alias = "en-us - Billing and Subscriptions"
+}

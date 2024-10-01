@@ -1,0 +1,25 @@
+zendesk.article ahlan_Announcements_General_SeroussiTest {
+  author_id = "zendesk-adapter@salto.io"
+  comments_disabled = true
+  draft = false
+  promoted = false
+  section_id = zendesk.section.instance.Announcements_General_SeroussiTest
+  source_locale = zendesk.guide_language_settings.instance.SeroussiTest_ar
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_ar
+  outdated = false
+  user_segment_id = zendesk.user_segment.instance.Agents_and_admins@s
+  permission_group_id = zendesk.permission_group.instance.Admins
+  translations = [
+    zendesk.article_translation.instance.ahlan_Announcements_General_SeroussiTest__SeroussiTest_ar,
+    zendesk.article_translation.instance.ahlan_Announcements_General_SeroussiTest__SeroussiTest_da,
+    zendesk.article_translation.instance.ahlan_Announcements_General_SeroussiTest__SeroussiTest_en_us_ub@uuuuuuum,
+  ]
+  label_names = [
+    "as",
+  ]
+  user_segment_ids = [
+    zendesk.user_segment.instance.Agents_and_admins@s,
+  ]
+  brand = zendesk.brand.instance.SeroussiTest
+  _alias = "ahlan"
+}

@@ -1,0 +1,13 @@
+zendesk.section only_att_test_only_att_test_anotherBrand___Eden_test_sbss_ssuuuuum@ssuuuuuuuuum {
+  category_id = zendesk.category.instance.only_att_test_anotherBrand___Eden_test_sbss@ssuuuuum
+  sorting = "manual"
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  outdated = false
+  theme_template = "section_page"
+  translations = [
+    zendesk.section_translation.instance.only_att_test_only_att_test_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuumuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _alias = "only att test"
+}

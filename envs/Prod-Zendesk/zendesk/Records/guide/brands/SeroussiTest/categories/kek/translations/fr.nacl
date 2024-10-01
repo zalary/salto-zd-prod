@@ -1,0 +1,13 @@
+zendesk.category_translation kek_SeroussiTest__SeroussiTest_fr {
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_fr
+  title = "kek"
+  body = "kakakak"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.category.instance.kek_SeroussiTest,
+  ]
+  _alias = "fr - kek"
+}

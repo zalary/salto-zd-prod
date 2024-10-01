@@ -1,0 +1,13 @@
+zendesk.article_translation Sample_article__Stellar_Skyonomy_refund_policies_Announcements_General_neta_eden_111_sfssssuuuuu__neta_eden_111_en_us_uuub@uuuuuuuuuuumuuuuuum {
+  locale = zendesk.guide_language_settings.instance.neta_eden_111_en_us@uuub
+  title = "Sample article: Stellar Skyonomy refund policies"
+  body = file("zendesk/translations/guide/brands/neta_eden_111/categories/General/sections/Announcements/articles/Sample_article__Stellar_Skyonomy_refund_policies/translations/429a5b0082_Sample_article__Stellar_Skyonomy_refund_policies")
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.neta_eden_111
+  _parent = [
+    zendesk.article.instance.Sample_article__Stellar_Skyonomy_refund_policies_Announcements_General_neta_eden_111@sfssssuuuuu,
+  ]
+  _alias = "en-us - Sample article: Stellar Skyonomy refund policies"
+}

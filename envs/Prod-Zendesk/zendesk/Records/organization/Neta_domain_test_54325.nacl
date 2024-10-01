@@ -1,0 +1,13 @@
+zendesk.organization Neta_domain_test_54325@s {
+  name = "Neta domain test 54325"
+  shared_tickets = false
+  shared_comments = false
+  domain_names = [
+    "aaa.bbb.cccd.com",
+    "abc.com",
+    "ccc.ddd.com",
+  ]
+  details = ""
+  notes = ""
+  group_id = zendesk.group.instance.Neta________@s_00123hjalvi
+}

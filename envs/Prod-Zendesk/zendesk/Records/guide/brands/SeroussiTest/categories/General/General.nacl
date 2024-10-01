@@ -1,0 +1,10 @@
+zendesk.category General_SeroussiTest {
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_en_us@ub
+  source_locale = zendesk.guide_language_settings.instance.SeroussiTest_en_us@ub
+  outdated = false
+  translations = [
+    zendesk.category_translation.instance.General_SeroussiTest__SeroussiTest_en_us_ub@uuuuum,
+  ]
+  brand = zendesk.brand.instance.SeroussiTest
+  _alias = "General"
+}

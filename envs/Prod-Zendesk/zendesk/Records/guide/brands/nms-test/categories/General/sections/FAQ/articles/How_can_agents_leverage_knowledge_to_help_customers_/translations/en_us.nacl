@@ -1,0 +1,13 @@
+zendesk.article_translation How_can_agents_leverage_knowledge_to_help_customers__FAQ_General_nms_test_b_uum_uuuum_sssssssauuuuuum__nms_test_b_en_us_umub@uuuuuuuuuuuuuuumuuuuuum {
+  locale = zendesk.guide_language_settings.instance.nms_test_b_en_us@umub
+  title = "How can agents leverage knowledge to help customers?"
+  body = file("zendesk/translations/guide/brands/nms-test/categories/General/sections/FAQ/articles/How_can_agents_leverage_knowledge_to_help_customers_/translations/0b0f4b898f_How_can_agents_leverage_knowledge_to_help_customers_")
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.nms_test@b
+  _parent = [
+    zendesk.article.instance.How_can_agents_leverage_knowledge_to_help_customers__FAQ_General_nms_test_b_uum_uuuum@sssssssauuuuuum,
+  ]
+  _alias = "en-us - How can agents leverage knowledge to help customers?"
+}

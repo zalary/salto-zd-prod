@@ -1,0 +1,23 @@
+zendesk.article audit_check_test2_test__eden_Salto_bsu_uuuum@suuuuuum {
+  author_id = "zendesk-adapter@salto.io"
+  comments_disabled = false
+  draft = false
+  promoted = false
+  section_id = zendesk.section.instance.test2_test__eden_Salto_bsu@uuuum
+  source_locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  outdated = false
+  user_segment_id = zendesk.user_segment.instance.Signed_in_users@bs
+  permission_group_id = zendesk.permission_group.instance.TestPermissions21
+  translations = [
+    zendesk.article_translation.instance.audit_check_test2_test__eden_Salto_bsu_uuuum_suuuuuum__Salto_en_us_ub@uuuuuuuumuuuum,
+  ]
+  label_names = [
+    "testlabel",
+  ]
+  user_segment_ids = [
+    zendesk.user_segment.instance.Signed_in_users@bs,
+  ]
+  brand = zendesk.brand.instance.Salto
+  _alias = "audit check"
+}

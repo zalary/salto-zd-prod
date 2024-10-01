@@ -1,0 +1,12 @@
+zendesk.article_order ahlan_bic_shalom_SeroussiTest_suu@uuum {
+  articles = [
+    zendesk.article.instance.german_article_ahlan_bic_shalom_SeroussiTest_suu@suuuum,
+    zendesk.article.instance.AddMe_ahlan_bic_shalom_SeroussiTest_suu@uuuum,
+    zendesk.article.instance.modifyMe_ahlan_bic_shalom_SeroussiTest_suu@uuuum,
+  ]
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.section.instance.ahlan_bic_shalom_SeroussiTest@suu,
+  ]
+  _alias = "ahlan bic Article Order"
+}

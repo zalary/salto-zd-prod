@@ -1,0 +1,10 @@
+zendesk.section_order fundraise_Salto {
+  sections = [
+    zendesk.section.instance.fundraise_fundraise_Salto,
+  ]
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.category.instance.fundraise_Salto,
+  ]
+  _alias = "fundraise Section Order"
+}

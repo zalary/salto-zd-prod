@@ -1,0 +1,7 @@
+zendesk.section_order only_att_test_only_att_test_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum@uuuuuuuuuuuum {
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.section.instance.only_att_test_only_att_test_anotherBrand___Eden_test_sbss_ssuuuuum@ssuuuuuuuuum,
+  ]
+  _alias = "only att test Section Order"
+}

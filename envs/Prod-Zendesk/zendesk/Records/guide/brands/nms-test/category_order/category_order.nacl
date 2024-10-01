@@ -1,0 +1,11 @@
+zendesk.category_order nms_test_b@um {
+  categories = [
+    zendesk.category.instance.aa__bb_nms_test_b@vvuum,
+    zendesk.category.instance.General_nms_test_b@uum,
+  ]
+  brand = zendesk.brand.instance.nms_test@b
+  _parent = [
+    zendesk.brand.instance.nms_test@b,
+  ]
+  _alias = "nms-test Category Order"
+}

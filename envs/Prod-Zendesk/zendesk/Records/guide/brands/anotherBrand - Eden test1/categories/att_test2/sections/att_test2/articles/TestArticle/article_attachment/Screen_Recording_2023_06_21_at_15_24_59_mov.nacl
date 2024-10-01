@@ -1,0 +1,11 @@
+zendesk.article_attachment TestArticle_att_test2_att_test2_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum_uuuuuuuuuuum__Screen_Recording_2023_06_21_at_15_24_59_mov_false@uuuuuuuuuuuumuuuubbuuvvvu {
+  file_name = "Screen_Recording_2023-06-21_at_15.24.59.mov"
+  content_type = "video/quicktime"
+  inline = false
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test1/categories/att_test2/sections/att_test2/articles/TestArticle/article_attachment/Screen_Recording_2023-06-21_at_15/ee11a250dd_f317e59997_Screen_Recording_2023-06-21_at_15.24.59.mov")
+  _parent = [
+    zendesk.article.instance.TestArticle_att_test2_att_test2_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@uuuuuuuuuuum,
+  ]
+  _alias = "Screen_Recording_2023-06-21_at_15.24.59.mov - TestArticle"
+}

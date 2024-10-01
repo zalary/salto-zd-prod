@@ -1,0 +1,11 @@
+zendesk.article_attachment AddMe_ahlan_bic_shalom_SeroussiTest_suu_uuuum__dp_very_large_attachment_json_false@uuuuumuuuuuvu {
+  file_name = "dp_very_large_attachment.json"
+  content_type = "unknown"
+  inline = false
+  brand = zendesk.brand.instance.SeroussiTest
+  content = file("zendesk/article_attachments/guide/brands/SeroussiTest/categories/shalom/sections/ahlan_bic/articles/AddMe/article_attachment/dp_very_large_attachment/878b2f11b6_4bbf8b6ff3_dp_very_large_attachment.json")
+  _parent = [
+    zendesk.article.instance.AddMe_ahlan_bic_shalom_SeroussiTest_suu@uuuum,
+  ]
+  _alias = "dp_very_large_attachment.json - AddMe"
+}

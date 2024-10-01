@@ -1,0 +1,6 @@
+zendesk.guide_language_settings TomerBrand_en_us@ub {
+  locale = "en-us"
+  name = "TomerBrand"
+  brand = zendesk.brand.instance.TomerBrand
+  _alias = "TomerBrand en-us language settings"
+}

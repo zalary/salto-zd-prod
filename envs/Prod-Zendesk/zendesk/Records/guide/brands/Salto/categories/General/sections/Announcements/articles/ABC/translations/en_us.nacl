@@ -1,0 +1,13 @@
+zendesk.article_translation ABC_Announcements_General_Salto__Salto_en_us_ub@uuuuuuum {
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  title = "ABC"
+  body = file("zendesk/translations/guide/brands/Salto/categories/General/sections/Announcements/articles/ABC/translations/afdf534247_ABC")
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.article.instance.ABC_Announcements_General_Salto,
+  ]
+  _alias = "en-us - ABC"
+}

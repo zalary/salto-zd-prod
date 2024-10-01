@@ -1,0 +1,16 @@
+zendesk.category_translation Test2_Salto__Salto_en_us_ub@uuuuum {
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  title = "Test2"
+  body = '''
+My TEst
+category
+'''
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.category.instance.Test2_Salto,
+  ]
+  _alias = "en-us - Test2"
+}

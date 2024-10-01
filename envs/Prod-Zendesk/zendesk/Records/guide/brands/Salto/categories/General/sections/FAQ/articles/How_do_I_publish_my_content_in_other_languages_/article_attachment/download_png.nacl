@@ -1,0 +1,11 @@
+zendesk.article_attachment How_do_I_publish_my_content_in_other_languages__FAQ_General_Salto_ssssssssauuu__download_png_false@uuuuuuuuuuuumuuvu {
+  file_name = "download.png"
+  content_type = "image/png"
+  inline = false
+  brand = zendesk.brand.instance.Salto
+  content = file("zendesk/article_attachments/guide/brands/Salto/categories/General/sections/FAQ/articles/How_do_I_publish_my_content_in_other_languages_/article_attachment/download/9d45ac0bdf_b02dee1581_download.png")
+  _parent = [
+    zendesk.article.instance.How_do_I_publish_my_content_in_other_languages__FAQ_General_Salto@ssssssssauuu,
+  ]
+  _alias = "download.png - How do I publish my content in other languages?"
+}

@@ -1,0 +1,13 @@
+zendesk.article_translation Welcome_to_your_Help_Center__Announcements_General_neta_eden_111_ssssluuuuu__neta_eden_111_en_us_uuub@uuuuuuuuuumuuuuuum {
+  locale = zendesk.guide_language_settings.instance.neta_eden_111_en_us@uuub
+  title = "Welcome to your Help Center!"
+  body = file("zendesk/translations/guide/brands/neta_eden_111/categories/General/sections/Announcements/articles/Welcome_to_your_Help_Center_/translations/8223f95f77_Welcome_to_your_Help_Center_")
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.neta_eden_111
+  _parent = [
+    zendesk.article.instance.Welcome_to_your_Help_Center__Announcements_General_neta_eden_111@ssssluuuuu,
+  ]
+  _alias = "en-us - Welcome to your Help Center!"
+}

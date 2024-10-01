@@ -1,0 +1,17 @@
+zendesk.article What_are_these_sections_and_articles_doing_here__FAQ_General_neta_eden_111@sssssssauuuuu {
+  author_id = "gil.hoffer@salto.io"
+  comments_disabled = false
+  draft = false
+  promoted = false
+  section_id = zendesk.section.instance.FAQ_General_neta_eden_111
+  source_locale = zendesk.guide_language_settings.instance.neta_eden_111_en_us@uuub
+  locale = zendesk.guide_language_settings.instance.neta_eden_111_en_us@uuub
+  outdated = false
+  permission_group_id = zendesk.permission_group.instance.Admins
+  translations = [
+    zendesk.article_translation.instance.What_are_these_sections_and_articles_doing_here__FAQ_General_neta_eden_111_sssssssauuuuu__neta_eden_111_en_us_uuub@uuuuuuuuuuuuumuuuuuum,
+  ]
+  brand = zendesk.brand.instance.neta_eden_111
+  user_segment_id = zendesk.user_segment.instance.Everyone
+  _alias = "What are these sections and articles doing here?"
+}

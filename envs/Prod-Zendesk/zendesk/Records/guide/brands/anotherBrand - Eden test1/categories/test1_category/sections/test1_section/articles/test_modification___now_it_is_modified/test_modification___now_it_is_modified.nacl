@@ -1,0 +1,20 @@
+zendesk.article test_modification___now_it_is_modified_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@ssbssssuuuuuuuuuuum {
+  author_id = "zendesk-adapter@salto.io"
+  comments_disabled = false
+  draft = true
+  promoted = false
+  section_id = zendesk.section.instance.test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum@suuuuuuuum
+  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  outdated = false
+  user_segment_id = zendesk.user_segment.instance.Agents_and_admins@s
+  permission_group_id = zendesk.permission_group.instance.Admins
+  translations = [
+    zendesk.article_translation.instance.test_modification___now_it_is_modified_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum_ssbssssuuuuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuuuuuuuuumuuuuuuuuum,
+  ]
+  user_segment_ids = [
+    zendesk.user_segment.instance.Agents_and_admins@s,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _alias = "test modification - now it is modified"
+}

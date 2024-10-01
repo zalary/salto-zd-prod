@@ -1,0 +1,13 @@
+zendesk.article_translation How_do_I_publish_my_content_in_other_languages__FAQ_General_neta_eden_111_ssssssssauuuuu__neta_eden_111_en_us_uuub@uuuuuuuuuuuuuumuuuuuum {
+  locale = zendesk.guide_language_settings.instance.neta_eden_111_en_us@uuub
+  title = "How do I publish my content in other languages?"
+  body = file("zendesk/translations/guide/brands/neta_eden_111/categories/General/sections/FAQ/articles/How_do_I_publish_my_content_in_other_languages_/translations/b307e4881d_How_do_I_publish_my_content_in_other_languages_")
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.neta_eden_111
+  _parent = [
+    zendesk.article.instance.How_do_I_publish_my_content_in_other_languages__FAQ_General_neta_eden_111@ssssssssauuuuu,
+  ]
+  _alias = "en-us - How do I publish my content in other languages?"
+}

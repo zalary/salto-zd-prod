@@ -1,0 +1,6 @@
+zendesk.guide_language_settings Salto_he {
+  locale = "he"
+  name = "SaltoHe"
+  brand = zendesk.brand.instance.Salto
+  _alias = "Salto he language settings"
+}

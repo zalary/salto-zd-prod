@@ -1,19 +1,8 @@
-zendesk.tag a {
-  id = "a"
-  _alias = "a"
-}
-zendesk.tag b {
-  id = "b"
-  _alias = "b"
-}
 zendesk.tag bla {
   id = "bla"
   _alias = "bla"
 }
-zendesk.tag c {
-  id = "c"
-  _alias = "c"
-}
+
 zendesk.tag customer_notified {
   id = "customer_notified"
   _alias = "customer_notified"
@@ -34,10 +23,7 @@ zendesk.tag eshed {
   id = "eshed"
   _alias = "eshed"
 }
-zendesk.tag missed_escalation_sla {
-  id = "missed_escalation_sla"
-  _alias = "missed_escalation_sla"
-}
+
 zendesk.tag option2 {
   id = "option2"
   _alias = "option2"
@@ -86,7 +72,36 @@ zendesk.tag hbkj {
   id = "hbkj"
   _alias = "hbkj"
 }
-zendesk.tag zgy {
-  id = "zgy"
-  _alias = "zgy"
+
+zendesk.tag zgy_check {
+  id = "zgy_check"
+  _alias = "zgy_check"
+}
+zendesk.tag false {
+  id = "false"
+  _alias = "false"
+}
+zendesk.tag true {
+  id = "true"
+  _alias = "true"
+}
+zendesk.tag alltag {
+  id = "alltag"
+  _alias = "alltag"
+}
+zendesk.tag anytag {
+  id = "anytag"
+  _alias = "anytag"
+}
+zendesk.tag devops {
+  id = "devops"
+  _alias = "devops"
+}
+zendesk.tag missed_escalation_sla {
+  id = "missed_escalation_sla"
+  _alias = "missed_escalation_sla"
+}
+zendesk.tag sf_developer@b {
+  id = "sf-developer"
+  _alias = "sf-developer"
 }

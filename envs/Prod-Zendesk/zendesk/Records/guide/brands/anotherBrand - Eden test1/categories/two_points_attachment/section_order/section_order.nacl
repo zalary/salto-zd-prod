@@ -1,0 +1,10 @@
+zendesk.section_order two_points_attachment_anotherBrand___Eden_test_sbss_ssuuuuum@uuuuuuuum {
+  sections = [
+    zendesk.section.instance.two_points_attachment_two_points_attachment_anotherBrand___Eden_test_sbss_ssuuuuum@ssuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.category.instance.two_points_attachment_anotherBrand___Eden_test_sbss@ssuuuuum,
+  ]
+  _alias = "two points attachment Section Order"
+}

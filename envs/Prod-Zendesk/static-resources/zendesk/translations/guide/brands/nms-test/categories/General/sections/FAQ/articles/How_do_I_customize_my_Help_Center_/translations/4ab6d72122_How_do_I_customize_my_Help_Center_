@@ -1,0 +1,7 @@
+<p>You can modify the look and feel of your Help Center by changing colors and fonts. See <a href="https://support.zendesk.com/hc/en-us/articles/206177737" target="_blank" rel="noopener noreferrer">Branding your Help Center</a> to learn how.</p>
+<p>You can also change the design of your Help Center. If you're comfortable working with page code, you can dig in to the site's HTML, CSS, and Javascript to customize your theme. To get started, see <a href="https://support.zendesk.com/hc/en-us/articles/203664326" target="_blank" rel="noopener noreferrer">Customizing the Help Center</a>.</p>
+<p> </p>
+<p>Modified</p>
+<p><a href="${ zendesk.brand.instance.nms_test@b }/hc/en-us/articles/${ zendesk.article.instance.Welcome_to_your_Help_Center__bla_Announcements_General_nms_test_b_uum_uuuum_uuuuuum@ssssluuuuuuuum }" target="_self">bla</a></p>
+<p>aa</p>
+<p> </p>

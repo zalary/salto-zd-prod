@@ -1,0 +1,11 @@
+zendesk.article_order circular_dependency_section_circular_dependency_category_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum@uuuuuuuuuuuum {
+  articles = [
+    zendesk.article.instance.att2_circular_dependency_section_circular_dependency_category_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum@uuuuuuuuuuuuum,
+    zendesk.article.instance.att1_circular_dependency_section_circular_dependency_category_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum@uuuuuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.section.instance.circular_dependency_section_circular_dependency_category_anotherBrand___Eden_test_sbss_ssuuuuum@ssuuuuuuuuum,
+  ]
+  _alias = "circular dependency section Article Order"
+}

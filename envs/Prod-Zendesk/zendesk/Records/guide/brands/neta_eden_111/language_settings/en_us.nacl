@@ -1,0 +1,6 @@
+zendesk.guide_language_settings neta_eden_111_en_us@uuub {
+  locale = "en-us"
+  name = "neta_eden_111"
+  brand = zendesk.brand.instance.neta_eden_111
+  _alias = "neta_eden_111 en-us language settings"
+}

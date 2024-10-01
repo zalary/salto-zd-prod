@@ -1,0 +1,13 @@
+zendesk.article_translation INCIDENT_15176___try_to_reference_non_inline_INCIDENT_15176_INCIDENT_15176_anotherBrand___Eden_test_sbss_buuuuum_buuuuuuuum_bsbsssssuuuuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuuuuuuuuuumuuuuuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  title = "INCIDENT-15176 - try to reference non inline"
+  body = file("zendesk/translations/guide/brands/anotherBrand - Eden test1/categories/INCIDENT_15176/sections/INCIDENT_15176/articles/INCIDENT_15176___try_to_reference_non_inline/translations/15277ccf90_INCIDENT_15176___try_to_reference_non_inline")
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.article.instance.INCIDENT_15176___try_to_reference_non_inline_INCIDENT_15176_INCIDENT_15176_anotherBrand___Eden_test_sbss_buuuuum_buuuuuuuum@bsbsssssuuuuuuuuuuum,
+  ]
+  _alias = "en-us - INCIDENT-15176 - try to reference non inline"
+}

@@ -1,0 +1,13 @@
+zendesk.category_translation kek_SeroussiTest__SeroussiTest_en_us_ub@uuuuum {
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_en_us@ub
+  title = "plop"
+  body = "hello!"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.category.instance.kek_SeroussiTest,
+  ]
+  _alias = "en-us - kek"
+}

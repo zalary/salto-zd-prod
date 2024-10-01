@@ -1,0 +1,11 @@
+zendesk.article_order Announcements_General_shirTest {
+  articles = [
+    zendesk.article.instance.Welcome_to_your_Help_Center__Announcements_General_shirTest@ssssluuu,
+    zendesk.article.instance.Sample_article__Stellar_Skyonomy_refund_policies_Announcements_General_shirTest@sfssssuuu,
+  ]
+  brand = zendesk.brand.instance.shirTest
+  _parent = [
+    zendesk.section.instance.Announcements_General_shirTest,
+  ]
+  _alias = "Announcements Article Order"
+}

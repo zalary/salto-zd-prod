@@ -1,0 +1,12 @@
+zendesk.article_attachment german_article_ahlan_bic_shalom_SeroussiTest_suu_suuuum__Screen_Shot_2022_09_14_at_16_06_27_copy_png_true@uuuuuumuuuubbuuvvuvu {
+  file_name = "Screen_Shot_2022-09-14_at_16.06.27_copy.png"
+  locale = "de"
+  content_type = "image/png"
+  inline = true
+  brand = zendesk.brand.instance.SeroussiTest
+  content = file("zendesk/article_attachments/guide/brands/SeroussiTest/categories/shalom/sections/ahlan_bic/articles/german_article/article_attachment/Screen_Shot_2022-09-14_at_16/74d3da2ac0_e5b1ba938a_Screen_Shot_2022-09-14_at_16.06.27_copy.png")
+  _parent = [
+    zendesk.article.instance.german_article_ahlan_bic_shalom_SeroussiTest_suu@suuuum,
+  ]
+  _alias = "Screen_Shot_2022-09-14_at_16.06.27_copy.png - german article"
+}

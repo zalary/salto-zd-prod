@@ -1,0 +1,13 @@
+zendesk.macro Client_n_ayant_pas_r_pondu@s_08217ss_00233 {
+  title = "Customer not responding"
+  active = true
+  default = false
+  actions = [
+    {
+      field = "priority"
+      value = "low"
+    },
+  ]
+  raw_title = "Customer not responding"
+  _alias = "Customer not responding"
+}

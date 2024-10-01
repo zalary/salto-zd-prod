@@ -1,0 +1,10 @@
+zendesk.article_order outer_section_inner_sections_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@uuuuuuuuuum {
+  articles = [
+    zendesk.article.instance.outer_article_outer_section_inner_sections_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@suuuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.section.instance.outer_section_inner_sections_anotherBrand___Eden_test_sbss_suuuuum@suuuuuuuum,
+  ]
+  _alias = "outer section Article Order"
+}

@@ -1,0 +1,11 @@
+zendesk.section_order General_anotherBrand___Eden_test_sbss_uuuuum@uuuuuum {
+  sections = [
+    zendesk.section.instance.FAQ_General_anotherBrand___Eden_test_sbss_uuuuum@uuuuuuum,
+    zendesk.section.instance.Announcements_General_anotherBrand___Eden_test_sbss_uuuuum@uuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.category.instance.General_anotherBrand___Eden_test_sbss@uuuuum,
+  ]
+  _alias = "General Section Order"
+}

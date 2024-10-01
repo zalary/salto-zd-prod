@@ -1,0 +1,20 @@
+zendesk.article Avoid_SOQL_queries_in_for_loops_Apex_Development_Salto@sssssuuu {
+  author_id = "pablo.gonzalez@salto.io"
+  comments_disabled = false
+  draft = true
+  promoted = false
+  section_id = zendesk.section.instance.Apex_Development_Salto
+  source_locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  outdated = false
+  user_segment_id = zendesk.user_segment.instance.Tier_3_Articles@s
+  permission_group_id = zendesk.permission_group.instance.Admins
+  translations = [
+    zendesk.article_translation.instance.Avoid_SOQL_queries_in_for_loops_Apex_Development_Salto_sssssuuu__Salto_en_us_ub@uuuuuuuumuuuum,
+  ]
+  user_segment_ids = [
+    zendesk.user_segment.instance.Tier_3_Articles@s,
+  ]
+  brand = zendesk.brand.instance.Salto
+  _alias = "Avoid SOQL queries in for loops"
+}

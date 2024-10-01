@@ -1,0 +1,13 @@
+zendesk.section_translation Section1_Categ1_TomerBrand__TomerBrand_en_us_ub@uuuuuum {
+  locale = zendesk.guide_language_settings.instance.TomerBrand_en_us@ub
+  title = "Section1"
+  body = "sdf sdfsdfsdfsdf"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.TomerBrand
+  _parent = [
+    zendesk.section.instance.Section1_Categ1_TomerBrand,
+  ]
+  _alias = "en-us - Section1"
+}

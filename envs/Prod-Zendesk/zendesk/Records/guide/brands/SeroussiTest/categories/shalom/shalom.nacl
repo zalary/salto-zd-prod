@@ -1,0 +1,11 @@
+zendesk.category shalom_SeroussiTest {
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_fr
+  source_locale = zendesk.guide_language_settings.instance.SeroussiTest_fr
+  outdated = false
+  translations = [
+    zendesk.category_translation.instance.shalom_SeroussiTest__SeroussiTest_fr,
+    zendesk.category_translation.instance.shalom_SeroussiTest__SeroussiTest_it,
+  ]
+  brand = zendesk.brand.instance.SeroussiTest
+  _alias = "shalom"
+}

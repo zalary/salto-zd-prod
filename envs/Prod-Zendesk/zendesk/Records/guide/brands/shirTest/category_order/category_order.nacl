@@ -1,0 +1,10 @@
+zendesk.category_order shirTest {
+  categories = [
+    zendesk.category.instance.General_shirTest,
+  ]
+  brand = zendesk.brand.instance.shirTest
+  _parent = [
+    zendesk.brand.instance.shirTest,
+  ]
+  _alias = "shirTest Category Order"
+}

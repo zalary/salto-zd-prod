@@ -1,0 +1,11 @@
+zendesk.article_attachment How_is_apex_different_to_Java__Apex_Development_Salto_sssssauuu__Screenshott_2022_11_23_at_10_40_31_png_false@uuuuuuuuumuuubbuuvvvu {
+  file_name = "Screenshott_2022-11-23_at_10.40.31.png"
+  content_type = "image/png"
+  inline = false
+  brand = zendesk.brand.instance.Salto
+  content = file("zendesk/article_attachments/guide/brands/Salto/categories/Development/sections/Apex/articles/How_is_apex_different_to_Java_/article_attachment/Screenshott_2022-11-23_at_10/c7b466969b_62716f4daf_Screenshott_2022-11-23_at_10.40.31.png")
+  _parent = [
+    zendesk.article.instance.How_is_apex_different_to_Java__Apex_Development_Salto@sssssauuu,
+  ]
+  _alias = "Screenshott_2022-11-23_at_10.40.31.png - How is apex different to Java?"
+}

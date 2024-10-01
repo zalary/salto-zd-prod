@@ -1,0 +1,11 @@
+zendesk.article_attachment How_do_I_customize_my_Help_Center__FAQ_General_nms_test_b_uum_uuuum_ssssssauuuuuum__x_false@uuuuuuuuuuuuuumuuu {
+  file_name = "x"
+  content_type = "unknown"
+  inline = false
+  brand = zendesk.brand.instance.nms_test@b
+  content = file("zendesk/article_attachments/guide/brands/nms-test/categories/General/sections/FAQ/articles/How_do_I_customize_my_Help_Center_/article_attachment/x/d52297d9ed_ba1f2511fc_x")
+  _parent = [
+    zendesk.article.instance.How_do_I_customize_my_Help_Center__FAQ_General_nms_test_b_uum_uuuum@ssssssauuuuuum,
+  ]
+  _alias = "x - How do I customize my Help Center?"
+}

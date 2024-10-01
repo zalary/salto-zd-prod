@@ -1,0 +1,13 @@
+zendesk.article_translation a_FAQ_General_TomerBrand__TomerBrand_en_us_ub@uuuuuuum {
+  locale = zendesk.guide_language_settings.instance.TomerBrand_en_us@ub
+  title = "a"
+  body = file("zendesk/translations/guide/brands/TomerBrand/categories/General/sections/FAQ/articles/a/translations/e7a06d9e29_a")
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.TomerBrand
+  _parent = [
+    zendesk.article.instance.a_FAQ_General_TomerBrand,
+  ]
+  _alias = "en-us - a"
+}

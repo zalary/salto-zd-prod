@@ -1,0 +1,23 @@
+zendesk.article ______FAQ_General_Salto@_01489_01491_01497_01511_01492uuu {
+  author_id = "zendesk-adapter@salto.io"
+  comments_disabled = false
+  draft = true
+  promoted = false
+  section_id = zendesk.section.instance.FAQ_General_Salto
+  source_locale = zendesk.guide_language_settings.instance.Salto_he
+  locale = zendesk.guide_language_settings.instance.Salto_he
+  outdated = false
+  user_segment_id = zendesk.user_segment.instance.Agents_and_admins@s
+  permission_group_id = zendesk.permission_group.instance.Admins
+  translations = [
+    zendesk.article_translation.instance.______FAQ_General_Salto__01489_01491_01497_01511_01492uuu__Salto_he@uuuuuuuumuuuuuuuu,
+  ]
+  label_names = [
+    "heb",
+  ]
+  user_segment_ids = [
+    zendesk.user_segment.instance.Agents_and_admins@s,
+  ]
+  brand = zendesk.brand.instance.Salto
+  _alias = "בדיקה"
+}

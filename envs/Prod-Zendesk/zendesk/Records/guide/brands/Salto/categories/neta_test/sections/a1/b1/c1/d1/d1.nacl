@@ -1,0 +1,14 @@
+zendesk.section d1_c1_b1_a1_neta_test_Salto_bu_uuum_uuuuum_uuuuuuum@uuuuuuuuum {
+  category_id = zendesk.category.instance.neta_test_Salto@bu
+  sorting = "manual"
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  source_locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  outdated = false
+  parent_section_id = zendesk.section.instance.c1_b1_a1_neta_test_Salto_bu_uuum_uuuuum@uuuuuuum
+  theme_template = "section_page"
+  translations = [
+    zendesk.section_translation.instance.d1_c1_b1_a1_neta_test_Salto_bu_uuum_uuuuum_uuuuuuum_uuuuuuuuum__Salto_en_us_ub@uuuuuuuuuumuuuum,
+  ]
+  brand = zendesk.brand.instance.Salto
+  _alias = "d1"
+}

@@ -1,0 +1,13 @@
+zendesk.section_translation i_am_a_lil_section_kek_SeroussiTest_ssssuu__SeroussiTest_it@uuuuuumuuu {
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_it
+  title = "i am a lil section"
+  body = "halo!"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.section.instance.i_am_a_lil_section_kek_SeroussiTest@ssssuu,
+  ]
+  _alias = "it - i am a lil section"
+}

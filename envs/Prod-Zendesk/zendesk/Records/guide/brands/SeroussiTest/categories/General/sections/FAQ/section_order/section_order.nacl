@@ -1,0 +1,7 @@
+zendesk.section_order FAQ_General_SeroussiTest {
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.section.instance.FAQ_General_SeroussiTest,
+  ]
+  _alias = "FAQ Section Order"
+}

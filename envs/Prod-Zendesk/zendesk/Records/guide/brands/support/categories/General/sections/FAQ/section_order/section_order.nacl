@@ -1,0 +1,10 @@
+zendesk.section_order FAQ_General_support {
+  sections = [
+    zendesk.section.instance.bla123_FAQ_General_support,
+  ]
+  brand = zendesk.brand.instance.support
+  _parent = [
+    zendesk.section.instance.FAQ_General_support,
+  ]
+  _alias = "FAQ Section Order"
+}

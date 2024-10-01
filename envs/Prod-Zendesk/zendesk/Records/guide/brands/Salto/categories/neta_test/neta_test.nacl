@@ -1,0 +1,10 @@
+zendesk.category neta_test_Salto@bu {
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  source_locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  outdated = false
+  translations = [
+    zendesk.category_translation.instance.neta_test_Salto_bu__Salto_en_us_ub@uumuuuum,
+  ]
+  brand = zendesk.brand.instance.Salto
+  _alias = "neta-test"
+}

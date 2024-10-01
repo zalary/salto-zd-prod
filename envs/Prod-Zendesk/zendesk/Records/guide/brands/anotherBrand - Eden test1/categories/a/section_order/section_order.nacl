@@ -1,0 +1,10 @@
+zendesk.section_order a_anotherBrand___Eden_test_sbss_uuuuum@uuuuuum {
+  sections = [
+    zendesk.section.instance.b_a_anotherBrand___Eden_test_sbss_uuuuum@uuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.category.instance.a_anotherBrand___Eden_test_sbss@uuuuum,
+  ]
+  _alias = "a Section Order"
+}

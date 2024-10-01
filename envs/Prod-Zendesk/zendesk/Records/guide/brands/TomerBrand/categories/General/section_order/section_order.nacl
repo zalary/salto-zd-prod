@@ -1,0 +1,11 @@
+zendesk.section_order General_TomerBrand {
+  sections = [
+    zendesk.section.instance.FAQ_General_TomerBrand,
+    zendesk.section.instance.Announcements_General_TomerBrand,
+  ]
+  brand = zendesk.brand.instance.TomerBrand
+  _parent = [
+    zendesk.category.instance.General_TomerBrand,
+  ]
+  _alias = "General Section Order"
+}

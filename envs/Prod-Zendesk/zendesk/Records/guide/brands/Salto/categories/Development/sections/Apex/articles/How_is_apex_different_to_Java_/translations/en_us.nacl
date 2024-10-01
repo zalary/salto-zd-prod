@@ -1,0 +1,13 @@
+zendesk.article_translation How_is_apex_different_to_Java__Apex_Development_Salto_sssssauuu__Salto_en_us_ub@uuuuuuuuumuuuum {
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  title = "How is apex different to Java?"
+  body = file("zendesk/translations/guide/brands/Salto/categories/Development/sections/Apex/articles/How_is_apex_different_to_Java_/translations/d9d3bdccb7_How_is_apex_different_to_Java_")
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.article.instance.How_is_apex_different_to_Java__Apex_Development_Salto@sssssauuu,
+  ]
+  _alias = "en-us - How is apex different to Java?"
+}

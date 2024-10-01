@@ -1,0 +1,14 @@
+zendesk.section last_test_Test_Salto@suu {
+  category_id = zendesk.category.instance.Test_Salto
+  sorting = "manual"
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  source_locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  outdated = false
+  theme_template = "section_page"
+  translations = [
+    zendesk.section_translation.instance.last_test_Test_Salto_suu__Salto_en_us_ub@uuumuuuum,
+    zendesk.section_translation.instance.last_test_Test_Salto_suu__Salto_he@uuumuuu,
+  ]
+  brand = zendesk.brand.instance.Salto
+  _alias = "last test"
+}

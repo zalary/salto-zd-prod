@@ -1,0 +1,13 @@
+zendesk.section Everything_about_DevOps_General_Salto@ssuu {
+  category_id = zendesk.category.instance.General_Salto
+  sorting = "manual"
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  source_locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  outdated = false
+  theme_template = "section_page"
+  translations = [
+    zendesk.section_translation.instance.Everything_about_DevOps_General_Salto_ssuu__Salto_en_us_ub@uuuumuuuum,
+  ]
+  brand = zendesk.brand.instance.Salto
+  _alias = "Everything about DevOps"
+}

@@ -1,0 +1,12 @@
+zendesk.article_translation something123_FAQ_General_nms_test_b_uum_uuuum_uuuuuum__nms_test_b_en_us_umub@uuuuuuumuuuuuum {
+  locale = zendesk.guide_language_settings.instance.nms_test_b_en_us@umub
+  title = "something123"
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.nms_test@b
+  _parent = [
+    zendesk.article.instance.something123_FAQ_General_nms_test_b_uum_uuuum@uuuuuum,
+  ]
+  _alias = "en-us - something123"
+}

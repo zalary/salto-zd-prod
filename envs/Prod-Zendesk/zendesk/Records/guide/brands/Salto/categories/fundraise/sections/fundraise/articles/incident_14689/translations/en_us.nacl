@@ -1,0 +1,16 @@
+zendesk.article_translation incident_14689_fundraise_fundraise_Salto_suuu__Salto_en_us_ub@uuuumuuuum {
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  title = "incident 14689"
+  body = file(
+    "zendesk/translations/guide/brands/Salto/categories/fundraise/sections/fundraise/articles/incident_14689/translations/28d403ab1e_incident_14689",
+    "template",
+  )
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.article.instance.incident_14689_fundraise_fundraise_Salto@suuu,
+  ]
+  _alias = "en-us - incident 14689"
+}
