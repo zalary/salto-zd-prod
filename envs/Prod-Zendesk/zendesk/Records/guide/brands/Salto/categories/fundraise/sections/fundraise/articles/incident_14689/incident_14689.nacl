@@ -1,7 +1,6 @@
 zendesk.article incident_14689_fundraise_fundraise_Salto@suuu {
   author_id = "zendesk-adapter@salto.io"
   comments_disabled = true
-  draft = true
   promoted = false
   section_id = zendesk.section.instance.fundraise_fundraise_Salto
   source_locale = zendesk.guide_language_settings.instance.Salto_en_us@ub

@@ -1,7 +1,6 @@
 zendesk.article Avoid_SOQL_queries_in_for_loops_Apex_Development_Salto@sssssuuu {
   author_id = "pablo.gonzalez@salto.io"
   comments_disabled = false
-  draft = true
   promoted = false
   section_id = zendesk.section.instance.Apex_Development_Salto
   source_locale = zendesk.guide_language_settings.instance.Salto_en_us@ub

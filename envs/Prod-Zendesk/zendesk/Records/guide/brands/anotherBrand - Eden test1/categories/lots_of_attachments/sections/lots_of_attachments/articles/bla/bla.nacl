@@ -1,7 +1,6 @@
 zendesk.article bla_lots_of_attachments_lots_of_attachments_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum@uuuuuuuuuuuuum {
   author_id = "zendesk-adapter@salto.io"
   comments_disabled = false
-  draft = true
   promoted = false
   section_id = zendesk.section.instance.lots_of_attachments_lots_of_attachments_anotherBrand___Eden_test_sbss_ssuuuuum@ssuuuuuuuuum
   source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
@@ -11,6 +10,7 @@ zendesk.article bla_lots_of_attachments_lots_of_attachments_anotherBrand___Eden_
   permission_group_id = zendesk.permission_group.instance.Admins
   translations = [
     zendesk.article_translation.instance.bla_lots_of_attachments_lots_of_attachments_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum_uuuuuuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuuuumuuuuuuuuum,
+    zendesk.article_translation.instance.bla_lots_of_attachments_lots_of_attachments_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum_uuuuuuuuuuuuum__anotherBrand___Eden_test_sbss_he_uuuumu@uuuuuuuuuuuuuumuuuuuuuum,
   ]
   user_segment_ids = [
     zendesk.user_segment.instance.Agents_and_admins@s,

@@ -1,7 +1,6 @@
 zendesk.article How_can_agents_leverage_knowledge_to_help_customers__FAQ_General_nms_test_b_uum_uuuum@sssssssauuuuuum {
   author_id = "zendesk-adapter@salto.io"
   comments_disabled = false
-  draft = false
   promoted = false
   section_id = zendesk.section.instance.FAQ_General_nms_test_b_uum@uuuum
   source_locale = zendesk.guide_language_settings.instance.nms_test_b_en_us@umub

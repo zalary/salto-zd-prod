@@ -1,7 +1,6 @@
 zendesk.article How_do_I_customize_my_Help_Center__FAQ_General_SRD___Test_sbs_uuuum_uuuuuum@ssssssauuuuuuuum {
   author_id = "gil.hoffer@salto.io"
   comments_disabled = false
-  draft = false
   promoted = false
   section_id = zendesk.section.instance.FAQ_General_SRD___Test_sbs_uuuum@uuuuuum
   source_locale = zendesk.guide_language_settings.instance.SRD___Test_sbs_en_us@uuumub

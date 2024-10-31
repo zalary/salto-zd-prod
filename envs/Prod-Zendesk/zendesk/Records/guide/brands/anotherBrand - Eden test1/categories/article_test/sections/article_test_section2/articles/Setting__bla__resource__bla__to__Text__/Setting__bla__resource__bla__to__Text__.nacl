@@ -1,7 +1,6 @@
 zendesk.article Setting__bla__resource__bla__to__Text___article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum_ssuuuuuuuum@szazasszazassrvruuuuuuuuuuuum {
   author_id = "zendesk-adapter@salto.io"
   comments_disabled = false
-  draft = true
   promoted = false
   section_id = zendesk.section.instance.article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum@ssuuuuuuuum
   source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub

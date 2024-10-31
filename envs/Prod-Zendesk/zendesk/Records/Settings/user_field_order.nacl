@@ -19,6 +19,8 @@ zendesk.user_field_order {
     zendesk.user_field.instance.dup_test2,
     zendesk.user_field.instance.uppercase,
     zendesk.user_field.instance.UpperCase2,
+    zendesk.user_field.instance.system_nps_rating,
+    zendesk.user_field.instance.system_nps_rating1,
   ]
   inactive = [
   ]

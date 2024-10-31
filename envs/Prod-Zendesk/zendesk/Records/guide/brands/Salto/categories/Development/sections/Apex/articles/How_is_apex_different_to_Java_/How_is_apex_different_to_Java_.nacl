@@ -1,7 +1,6 @@
 zendesk.article How_is_apex_different_to_Java__Apex_Development_Salto@sssssauuu {
   author_id = "pablo.gonzalez@salto.io"
   comments_disabled = false
-  draft = false
   promoted = false
   section_id = zendesk.section.instance.Apex_Development_Salto
   source_locale = zendesk.guide_language_settings.instance.Salto_en_us@ub

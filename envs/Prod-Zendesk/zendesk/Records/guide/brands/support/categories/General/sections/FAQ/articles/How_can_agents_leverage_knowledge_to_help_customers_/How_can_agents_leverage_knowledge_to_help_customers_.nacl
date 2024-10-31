@@ -1,7 +1,6 @@
 zendesk.article How_can_agents_leverage_knowledge_to_help_customers__FAQ_General_support@sssssssauuu {
   author_id = "gil.hoffer@salto.io"
   comments_disabled = false
-  draft = false
   promoted = false
   section_id = zendesk.section.instance.FAQ_General_support
   source_locale = zendesk.guide_language_settings.instance.support_en_us@ub

@@ -15,6 +15,12 @@ zendesk.view status_view@s {
     }
     columns = [
       {
+        id = "custom_status_id"
+        title = "Ticket status"
+        filterable = true
+        sortable = false
+      },
+      {
         id = "satisfaction_score"
         title = "Satisfaction"
         filterable = true
@@ -46,6 +52,12 @@ zendesk.view status_view@s {
       },
     ]
     fields = [
+      {
+        id = "custom_status_id"
+        title = "Ticket status"
+        filterable = true
+        sortable = false
+      },
       {
         id = "satisfaction_score"
         title = "Satisfaction"

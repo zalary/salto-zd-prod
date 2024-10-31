@@ -1,7 +1,6 @@
 zendesk.article Welcome_to_your_Help_Center__Announcements_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@ssssluuuuuuuuum {
   author_id = "gil.hoffer@salto.io"
   comments_disabled = false
-  draft = false
   promoted = false
   section_id = zendesk.section.instance.Announcements_General_anotherBrand___Eden_test_sbss_uuuuum@uuuuuuum
   source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub

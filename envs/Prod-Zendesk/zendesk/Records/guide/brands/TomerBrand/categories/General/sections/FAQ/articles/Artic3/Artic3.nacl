@@ -1,7 +1,6 @@
 zendesk.article Artic3_FAQ_General_TomerBrand {
   author_id = "zendesk-adapter@salto.io"
   comments_disabled = false
-  draft = true
   promoted = false
   section_id = zendesk.section.instance.FAQ_General_TomerBrand
   source_locale = zendesk.guide_language_settings.instance.TomerBrand_en_us@ub

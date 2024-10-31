@@ -1,7 +1,6 @@
 zendesk.article Guy_this_is_an_example__e1_d1_c1_b1_a1_neta_test_Salto_bu_uuum_uuuuum_uuuuuuum_uuuuuuuuum_uuuuuuuuuuum@ssssluuuuuuuuuuuuum {
   author_id = "neta.marcus@salto.io"
   comments_disabled = false
-  draft = true
   promoted = false
   section_id = zendesk.section.instance.e1_d1_c1_b1_a1_neta_test_Salto_bu_uuum_uuuuum_uuuuuuum_uuuuuuuuum@uuuuuuuuuuum
   source_locale = zendesk.guide_language_settings.instance.Salto_en_us@ub

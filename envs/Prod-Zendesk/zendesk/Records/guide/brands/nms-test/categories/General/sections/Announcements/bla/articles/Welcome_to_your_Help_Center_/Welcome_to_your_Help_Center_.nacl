@@ -1,7 +1,6 @@
 zendesk.article Welcome_to_your_Help_Center__bla_Announcements_General_nms_test_b_uum_uuuum_uuuuuum@ssssluuuuuuuum {
   author_id = "gil.hoffer@salto.io"
   comments_disabled = false
-  draft = false
   promoted = false
   section_id = zendesk.section.instance.bla_Announcements_General_nms_test_b_uum_uuuum@uuuuuum
   source_locale = zendesk.guide_language_settings.instance.nms_test_b_en_us@umub

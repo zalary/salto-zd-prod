@@ -6,6 +6,7 @@ zendesk.dynamic_content_item eden {
   variants = [
     zendesk.dynamic_content_item__variants.instance.eden__de,
     zendesk.dynamic_content_item__variants.instance.eden__en_US_b@uuum,
+    zendesk.dynamic_content_item__variants.instance.eden__it,
   ]
   _alias = "eden"
 }

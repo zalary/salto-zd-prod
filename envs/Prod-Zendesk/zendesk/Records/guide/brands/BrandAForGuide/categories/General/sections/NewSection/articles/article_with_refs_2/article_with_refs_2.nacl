@@ -1,7 +1,6 @@
 zendesk.article article_with_refs_2_NewSection_General_BrandAForGuide@sssuuu {
   author_id = "zendesk-adapter@salto.io"
   comments_disabled = false
-  draft = false
   promoted = false
   section_id = zendesk.section.instance.NewSection_General_BrandAForGuide
   source_locale = zendesk.guide_language_settings.instance.BrandAForGuide_en_us@ub

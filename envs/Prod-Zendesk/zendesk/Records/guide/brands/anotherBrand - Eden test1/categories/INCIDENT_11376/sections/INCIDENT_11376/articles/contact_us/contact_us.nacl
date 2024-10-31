@@ -1,7 +1,6 @@
 zendesk.article contact_us_INCIDENT_11376_INCIDENT_11376_anotherBrand___Eden_test_sbss_buuuuum_buuuuuuuum@suuuuuuuuuuum {
   author_id = "zendesk-adapter@salto.io"
   comments_disabled = false
-  draft = false
   promoted = false
   section_id = zendesk.section.instance.INCIDENT_11376_INCIDENT_11376_anotherBrand___Eden_test_sbss_buuuuum@buuuuuuuum
   source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub

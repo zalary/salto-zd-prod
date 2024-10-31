@@ -1,7 +1,6 @@
 zendesk.article How_do_I_publish_my_content_in_other_languages__FAQ_General_support@ssssssssauuu {
   author_id = "gil.hoffer@salto.io"
   comments_disabled = false
-  draft = false
   promoted = false
   section_id = zendesk.section.instance.FAQ_General_support
   source_locale = zendesk.guide_language_settings.instance.support_en_us@ub

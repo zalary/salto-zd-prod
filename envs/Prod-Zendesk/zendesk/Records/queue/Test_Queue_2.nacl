@@ -1,6 +1,6 @@
 zendesk.queue Test_Queue_2@s {
   name = "Test Queue 2"
-  priority = 100
+  priority = 90
   definition = {
     all = [
       {

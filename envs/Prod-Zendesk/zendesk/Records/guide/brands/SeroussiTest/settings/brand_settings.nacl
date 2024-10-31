@@ -2,7 +2,7 @@ zendesk.guide_settings SeroussiTest {
   help_center = {
     general_settings_attributes = {
       agent_requests_enabled = false
-      anonymous_kb_voting_enabled = false
+      anonymous_kb_voting_enabled = true
       article_sanitization_disabled = false
       at_mentions_enabled = true
       community_badges_shown = false
@@ -26,6 +26,7 @@ zendesk.guide_settings SeroussiTest {
       google_analytics_4_tracking_id = ""
       enable_article_notification_on_all_articles = false
       anonymous_user_tracking_enabled = false
+      generative_questions_enabled = false
     }
   }
   brand = zendesk.brand.instance.SeroussiTest

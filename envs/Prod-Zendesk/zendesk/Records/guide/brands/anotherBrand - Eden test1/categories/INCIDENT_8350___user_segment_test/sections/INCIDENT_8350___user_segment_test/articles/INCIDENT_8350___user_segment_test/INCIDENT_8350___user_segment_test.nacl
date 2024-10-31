@@ -1,7 +1,6 @@
 zendesk.article INCIDENT_8350___user_segment_test_INCIDENT_8350___user_segment_test_INCIDENT_8350___user_segment_test_anotherBrand___Eden_test_sbss_bsbsssuuuuum_bsbsssuuuuuuuuuuuuum@bsbsssuuuuuuuuuuuuuuuuuuuuum {
   author_id = "zendesk-adapter@salto.io"
   comments_disabled = false
-  draft = true
   promoted = false
   section_id = zendesk.section.instance.INCIDENT_8350___user_segment_test_INCIDENT_8350___user_segment_test_anotherBrand___Eden_test_sbss_bsbsssuuuuum@bsbsssuuuuuuuuuuuuum
   source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub

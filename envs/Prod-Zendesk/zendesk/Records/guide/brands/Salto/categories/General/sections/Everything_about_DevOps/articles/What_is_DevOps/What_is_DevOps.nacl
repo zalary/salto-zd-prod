@@ -1,7 +1,6 @@
 zendesk.article What_is_DevOps_Everything_about_DevOps_General_Salto_ssuu@ssuuuuum {
   author_id = "zendesk-adapter@salto.io"
   comments_disabled = false
-  draft = true
   promoted = false
   section_id = zendesk.section.instance.Everything_about_DevOps_General_Salto@ssuu
   source_locale = zendesk.guide_language_settings.instance.Salto_en_us@ub

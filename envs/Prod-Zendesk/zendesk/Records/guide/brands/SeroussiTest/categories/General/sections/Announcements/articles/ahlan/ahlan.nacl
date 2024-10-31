@@ -1,7 +1,6 @@
 zendesk.article ahlan_Announcements_General_SeroussiTest {
   author_id = "zendesk-adapter@salto.io"
   comments_disabled = true
-  draft = false
   promoted = false
   section_id = zendesk.section.instance.Announcements_General_SeroussiTest
   source_locale = zendesk.guide_language_settings.instance.SeroussiTest_ar

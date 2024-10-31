@@ -52,9 +52,6 @@ zendesk.custom_role role56 {
     manage_macro_content_suggestions = false
     read_macro_content_suggestions = false
     manage_deletion_schedules = "none"
-    explore_reports = {
-      ticket_access = "none"
-    }
     assign_agent_statuses = false
   }
   _alias = "role56"

@@ -1,7 +1,6 @@
 zendesk.article How_do_I_customize_my_Help_Center__FAQ_General_nms_test_b_uum_uuuum@ssssssauuuuuum {
   author_id = "gil.hoffer@salto.io"
   comments_disabled = false
-  draft = false
   promoted = false
   section_id = zendesk.section.instance.FAQ_General_nms_test_b_uum@uuuum
   source_locale = zendesk.guide_language_settings.instance.nms_test_b_en_us@umub

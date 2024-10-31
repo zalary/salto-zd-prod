@@ -7,6 +7,12 @@ zendesk.view test {
     sort_order = "desc"
     columns = [
       {
+        id = "custom_status_id"
+        title = "Ticket status"
+        filterable = true
+        sortable = false
+      },
+      {
         id = "subject"
         title = "Subject"
         filterable = false
@@ -44,6 +50,12 @@ zendesk.view test {
       },
     ]
     fields = [
+      {
+        id = "custom_status_id"
+        title = "Ticket status"
+        filterable = true
+        sortable = false
+      },
       {
         id = "subject"
         title = "Subject"
@@ -93,6 +105,23 @@ zendesk.view test {
         field = "assignee_id"
         operator = "is"
         value = "neta.marcus@salto.io"
+      },
+      {
+        field = "ccs"
+        operator = "includes"
+        value = [
+          "1534261810641",
+          "current_user",
+          "1529420581441",
+        ]
+      },
+      {
+        field = "followers"
+        operator = "includes"
+        value = [
+          "1534261811801",
+          "12755059794067",
+        ]
       },
     ]
   }

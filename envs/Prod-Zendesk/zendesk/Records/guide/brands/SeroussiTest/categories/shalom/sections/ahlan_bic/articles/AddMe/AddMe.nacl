@@ -1,7 +1,6 @@
 zendesk.article AddMe_ahlan_bic_shalom_SeroussiTest_suu@uuuum {
   author_id = "zendesk-adapter@salto.io"
   comments_disabled = false
-  draft = true
   promoted = false
   section_id = zendesk.section.instance.ahlan_bic_shalom_SeroussiTest@suu
   source_locale = zendesk.guide_language_settings.instance.SeroussiTest_en_us@ub

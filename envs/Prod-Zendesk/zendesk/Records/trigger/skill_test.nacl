@@ -5,7 +5,13 @@ zendesk.trigger skill_test@s {
   actions = [
     {
       field = "set_skills"
-      value = zendesk.routing_attribute_value.instance.missing_3699dee7_8c18_11ec_b95f_13a275f60042_1@ubbbbn
+      value = zendesk.routing_attribute_value.instance.Test__Test1
+      priority = "required"
+    },
+    {
+      field = "set_skills"
+      value = zendesk.routing_attribute_value.instance.Test__Test1222
+      priority = "required"
     },
   ]
   conditions = {

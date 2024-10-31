@@ -1,7 +1,6 @@
 zendesk.article test_space4_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@suuuuuuuuum {
   author_id = "la+1@example.org"
   comments_disabled = false
-  draft = true
   promoted = false
   section_id = zendesk.section.instance.b_a_anotherBrand___Eden_test_sbss_uuuuum@uuuuuuum
   source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub

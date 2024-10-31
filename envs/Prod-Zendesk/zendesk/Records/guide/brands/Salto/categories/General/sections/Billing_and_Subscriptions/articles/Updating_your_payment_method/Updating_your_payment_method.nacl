@@ -1,7 +1,6 @@
 zendesk.article Updating_your_payment_method_Billing_and_Subscriptions_General_Salto_ssuu@sssuuuuum {
   author_id = "pablo.gonzalez@salto.io"
   comments_disabled = false
-  draft = false
   promoted = false
   section_id = zendesk.section.instance.Billing_and_Subscriptions_General_Salto@ssuu
   source_locale = zendesk.guide_language_settings.instance.Salto_en_us@ub

@@ -1,7 +1,6 @@
 zendesk.article How_do_I_customize_my_Help_Center__FAQ_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@ssssssauuuuuuuuum {
   author_id = "zendesk-adapter@salto.io"
   comments_disabled = false
-  draft = false
   promoted = false
   section_id = zendesk.section.instance.FAQ_General_anotherBrand___Eden_test_sbss_uuuuum@uuuuuuum
   source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub

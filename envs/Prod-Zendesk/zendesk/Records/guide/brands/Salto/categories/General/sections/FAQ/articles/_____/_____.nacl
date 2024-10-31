@@ -1,7 +1,6 @@
 zendesk.article ______FAQ_General_Salto@_01489_01491_01497_01511_01492uuu {
   author_id = "zendesk-adapter@salto.io"
   comments_disabled = false
-  draft = true
   promoted = false
   section_id = zendesk.section.instance.FAQ_General_Salto
   source_locale = zendesk.guide_language_settings.instance.Salto_he

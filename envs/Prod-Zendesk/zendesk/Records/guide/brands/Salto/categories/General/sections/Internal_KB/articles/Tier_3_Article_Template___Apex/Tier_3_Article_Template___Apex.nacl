@@ -1,7 +1,6 @@
 zendesk.article Tier_3_Article_Template___Apex_Internal_KB_General_Salto_suu@ssssbsuuuum {
   author_id = "pablo.gonzalez@salto.io"
   comments_disabled = false
-  draft = true
   promoted = false
   section_id = zendesk.section.instance.Internal_KB_General_Salto@suu
   source_locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
