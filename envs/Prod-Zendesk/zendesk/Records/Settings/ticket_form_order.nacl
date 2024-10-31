@@ -55,6 +55,7 @@ zendesk.ticket_form_order {
     zendesk.ticket_form.instance.dep,
     zendesk.ticket_form.instance.Adam_test@s,
     zendesk.ticket_form.instance.Adam_test_sorting@s,
+    zendesk.ticket_form.instance.ZGY_Halloween_Form@s,
   ]
   inactive = [
     zendesk.ticket_form.instance.Daniel_s_inactive_ticket_form@tsss,
