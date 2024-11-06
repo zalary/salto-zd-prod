@@ -4,7 +4,7 @@ zendesk.article_attachment deleted_attachments_deleted_attachments_deleted_attac
   content_type = "image/png"
   inline = true
   brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
-  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test1/categories/deleted_attachments/sections/deleted_attachments/articles/deleted_attachments/article_attachment/nacl/053d6e9ff9_ec8e79c0d7_nacl.png")
+  content = file("zendesk/article_attachments/guide/unsorted/categories/sections/deleted_attachments/articles/deleted_attachments/article_attachment/nacl/053d6e9ff9_ec8e79c0d7_nacl.png")
   _parent = [
     zendesk.article.instance.deleted_attachments_deleted_attachments_deleted_attachments_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@suuuuuuuuuuum,
   ]

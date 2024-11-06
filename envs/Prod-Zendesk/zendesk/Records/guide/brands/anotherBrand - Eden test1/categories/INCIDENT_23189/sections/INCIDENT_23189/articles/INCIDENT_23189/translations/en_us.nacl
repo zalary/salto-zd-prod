@@ -2,7 +2,7 @@ zendesk.article_translation INCIDENT_23189_INCIDENT_23189_INCIDENT_23189_another
   locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
   title = "INCIDENT-23189"
   body = file(
-    "zendesk/translations/guide/brands/anotherBrand - Eden test1/categories/INCIDENT_23189/sections/INCIDENT_23189/articles/INCIDENT_23189/translations/69cb89a44d_INCIDENT_23189",
+    "zendesk/translations/guide/unsorted/categories/sections/INCIDENT_23189/articles/INCIDENT_23189/translations/69cb89a44d_INCIDENT_23189",
     "template",
   )
   outdated = false

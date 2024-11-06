@@ -3,7 +3,7 @@ zendesk.article_attachment Neta_test__aaa_article_test_section2_article_test_ano
   content_type = "image/png"
   inline = false
   brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
-  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test1/categories/article_test/sections/article_test_section2/articles/Neta_test__aaa/article_attachment/knuckles/75a173851a_80f6f478ed_knuckles.png")
+  content = file("zendesk/article_attachments/guide/unsorted/categories/sections/article_test_section2/articles/Neta_test__aaa/article_attachment/knuckles/75a173851a_80f6f478ed_knuckles.png")
   _parent = [
     zendesk.article.instance.Neta_test__aaa_article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum_ssuuuuuuuum@sszauuuuuuuuuuuum,
   ]

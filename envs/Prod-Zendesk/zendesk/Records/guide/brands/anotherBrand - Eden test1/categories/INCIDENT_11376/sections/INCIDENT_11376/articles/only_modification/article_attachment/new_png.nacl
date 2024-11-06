@@ -4,7 +4,7 @@ zendesk.article_attachment only_modification_INCIDENT_11376_INCIDENT_11376_anoth
   content_type = "image/png"
   inline = true
   brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
-  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test1/categories/INCIDENT_11376/sections/INCIDENT_11376/articles/only_modification/article_attachment/new/3a697701ff_66902eb3a0_new.png")
+  content = file("zendesk/article_attachments/guide/unsorted/categories/sections/INCIDENT_11376/articles/only_modification/article_attachment/new/3a697701ff_66902eb3a0_new.png")
   _parent = [
     zendesk.article.instance.only_modification_INCIDENT_11376_INCIDENT_11376_anotherBrand___Eden_test_sbss_buuuuum_buuuuuuuum@suuuuuuuuuuum,
   ]

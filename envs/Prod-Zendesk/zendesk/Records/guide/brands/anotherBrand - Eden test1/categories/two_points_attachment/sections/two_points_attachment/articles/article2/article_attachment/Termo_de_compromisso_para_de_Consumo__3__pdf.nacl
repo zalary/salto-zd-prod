@@ -3,7 +3,7 @@ zendesk.article_attachment article2_two_points_attachment_two_points_attachment_
   content_type = "application/octet-stream"
   inline = false
   brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
-  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test1/categories/two_points_attachment/sections/two_points_attachment/articles/article2/article_attachment/Termo de compromisso para de Consumo (3)/7ac76d4332_33d99045f2_Termo de compromisso para de Consumo (3).pdf")
+  content = file("zendesk/article_attachments/guide/unsorted/categories/sections/two_points_attachment/articles/article2/article_attachment/Termo de compromisso para de Consumo (3)/7ac76d4332_33d99045f2_Termo de compromisso para de Consumo (3).pdf")
   _parent = [
     zendesk.article.instance.article2_two_points_attachment_two_points_attachment_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum@uuuuuuuuuuuuum,
   ]

@@ -2,5 +2,4 @@ zendesk.guide_language_settings anotherBrand___Eden_test_sbss_en_us@uuuumub {
   locale = "en-us"
   name = "anotherBrand - Eden test"
   brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
-  _alias = "anotherBrand - Eden test1 en-us language settings"
 }

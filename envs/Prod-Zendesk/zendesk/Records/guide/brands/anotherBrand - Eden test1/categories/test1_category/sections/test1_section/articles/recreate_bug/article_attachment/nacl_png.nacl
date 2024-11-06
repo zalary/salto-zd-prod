@@ -4,7 +4,7 @@ zendesk.article_attachment recreate_bug_test1_section_test1_category_anotherBran
   content_type = "image/png"
   inline = true
   brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
-  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test1/categories/test1_category/sections/test1_section/articles/recreate_bug/article_attachment/nacl/69ff57c689_ec8e79c0d7_nacl.png")
+  content = file("zendesk/article_attachments/guide/unsorted/categories/sections/test1_section/articles/recreate_bug/article_attachment/nacl/69ff57c689_ec8e79c0d7_nacl.png")
   _parent = [
     zendesk.article.instance.recreate_bug_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@suuuuuuuuuuum,
   ]

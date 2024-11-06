@@ -1,7 +1,7 @@
 zendesk.article_translation _________4_Announcements_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum__01496_01505_01496s_01489_01491_01497_01511_01492uuuuuuuuum__anotherBrand___Eden_test_sbss_he_uuuumu@uuuuuuuuuuuuuuuuuuumuuuuuuuuuuuuuuuum {
   locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_he@uuuumu
   title = "טסט בדיקה4"
-  body = file("zendesk/translations/guide/brands/anotherBrand - Eden test1/categories/General/sections/Announcements/articles/_________4/translations/66ce38f9bf__________4")
+  body = file("zendesk/translations/guide/unsorted/categories/sections/Announcements/articles/_________4/translations/66ce38f9bf__________4")
   outdated = false
   draft = true
   hidden = true
