@@ -1,0 +1,6 @@
+<p>this is a link to a section: ${ zendesk.brand.instance.TomerBrand }/hc/en-us/sections/${ zendesk.section.instance.Section1_Categ1_TomerBrand }-Section1</p>
+<p> </p>
+<p>outside:</p>
+<p>youtube: <a href="https://www.youtube.com/">https://www.youtube.com/</a></p>
+<p>ynet: <a href="https://www.ynet.co.il/home/0,7340,L-8,00.html">https://www.ynet.co.il/home/0,7340,L-8,00.html</a></p>
+<p><img src="${ zendesk.brand.instance.anotherBrand___Eden_test1@sbss }/hc/article_attachments/${ zendesk.article_attachment.instance.article_with_links_and_attachments____article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum_ssuuuuuuuum_ssssllluuuuuuuuuuuum__nacl_png_true@uuuuuuuuuuuuuuuuuuuumuuvu }" alt="nacl.png"></p>

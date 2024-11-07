@@ -5,7 +5,7 @@ zendesk.macro bug_test_macro@s {
   actions = [
     {
       field = "brand_id"
-      value = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+      value = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
     },
   ]
   raw_title = "bug test macro"

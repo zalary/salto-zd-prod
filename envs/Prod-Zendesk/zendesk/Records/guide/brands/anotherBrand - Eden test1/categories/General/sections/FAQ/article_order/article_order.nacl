@@ -8,7 +8,7 @@ zendesk.article_order FAQ_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@
     zendesk.article.instance.How_do_I_customize_my_Help_Center__FAQ_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@ssssssauuuuuuuuum,
     zendesk.article.instance.What_are_these_sections_and_articles_doing_here__FAQ_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@sssssssauuuuuuuuum,
   ]
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
   _parent = [
     zendesk.section.instance.FAQ_General_anotherBrand___Eden_test_sbss_uuuuum@uuuuuuum,
   ]

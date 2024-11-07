@@ -23,7 +23,7 @@ zendesk.trigger eden_test_@s {
       {
         field = "brand_id"
         operator = "is"
-        value = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+        value = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
       },
     ]
   }

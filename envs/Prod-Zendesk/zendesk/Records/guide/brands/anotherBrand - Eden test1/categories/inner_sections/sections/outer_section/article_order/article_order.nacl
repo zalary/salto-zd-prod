@@ -2,7 +2,7 @@ zendesk.article_order outer_section_inner_sections_anotherBrand___Eden_test_sbss
   articles = [
     zendesk.article.instance.outer_article_outer_section_inner_sections_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@suuuuuuuuuuum,
   ]
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
   _parent = [
     zendesk.section.instance.outer_section_inner_sections_anotherBrand___Eden_test_sbss_suuuuum@suuuuuuuum,
   ]

@@ -1,14 +1,14 @@
 zendesk.section inner_section_outer_section_inner_sections_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@suuuuuuuuuuum {
   category_id = zendesk.category.instance.inner_sections_anotherBrand___Eden_test_sbss@suuuuum
   sorting = "manual"
-  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
-  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_en_us@uuuumub
+  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_en_us@uuuumub
   outdated = false
   parent_section_id = zendesk.section.instance.outer_section_inner_sections_anotherBrand___Eden_test_sbss_suuuuum@suuuuuuuum
   theme_template = "section_page"
   translations = [
     zendesk.section_translation.instance.inner_section_outer_section_inner_sections_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum_suuuuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuuumuuuuuuuuum,
   ]
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
   _alias = "inner section"
 }

@@ -3,8 +3,8 @@ zendesk.article_attachment recreate_bug_test1_section_test1_category_anotherBran
   locale = "en-us"
   content_type = "image/png"
   inline = true
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
-  content = file("zendesk/article_attachments/guide/unsorted/categories/sections/test1_section/articles/recreate_bug/article_attachment/amit_bday/366332fc91_87b384b84f_amit_bday.png")
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
+  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test1/categories/test1_category/sections/test1_section/articles/recreate_bug/article_attachment/amit_bday/366332fc91_87b384b84f_amit_bday.png")
   _parent = [
     zendesk.article.instance.recreate_bug_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@suuuuuuuuuuum,
   ]

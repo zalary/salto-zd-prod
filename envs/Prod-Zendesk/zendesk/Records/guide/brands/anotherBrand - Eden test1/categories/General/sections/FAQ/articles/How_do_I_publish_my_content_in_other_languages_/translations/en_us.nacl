@@ -1,11 +1,11 @@
 zendesk.article_translation How_do_I_publish_my_content_in_other_languages__FAQ_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum_ssssssssauuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuuuuuuuuumuuuuuuuuum {
-  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_en_us@uuuumub
   title = "How do I publish my content in other languages?"
-  body = file("zendesk/translations/guide/unsorted/categories/sections/FAQ/articles/How_do_I_publish_my_content_in_other_languages_/translations/eff5bb2b05_How_do_I_publish_my_content_in_other_languages_")
+  body = file("zendesk/translations/guide/brands/anotherBrand - Eden test1/categories/General/sections/FAQ/articles/How_do_I_publish_my_content_in_other_languages_/translations/eff5bb2b05_How_do_I_publish_my_content_in_other_languages_")
   outdated = false
   draft = false
   hidden = false
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
   _parent = [
     zendesk.article.instance.How_do_I_publish_my_content_in_other_languages__FAQ_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@ssssssssauuuuuuuuum,
   ]

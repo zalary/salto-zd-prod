@@ -4,7 +4,7 @@ zendesk.article_order INCIDENT_15176_INCIDENT_15176_anotherBrand___Eden_test_sbs
     zendesk.article.instance.Untitled_INCIDENT_15176_INCIDENT_15176_anotherBrand___Eden_test_sbss_buuuuum_buuuuuuuum@uuuuuuuuuuum,
     zendesk.article.instance.INCIDENT_15176___try_to_reference_non_inline_INCIDENT_15176_INCIDENT_15176_anotherBrand___Eden_test_sbss_buuuuum_buuuuuuuum@bsbsssssuuuuuuuuuuum,
   ]
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
   _parent = [
     zendesk.section.instance.INCIDENT_15176_INCIDENT_15176_anotherBrand___Eden_test_sbss_buuuuum@buuuuuuuum,
   ]

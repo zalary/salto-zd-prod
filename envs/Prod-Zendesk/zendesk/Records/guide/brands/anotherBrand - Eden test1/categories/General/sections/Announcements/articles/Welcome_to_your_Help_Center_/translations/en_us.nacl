@@ -1,11 +1,11 @@
 zendesk.article_translation Welcome_to_your_Help_Center__Announcements_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum_ssssluuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuuuuumuuuuuuuuum {
-  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_en_us@uuuumub
   title = "Welcome to your Help Center!"
-  body = file("zendesk/translations/guide/unsorted/categories/sections/Announcements/articles/Welcome_to_your_Help_Center_/translations/e9a36c4285_Welcome_to_your_Help_Center_")
+  body = file("zendesk/translations/guide/brands/anotherBrand - Eden test1/categories/General/sections/Announcements/articles/Welcome_to_your_Help_Center_/translations/e9a36c4285_Welcome_to_your_Help_Center_")
   outdated = false
   draft = false
   hidden = false
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
   _parent = [
     zendesk.article.instance.Welcome_to_your_Help_Center__Announcements_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@ssssluuuuuuuuum,
   ]

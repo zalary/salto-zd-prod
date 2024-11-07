@@ -14,7 +14,7 @@ zendesk.article_order b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@uuuuuuuu
     zendesk.article.instance.link_to_another_article_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@sssuuuuuuuuum,
     zendesk.article.instance.c_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@uuuuuuuuum,
   ]
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
   _parent = [
     zendesk.section.instance.b_a_anotherBrand___Eden_test_sbss_uuuuum@uuuuuuum,
   ]

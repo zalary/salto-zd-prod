@@ -3,8 +3,8 @@ zendesk.article_attachment another_test_two_b_a_anotherBrand___Eden_test_sbss_uu
   locale = "fr"
   content_type = "image/png"
   inline = true
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
-  content = file("zendesk/article_attachments/guide/unsorted/categories/sections/b/articles/another_test_two/article_attachment/Screen_Shot_2022-11-27_at_14/4be6beda91_47472e97b8_Screen_Shot_2022-11-27_at_14.29.56.png")
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
+  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test1/categories/a/sections/b/articles/another_test_two/article_attachment/Screen_Shot_2022-11-27_at_14/4be6beda91_47472e97b8_Screen_Shot_2022-11-27_at_14.29.56.png")
   _parent = [
     zendesk.article.instance.another_test_two_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@ssuuuuuuuuum,
   ]

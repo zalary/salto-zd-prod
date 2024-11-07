@@ -3,8 +3,8 @@ zendesk.article Setting__bla__resource__bla__to__Text___article_test_section2_ar
   comments_disabled = false
   promoted = false
   section_id = zendesk.section.instance.article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum@ssuuuuuuuum
-  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
-  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_en_us@uuuumub
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_en_us@uuuumub
   outdated = false
   user_segment_id = zendesk.user_segment.instance.Agents_and_admins@s
   permission_group_id = zendesk.permission_group.instance.Admins
@@ -14,7 +14,7 @@ zendesk.article Setting__bla__resource__bla__to__Text___article_test_section2_ar
   user_segment_ids = [
     zendesk.user_segment.instance.Agents_and_admins@s,
   ]
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
   attachments = [
     zendesk.article_attachment.instance.Setting__bla__resource__bla__to__Text___article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum_ssuuuuuuuum_szazasszazassrvruuuuuuuuuuuum__nacl_png_false@uuuuuuuuuuuuuuuuuuuuuuuuumuuvu,
   ]

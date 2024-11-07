@@ -1,5 +1,5 @@
 zendesk.section_order Adam_Test_language_test_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@uuuuuuuuuum {
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
   _parent = [
     zendesk.section.instance.Adam_Test_language_test_anotherBrand___Eden_test_sbss_suuuuum@suuuuuuuum,
   ]

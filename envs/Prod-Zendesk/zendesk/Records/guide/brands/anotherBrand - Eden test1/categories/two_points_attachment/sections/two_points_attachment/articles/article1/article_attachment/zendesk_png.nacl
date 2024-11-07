@@ -2,8 +2,8 @@ zendesk.article_attachment article1_two_points_attachment_two_points_attachment_
   file_name = "zendesk.png"
   content_type = "image/png"
   inline = false
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
-  content = file("zendesk/article_attachments/guide/unsorted/categories/sections/two_points_attachment/articles/article1/article_attachment/zendesk/1714dcf066_1a371c42d2_zendesk.png")
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
+  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test1/categories/two_points_attachment/sections/two_points_attachment/articles/article1/article_attachment/zendesk/1714dcf066_1a371c42d2_zendesk.png")
   _parent = [
     zendesk.article.instance.article1_two_points_attachment_two_points_attachment_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum@uuuuuuuuuuuuum,
   ]

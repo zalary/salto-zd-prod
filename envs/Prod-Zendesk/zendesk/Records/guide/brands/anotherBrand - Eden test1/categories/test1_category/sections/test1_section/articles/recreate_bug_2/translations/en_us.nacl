@@ -1,11 +1,11 @@
 zendesk.article_translation recreate_bug_2_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum_ssuuuuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuuuumuuuuuuuuum {
-  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_en_us@uuuumub
   title = "recreate bug 2"
-  body = file("zendesk/translations/guide/unsorted/categories/sections/test1_section/articles/recreate_bug_2/translations/e282b5cd5b_recreate_bug_2")
+  body = file("zendesk/translations/guide/brands/anotherBrand - Eden test1/categories/test1_category/sections/test1_section/articles/recreate_bug_2/translations/e282b5cd5b_recreate_bug_2")
   outdated = false
   draft = true
   hidden = true
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
   _parent = [
     zendesk.article.instance.recreate_bug_2_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@ssuuuuuuuuuuum,
   ]

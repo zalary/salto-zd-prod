@@ -2,7 +2,7 @@ zendesk.article_order deleted_attachments_deleted_attachments_anotherBrand___Ede
   articles = [
     zendesk.article.instance.deleted_attachments_deleted_attachments_deleted_attachments_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@suuuuuuuuuuum,
   ]
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
   _parent = [
     zendesk.section.instance.deleted_attachments_deleted_attachments_anotherBrand___Eden_test_sbss_suuuuum@suuuuuuuum,
   ]

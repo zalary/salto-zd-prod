@@ -2,8 +2,8 @@ zendesk.article_attachment only_att_test_only_att_test_only_att_test_anotherBran
   file_name = "Screen_Shot_2022-11-16_at_15.54.47.png"
   content_type = "image/png"
   inline = false
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
-  content = file("zendesk/article_attachments/guide/unsorted/categories/sections/only_att_test/articles/only_att_test/article_attachment/Screen_Shot_2022-11-16_at_15/3c16b29296_5abbf98dfd_Screen_Shot_2022-11-16_at_15.54.47.png")
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
+  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test1/categories/only_att_test/sections/only_att_test/articles/only_att_test/article_attachment/Screen_Shot_2022-11-16_at_15/3c16b29296_5abbf98dfd_Screen_Shot_2022-11-16_at_15.54.47.png")
   _parent = [
     zendesk.article.instance.only_att_test_only_att_test_only_att_test_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum@ssuuuuuuuuuuuuum,
   ]

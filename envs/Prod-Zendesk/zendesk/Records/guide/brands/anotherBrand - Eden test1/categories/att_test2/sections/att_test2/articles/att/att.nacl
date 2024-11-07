@@ -3,8 +3,8 @@ zendesk.article att_att_test2_att_test2_anotherBrand___Eden_test_sbss_suuuuum_su
   comments_disabled = false
   promoted = false
   section_id = zendesk.section.instance.att_test2_att_test2_anotherBrand___Eden_test_sbss_suuuuum@suuuuuuuum
-  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
-  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_en_us@uuuumub
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_en_us@uuuumub
   outdated = false
   user_segment_id = zendesk.user_segment.instance.Agents_and_admins@s
   permission_group_id = zendesk.permission_group.instance.Admins
@@ -14,6 +14,6 @@ zendesk.article att_att_test2_att_test2_anotherBrand___Eden_test_sbss_suuuuum_su
   user_segment_ids = [
     zendesk.user_segment.instance.Agents_and_admins@s,
   ]
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
   _alias = "att"
 }

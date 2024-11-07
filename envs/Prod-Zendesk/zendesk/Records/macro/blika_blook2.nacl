@@ -6,7 +6,7 @@ zendesk.macro blika_blook2 {
   actions = [
     {
       field = "brand_id"
-      value = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+      value = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
     },
   ]
   raw_title = "blika_blook2"

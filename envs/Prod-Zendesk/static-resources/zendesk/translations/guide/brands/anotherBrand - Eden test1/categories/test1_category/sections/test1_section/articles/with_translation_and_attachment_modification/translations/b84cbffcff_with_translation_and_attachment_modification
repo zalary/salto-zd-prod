@@ -1,0 +1,2 @@
+<p>this is an attachment!! : <img src="${ zendesk.brand.instance.anotherBrand___Eden_test1@sbss }/hc/article_attachments/${ zendesk.article_attachment.instance.with_translation_and_attachment_modification_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum_ssssuuuuuuuuuuum__Screen_Shot_2022_11_27_at_15_07_17_png_true@uuuuuuuuuuuuuuuumuuuubbuuvvvu }" alt="Screen_Shot_2022-11-27_at_15.07.17.png" width="172" height="102"> lets see if it works... this is a modification </p>
+<p>checking if it works</p>

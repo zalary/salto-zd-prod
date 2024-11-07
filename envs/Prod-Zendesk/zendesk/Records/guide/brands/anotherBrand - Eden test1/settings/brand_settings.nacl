@@ -1,4 +1,4 @@
-zendesk.guide_settings anotherBrand___Eden_test_sbss@uuuum {
+zendesk.guide_settings anotherBrand___Eden_test1_sbss@uuuum {
   help_center = {
     general_settings_attributes = {
       agent_requests_enabled = true
@@ -29,6 +29,7 @@ zendesk.guide_settings anotherBrand___Eden_test_sbss@uuuum {
       generative_questions_enabled = false
     }
   }
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
-  default_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
+  default_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_en_us@uuuumub
+  _alias = "anotherBrand - Eden test1 Settings"
 }

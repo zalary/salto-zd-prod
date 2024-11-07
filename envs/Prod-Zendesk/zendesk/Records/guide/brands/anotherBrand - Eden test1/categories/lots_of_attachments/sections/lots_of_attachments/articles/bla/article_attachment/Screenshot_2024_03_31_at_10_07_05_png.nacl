@@ -2,8 +2,8 @@ zendesk.article_attachment bla_lots_of_attachments_lots_of_attachments_anotherBr
   file_name = "Screenshot 2024-03-31 at 10.07.05.png"
   content_type = "image/png"
   inline = false
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
-  content = file("zendesk/article_attachments/guide/unsorted/categories/sections/lots_of_attachments/articles/bla/article_attachment/Screenshot 2024-03-31 at 10/ceabfd471c_90db09aaa7_Screenshot 2024-03-31 at 10.07.05.png")
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
+  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test1/categories/lots_of_attachments/sections/lots_of_attachments/articles/bla/article_attachment/Screenshot 2024-03-31 at 10/ceabfd471c_90db09aaa7_Screenshot 2024-03-31 at 10.07.05.png")
   _parent = [
     zendesk.article.instance.bla_lots_of_attachments_lots_of_attachments_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum@uuuuuuuuuuuuum,
   ]

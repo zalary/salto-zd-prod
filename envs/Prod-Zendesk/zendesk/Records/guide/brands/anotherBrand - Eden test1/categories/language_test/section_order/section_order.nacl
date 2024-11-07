@@ -2,7 +2,7 @@ zendesk.section_order language_test_anotherBrand___Eden_test_sbss_suuuuum@uuuuuu
   sections = [
     zendesk.section.instance.Adam_Test_language_test_anotherBrand___Eden_test_sbss_suuuuum@suuuuuuuum,
   ]
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
   _parent = [
     zendesk.category.instance.language_test_anotherBrand___Eden_test_sbss@suuuuum,
   ]

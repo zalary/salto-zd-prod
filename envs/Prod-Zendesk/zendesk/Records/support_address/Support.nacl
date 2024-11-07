@@ -20,9 +20,9 @@ zendesk.support_address support_support_support_subdomain_zendesk_com@umvvv {
   _alias = "support"
 }
 zendesk.support_address Support_audittest_anotherBrand___Eden_test_sbss_subdomain_zendesk_com@umuuuumvvv {
-  brand_id = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  brand_id = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
   name = "Support"
-  email = "audittest@${ zendesk.brand.instance.anotherBrand___Eden_test@sbss.subdomain }.zendesk.com"
+  email = "audittest@${ zendesk.brand.instance.anotherBrand___Eden_test1@sbss.subdomain }.zendesk.com"
   forwarding_status = "verified"
   spf_status = "verified"
   cname_status = "verified"

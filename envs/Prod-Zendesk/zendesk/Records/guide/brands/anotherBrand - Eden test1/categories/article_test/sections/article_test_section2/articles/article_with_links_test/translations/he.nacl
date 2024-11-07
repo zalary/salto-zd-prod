@@ -1,14 +1,14 @@
 zendesk.article_translation article_with_links_test_article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum_ssuuuuuuuum_sssuuuuuuuuuuuum__anotherBrand___Eden_test_sbss_he_uuuumu@uuuuuuuuuuuuuuuumuuuuuuuum {
-  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_he@uuuumu
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_he@uuuumu
   title = "article with links test"
   body = file(
-    "zendesk/translations/guide/unsorted/categories/sections/article_test_section2/articles/article_with_links_test/translations/fe1d5a291f_article_with_links_test",
+    "zendesk/translations/guide/brands/anotherBrand - Eden test1/categories/article_test/sections/article_test_section2/articles/article_with_links_test/translations/fe1d5a291f_article_with_links_test",
     "template",
   )
   outdated = false
   draft = true
   hidden = true
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
   _parent = [
     zendesk.article.instance.article_with_links_test_article_test_section2_article_test_anotherBrand___Eden_test_sbss_suuuuum_ssuuuuuuuum@sssuuuuuuuuuuuum,
   ]

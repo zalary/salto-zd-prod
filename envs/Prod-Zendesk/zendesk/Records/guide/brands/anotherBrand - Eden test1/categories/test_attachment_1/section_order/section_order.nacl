@@ -2,7 +2,7 @@ zendesk.section_order test_attachment_1_anotherBrand___Eden_test_sbss_ssuuuuum@u
   sections = [
     zendesk.section.instance.test_attachment_1_test_attachment_1_anotherBrand___Eden_test_sbss_ssuuuuum@ssuuuuuuuuum,
   ]
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
   _parent = [
     zendesk.category.instance.test_attachment_1_anotherBrand___Eden_test_sbss@ssuuuuum,
   ]

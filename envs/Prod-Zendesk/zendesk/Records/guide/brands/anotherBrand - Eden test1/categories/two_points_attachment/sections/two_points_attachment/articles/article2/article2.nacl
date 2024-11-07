@@ -3,8 +3,8 @@ zendesk.article article2_two_points_attachment_two_points_attachment_anotherBran
   comments_disabled = false
   promoted = false
   section_id = zendesk.section.instance.two_points_attachment_two_points_attachment_anotherBrand___Eden_test_sbss_ssuuuuum@ssuuuuuuuuum
-  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
-  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  source_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_en_us@uuuumub
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_en_us@uuuumub
   outdated = false
   user_segment_id = zendesk.user_segment.instance.Agents_and_admins@s
   permission_group_id = zendesk.permission_group.instance.Admins
@@ -14,7 +14,7 @@ zendesk.article article2_two_points_attachment_two_points_attachment_anotherBran
   user_segment_ids = [
     zendesk.user_segment.instance.Agents_and_admins@s,
   ]
-  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
   attachments = [
     zendesk.article_attachment.instance.article2_two_points_attachment_two_points_attachment_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum_uuuuuuuuuuuuum__Termo_de_compromisso_para_Verificac_a_o_de_Consumo__3__png_false@uuuuuuuuuuuuuumuussss_00807_00771sssjkvu,
     zendesk.article_attachment.instance.article2_two_points_attachment_two_points_attachment_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum_uuuuuuuuuuuuum__Termo_de_compromisso_para_de_Consumo__3__pdf_false@uuuuuuuuuuuuuumuussssssjkvu,

@@ -1,0 +1,35 @@
+zendesk.category_order anotherBrand___Eden_test1_sbss@uuuum {
+  categories = [
+    zendesk.category.instance.INCIDENT_23189_anotherBrand___Eden_test_sbss@buuuuum,
+    zendesk.category.instance.INCIDENT_15176_anotherBrand___Eden_test_sbss@buuuuum,
+    zendesk.category.instance.two_points_attachment_anotherBrand___Eden_test_sbss@ssuuuuum,
+    zendesk.category.instance.language_test_anotherBrand___Eden_test_sbss@suuuuum,
+    zendesk.category.instance.INCIDENT_8350___user_segment_test_anotherBrand___Eden_test_sbss@bsbsssuuuuum,
+    zendesk.category.instance.INCIDENT_11376_anotherBrand___Eden_test_sbss@buuuuum,
+    zendesk.category.instance.lots_of_attachments_anotherBrand___Eden_test_sbss@ssuuuuum,
+    zendesk.category.instance.inner_sections_anotherBrand___Eden_test_sbss@suuuuum,
+    zendesk.category.instance.bug_reproduce_anotherBrand___Eden_test_sbss@suuuuum,
+    zendesk.category.instance.test_err_anotherBrand___Eden_test_sbss@suuuuum,
+    zendesk.category.instance.only_att_test_anotherBrand___Eden_test_sbss@ssuuuuum,
+    zendesk.category.instance.case_change_bug_category_anotherBrand___Eden_test_sbss@sssuuuuum,
+    zendesk.category.instance.deleted_attachments_anotherBrand___Eden_test_sbss@suuuuum,
+    zendesk.category.instance.circular_dependency_category_anotherBrand___Eden_test_sbss@ssuuuuum,
+    zendesk.category.instance.att_test2_anotherBrand___Eden_test_sbss@suuuuum,
+    zendesk.category.instance.att_test1_anotherBrand___Eden_test_sbss@suuuuum,
+    zendesk.category.instance.Neta_repro2_anotherBrand___Eden_test_sbss@suuuuum,
+    zendesk.category.instance.Neta_repro1_anotherBrand___Eden_test_sbss@suuuuum,
+    zendesk.category.instance.test_attachment_2_anotherBrand___Eden_test_sbss@ssuuuuum,
+    zendesk.category.instance.test_attachment_1_anotherBrand___Eden_test_sbss@ssuuuuum,
+    zendesk.category.instance.a_anotherBrand___Eden_test_sbss@uuuuum,
+    zendesk.category.instance.article_test_anotherBrand___Eden_test_sbss@suuuuum,
+    zendesk.category.instance.no_articles_anotherBrand___Eden_test_sbss@suuuuum,
+    zendesk.category.instance.General_anotherBrand___Eden_test_sbss@uuuuum,
+    zendesk.category.instance.test1_category_anotherBrand___Eden_test_sbss@suuuuum,
+    zendesk.category.instance.test_validatorr_anotherBrand___Eden_test_sbss@suuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
+  _parent = [
+    zendesk.brand.instance.anotherBrand___Eden_test1@sbss,
+  ]
+  _alias = "anotherBrand - Eden test1 Category Order"
+}
