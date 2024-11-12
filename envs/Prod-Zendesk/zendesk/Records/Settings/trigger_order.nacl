@@ -107,6 +107,7 @@ zendesk.trigger_order {
     {
       category = zendesk.trigger_category.instance.ZGY
       active = [
+        zendesk.trigger.instance.bla,
       ]
       inactive = [
       ]
