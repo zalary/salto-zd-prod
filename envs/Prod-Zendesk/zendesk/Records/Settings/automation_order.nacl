@@ -16,6 +16,7 @@ zendesk.automation_order {
     zendesk.automation.instance.status_automation@s,
     zendesk.automation.instance.digest_test@s,
     zendesk.automation.instance.eden_test@s,
+    zendesk.automation.instance.Neta_test_automation_445@s,
   ]
   inactive = [
   ]
