@@ -6,12 +6,16 @@ zendesk.trigger skill_test@s {
     {
       field = "set_skills"
       value = zendesk.routing_attribute_value.instance.Test__Test1
-      priority = "required"
+      priority = "optional"
     },
     {
       field = "set_skills"
       value = zendesk.routing_attribute_value.instance.Test__Test1222
       priority = "required"
+    },
+    {
+      field = "add_skills"
+      value = zendesk.routing_attribute_value.instance.missing_9c587690_e726_11ed_a360_252b070a4382_2@ubbbbn
     },
   ]
   conditions = {
@@ -23,6 +27,7 @@ zendesk.trigger skill_test@s {
       },
     ]
   }
+  description = ""
   raw_title = "skill test"
   category_id = zendesk.trigger_category.instance.Other
   _alias = "skill test"
