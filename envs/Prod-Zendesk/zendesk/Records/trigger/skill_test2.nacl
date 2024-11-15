@@ -6,7 +6,7 @@ zendesk.trigger skill_test2@s {
     {
       field = "set_skills"
       value = zendesk.routing_attribute_value.instance.Test__Test1
-      priority = "optional"
+      priority = "optional high"
     },
   ]
   conditions = {
