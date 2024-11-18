@@ -37,6 +37,11 @@ test1
         operator = "is"
         value = zendesk.ticket_field__custom_field_options.instance.tagger1_tagger__v1
       },
+      {
+        field = "description_includes_word"
+        operator = "is"
+        value = "this is a string"
+      },
     ]
   }
   raw_title = "Neta test automation 445"

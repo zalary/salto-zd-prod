@@ -1,0 +1,37 @@
+zendesk.trigger webhook_test@s {
+  title = "webhook test"
+  active = true
+  default = false
+  actions = [
+    {
+      field = "notification_webhook"
+      value = [
+        zendesk.webhook.instance.test6,
+        '''
+{
+  "ticket": {
+    "custom_fields": [
+        {
+            "id": "29607168675603",
+            "value": "{{client_id_value}}"
+        }
+    ]}
+}
+''',
+      ]
+    },
+  ]
+  conditions = {
+    all = [
+      {
+        field = zendesk.ticket_field.instance._eshed__Categories_of_Newsletter_multiselect@hisssu
+        operator = "not_includes"
+        value = zendesk.ticket_field__custom_field_options.instance._eshed__Categories_of_Newsletter_multiselect_hisssu__fruit___vegetable@uuuuuumuuuuu
+      },
+    ]
+  }
+  description = ""
+  raw_title = "webhook test"
+  category_id = zendesk.trigger_category.instance.Notifications
+  _alias = "webhook test"
+}
