@@ -1,7 +1,7 @@
 zendesk.ticket_field toAdd2_text {
   type = "text"
   raw_title = "toAdd2"
-  raw_description = ""
+  raw_description = "sadvcdv"
   active = true
   required = false
   collapsed_for_agents = false
