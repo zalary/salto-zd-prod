@@ -105,3 +105,9 @@ zendesk.tag sf_developer@b {
   id = "sf-developer"
   _alias = "sf-developer"
 }
+zendesk.tag new_tag {
+  _alias = "new_tag"
+}
+zendesk.tag new_tag2 {
+  _alias = "new_tag2"
+}
