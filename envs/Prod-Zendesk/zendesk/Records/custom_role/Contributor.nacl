@@ -52,6 +52,9 @@ zendesk.custom_role Contributor {
     view_filter_tickets = true
     manage_macro_content_suggestions = false
     read_macro_content_suggestions = false
+    explore_reports = {
+      ticket_access = "all"
+    }
     assign_agent_statuses = false
     custom_objects = {
       stagingtest = {

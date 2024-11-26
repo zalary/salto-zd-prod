@@ -58,6 +58,9 @@ zendesk.trigger_order {
         zendesk.trigger.instance.org_test@s,
         zendesk.trigger.instance.skill_test@s,
         zendesk.trigger.instance.skill_test2@s,
+        zendesk.trigger.instance.skill_test3@s,
+        zendesk.trigger.instance.skill_test4@s,
+        zendesk.trigger.instance.skill_test5@s,
       ]
       inactive = [
       ]
