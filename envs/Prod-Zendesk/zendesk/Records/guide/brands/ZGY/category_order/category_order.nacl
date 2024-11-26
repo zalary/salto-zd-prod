@@ -1,0 +1,10 @@
+zendesk.category_order ZGY {
+  categories = [
+    zendesk.category.instance.General_ZGY,
+  ]
+  brand = zendesk.brand.instance.ZGY
+  _parent = [
+    zendesk.brand.instance.ZGY,
+  ]
+  _alias = "ZGY Category Order"
+}
