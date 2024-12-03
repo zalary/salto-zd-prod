@@ -1,5 +1,5 @@
 zendesk.category_translation language_test_anotherBrand___Eden_test_sbss_suuuuum__anotherBrand___Eden_test_sbss_sl_uuuumu@uuuuuuumuuuuuuuum {
-  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_sl@uuuumu
+  locale = "sl"
   title = "language test"
   outdated = false
   draft = false
@@ -8,5 +8,4 @@ zendesk.category_translation language_test_anotherBrand___Eden_test_sbss_suuuuum
   _parent = [
     zendesk.category.instance.language_test_anotherBrand___Eden_test_sbss@suuuuum,
   ]
-  _alias = "sl - language test"
 }

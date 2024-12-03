@@ -68,7 +68,7 @@ zendesk.workspace daniels_workspace@s {
       position = 21
     },
   ]
-  activated = true
+  activated = false
   conditions = {
     all = [
       {

@@ -9,5 +9,5 @@ zendesk.section b_a_anotherBrand___Eden_test_sbss_uuuuum@uuuuuuum {
     zendesk.section_translation.instance.b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuumuuuuuuuuum,
   ]
   brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
-  _alias = "b"
+  _alias = "b1"
 }

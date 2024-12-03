@@ -59,7 +59,7 @@ zendesk.workspace Adam_Test@s {
       position = 21
     },
   ]
-  activated = true
+  activated = false
   knowledge_settings = {
     default_search_filters = {
       default_search_filters_brands = "_TICKET"

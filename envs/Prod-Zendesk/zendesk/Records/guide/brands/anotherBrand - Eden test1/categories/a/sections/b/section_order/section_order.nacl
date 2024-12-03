@@ -3,5 +3,5 @@ zendesk.section_order b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@uuuuuuuu
   _parent = [
     zendesk.section.instance.b_a_anotherBrand___Eden_test_sbss_uuuuum@uuuuuuum,
   ]
-  _alias = "b Section Order"
+  _alias = "b1 Section Order"
 }

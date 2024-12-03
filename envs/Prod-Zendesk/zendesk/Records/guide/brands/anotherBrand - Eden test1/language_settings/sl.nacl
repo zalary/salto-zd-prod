@@ -1,6 +1,0 @@
-zendesk.guide_language_settings anotherBrand___Eden_test1_sbss_sl@uuuumu {
-  locale = "sl"
-  name = "sl"
-  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
-  _alias = "anotherBrand - Eden test1 sl language settings"
-}
