@@ -9,5 +9,5 @@ zendesk.section Dec_Test_General_ZGY@suu {
     zendesk.section_translation.instance.Dec_Test_General_ZGY_suu__ZGY_en_us_ub@uuumuuuum,
   ]
   brand = zendesk.brand.instance.ZGY
-  _alias = "Dec Test"
+  _alias = "Dec Test Rename"
 }
