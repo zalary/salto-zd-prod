@@ -8,9 +8,10 @@ zendesk.workspace_order {
     zendesk.workspace.instance.workspace_with_layout@s,
     zendesk.workspace.instance.workspace_with_layout2@s,
     zendesk.workspace.instance.macro_test@s,
+    zendesk.workspace.instance.Adam_Test@s,
+    zendesk.workspace.instance.daniels_workspace@s,
   ]
   inactive = [
-    zendesk.workspace.instance.daniels_workspace@s,
-    zendesk.workspace.instance.Adam_Test@s,
+    zendesk.workspace.instance.adam_test,
   ]
 }

@@ -25,6 +25,10 @@ zendesk.business_hours_schedule Almog_schedule@s {
   ]
   holidays = [
     zendesk.business_hours_schedule__holiday.instance.Almog_schedule_s__Almog_holiday_1@umuuss,
+    zendesk.business_hours_schedule__holiday.instance.Almog_schedule_s__Almog_valid_holiday_2@umuusss,
+    zendesk.business_hours_schedule__holiday.instance.Almog_schedule_s__Almog_invalid_holiday_1@umuusss,
+    zendesk.business_hours_schedule__holiday.instance.Almog_schedule_s__Almog_invalid_holiday_2@umuusss,
+    zendesk.business_hours_schedule__holiday.instance.Almog_schedule_s__Almog_valid_holiday_1@umuusss,
   ]
   _alias = "Almog schedule"
 }

@@ -1,74 +1,9 @@
 zendesk.workspace daniels_workspace@s {
   title = "daniels workspace"
   description = "blip blap bloop"
-  macro_ids = [
-    zendesk.macro.instance.AST_L1__Email_Templates__Campaign__Thailand_Ttogether__Registration@sffsffffsff,
-    zendesk.macro.instance.assign_user_macro@s,
-    zendesk.macro.instance.bug_macro@s,
-    zendesk.macro.instance.bug_test_macro@s,
-    zendesk.macro.instance.restriction2,
-    zendesk.macro.instance.restriction_test@s,
-  ]
   ticket_form_id = zendesk.ticket_form.instance.Other
   layout_uuid = zendesk.layout.instance.Adam_Test_Layout_3@s
-  apps = [
-    {
-      id = zendesk.app_installation.instance.Knowledge_Capture_support@su
-      expand = false
-      position = 11
-    },
-    {
-      id = zendesk.app_installation.instance.Weni_Platform_support@su
-      expand = true
-      position = 12
-    },
-    {
-      id = zendesk.app_installation.instance.ChannelReply_support
-      expand = true
-      position = 13
-    },
-    {
-      id = zendesk.app_installation.instance.Time_Tracking_edit_support@sbu
-      expand = false
-      position = 14
-    },
-    {
-      id = zendesk.app_installation.instance.Helpful_App_support@su
-      expand = false
-      position = 15
-    },
-    {
-      id = zendesk.app_installation.instance.Assignment_Control_support@su
-      expand = false
-      position = 16
-    },
-    {
-      id = zendesk.app_installation.instance.test_support
-      expand = false
-      position = 17
-    },
-    {
-      id = zendesk.app_installation.instance.Reclame_Aqui_OFICIAL_support@ssu
-      expand = false
-      position = 18
-    },
-    {
-      id = zendesk.app_installation.instance.audit_check2_support@su
-      expand = false
-      position = 19
-    },
-    {
-      id = zendesk.app_installation.instance.WHMCShi_hi_support@su
-      expand = false
-      position = 20
-    },
-    {
-      id = zendesk.app_installation.instance.ActiveCampaign_for_Support_abcd_abcd_support@ssssu
-      expand = false
-      position = 21
-    },
-  ]
-  activated = false
+  activated = true
   conditions = {
     all = [
       {
@@ -99,53 +34,5 @@ zendesk.workspace daniels_workspace@s {
       default_search_filters_sections = ""
     }
   }
-  selected_macros = [
-    {
-      id = zendesk.macro.instance.AST_L1__Email_Templates__Campaign__Thailand_Ttogether__Registration@sffsffffsff
-      title = "AST L1::Email Templates::Campaign::Thailand Ttogether::Registration"
-      active = true
-    },
-    {
-      id = zendesk.macro.instance.assign_user_macro@s
-      title = "assign user macro"
-      active = true
-    },
-    {
-      id = zendesk.macro.instance.bug_macro@s
-      title = "bug macro"
-      active = true
-    },
-    {
-      id = zendesk.macro.instance.bug_test_macro@s
-      title = "bug test macro"
-      active = true
-    },
-    {
-      id = zendesk.macro.instance.restriction2
-      title = "restriction2"
-      active = true
-      restriction = {
-        type = "Group"
-        ids = [
-          zendesk.group.instance.Support,
-          zendesk.group.instance.Test,
-          zendesk.group.instance.edenAudit,
-        ]
-      }
-    },
-    {
-      id = zendesk.macro.instance.restriction_test@s
-      title = "restriction test"
-      active = true
-      restriction = {
-        type = "Group"
-        ids = [
-          zendesk.group.instance.Support,
-          zendesk.group.instance.Test,
-          zendesk.group.instance.edenAudit,
-        ]
-      }
-    },
-  ]
   _alias = "daniels workspace"
 }
