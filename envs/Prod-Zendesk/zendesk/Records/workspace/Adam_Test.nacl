@@ -14,25 +14,3 @@ zendesk.workspace Adam_Test@s {
   }
   _alias = "Adam Test"
 }
-zendesk.workspace adam_test {
-  title = "adam_test"
-  description = ""
-  apps = [
-    {
-      id = zendesk.app_installation.instance.Time_Tracking_edit_support@sbu
-      expand = false
-      position = 1
-    },
-  ]
-  activated = false
-  conditions = {
-    all = [
-      {
-        field = "group_id"
-        operator = "is"
-        value = zendesk.group.instance.Support
-      },
-    ]
-  }
-  _alias = "adam_test"
-}

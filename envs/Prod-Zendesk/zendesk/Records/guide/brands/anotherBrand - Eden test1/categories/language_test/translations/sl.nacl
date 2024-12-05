@@ -8,4 +8,5 @@ zendesk.category_translation language_test_anotherBrand___Eden_test_sbss_suuuuum
   _parent = [
     zendesk.category.instance.language_test_anotherBrand___Eden_test_sbss@suuuuum,
   ]
+  _alias = "sl - language test"
 }

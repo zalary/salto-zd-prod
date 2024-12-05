@@ -12,6 +12,5 @@ zendesk.workspace_order {
     zendesk.workspace.instance.daniels_workspace@s,
   ]
   inactive = [
-    zendesk.workspace.instance.adam_test,
   ]
 }
