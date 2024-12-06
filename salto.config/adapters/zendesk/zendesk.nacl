@@ -1,4 +1,5 @@
 zendesk {
+  fixElements = { deployArticlesAsDraft = true } 
   fetch = {
         guide = {
        brands = [".*"]

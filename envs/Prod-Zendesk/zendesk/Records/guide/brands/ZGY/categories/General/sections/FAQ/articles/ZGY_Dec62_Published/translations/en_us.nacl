@@ -4,7 +4,7 @@ zendesk.article_translation ZGY_Dec62_Published_FAQ_General_ZGY_ssuuu__ZGY_en_us
   body = file("zendesk/translations/guide/brands/ZGY/categories/General/sections/FAQ/articles/ZGY_Dec62_Published/translations/1b0aeac211_ZGY_Dec62_Published")
   outdated = false
   draft = true
-  hidden = false
+  hidden = true
   brand = zendesk.brand.instance.ZGY
   _parent = [
     zendesk.article.instance.ZGY_Dec62_Published_FAQ_General_ZGY@ssuuu,
