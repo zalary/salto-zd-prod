@@ -1,5 +1,5 @@
 zendesk.article aaa444_FAQ_General_nms_test_b_uum_uuuum@uuuuuum {
-  author_id = "neta.marcus@salto.io"
+  author_id = "zendesk-adapter@salto.io"
   comments_disabled = false
   promoted = false
   section_id = zendesk.section.instance.FAQ_General_nms_test_b_uum@uuuum
