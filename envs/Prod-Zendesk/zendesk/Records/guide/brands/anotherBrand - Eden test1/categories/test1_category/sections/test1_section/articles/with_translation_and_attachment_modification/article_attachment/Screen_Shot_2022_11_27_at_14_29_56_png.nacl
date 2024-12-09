@@ -3,7 +3,7 @@ zendesk.article_attachment with_translation_and_attachment_modification_test1_se
   content_type = "image/png"
   inline = false
   brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
-  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test1/categories/test1_category/sections/test1_section/articles/with_translation_and_attachment_modification/article_attachment/Screen_Shot_2022-11-27_at_14/271e2eca8d_47472e97b8_Screen_Shot_2022-11-27_at_14.29.56.png")
+  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test/categories/test1_category/sections/test1_section/articles/with_translation_and_attachment_modification/article_attachment/Screen_Shot_2022-11-27_at_14/271e2eca8d_47472e97b8_Screen_Shot_2022-11-27_at_14.29.56.png")
   _parent = [
     zendesk.article.instance.with_translation_and_attachment_modification_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@ssssuuuuuuuuuuum,
   ]

@@ -2,7 +2,7 @@ zendesk.article_translation only_att_test_only_att_test_only_att_test_anotherBra
   locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_en_us@uuuumub
   title = "only att test"
   body = file(
-    "zendesk/translations/guide/brands/anotherBrand - Eden test1/categories/only_att_test/sections/only_att_test/articles/only_att_test/translations/2f69210d2c_only_att_test",
+    "zendesk/translations/guide/brands/anotherBrand - Eden test/categories/only_att_test/sections/only_att_test/articles/only_att_test/translations/2f69210d2c_only_att_test",
     "template",
   )
   outdated = false

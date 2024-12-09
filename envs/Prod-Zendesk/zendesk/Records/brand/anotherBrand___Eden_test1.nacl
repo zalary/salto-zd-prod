@@ -1,5 +1,5 @@
 zendesk.brand anotherBrand___Eden_test1@sbss {
-  name = "anotherBrand - Eden test1"
+  name = "anotherBrand - Eden test"
   brand_url = "https://salto87.zendesk.com"
   subdomain = "salto87"
   has_help_center = true
@@ -8,5 +8,5 @@ zendesk.brand anotherBrand___Eden_test1@sbss {
   default = false
   is_deleted = false
   signature_template = "{{agent.signature}}"
-  _alias = "anotherBrand - Eden test1"
+  _alias = "anotherBrand - Eden test"
 }

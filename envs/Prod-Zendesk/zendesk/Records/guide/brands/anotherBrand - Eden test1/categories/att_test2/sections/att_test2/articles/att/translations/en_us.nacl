@@ -1,7 +1,7 @@
 zendesk.article_translation att_att_test2_att_test2_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum_uuuuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuumuuuuuuuuum {
   locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_en_us@uuuumub
   title = "att"
-  body = file("zendesk/translations/guide/brands/anotherBrand - Eden test1/categories/att_test2/sections/att_test2/articles/att/translations/72049a7497_att")
+  body = file("zendesk/translations/guide/brands/anotherBrand - Eden test/categories/att_test2/sections/att_test2/articles/att/translations/72049a7497_att")
   outdated = false
   draft = false
   hidden = false

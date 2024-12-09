@@ -2,7 +2,7 @@ zendesk.article_translation with_translation_and_attachment_modification_test1_s
   locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_he@uuuumu
   title = "זה התרגום עם שינוי"
   body = file(
-    "zendesk/translations/guide/brands/anotherBrand - Eden test1/categories/test1_category/sections/test1_section/articles/with_translation_and_attachment_modification/translations/87375bd31d___________________",
+    "zendesk/translations/guide/brands/anotherBrand - Eden test/categories/test1_category/sections/test1_section/articles/with_translation_and_attachment_modification/translations/87375bd31d___________________",
     "template",
   )
   outdated = false

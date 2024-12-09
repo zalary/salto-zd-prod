@@ -31,5 +31,5 @@ zendesk.category_order anotherBrand___Eden_test1_sbss@uuuum {
   _parent = [
     zendesk.brand.instance.anotherBrand___Eden_test1@sbss,
   ]
-  _alias = "anotherBrand - Eden test1 Category Order"
+  _alias = "anotherBrand - Eden test Category Order"
 }

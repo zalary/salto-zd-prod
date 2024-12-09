@@ -3,7 +3,7 @@ zendesk.article_attachment Multi_attachments_two_points_attachment_two_points_at
   content_type = "image/png"
   inline = false
   brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
-  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test1/categories/two_points_attachment/sections/two_points_attachment/articles/Multi_attachments/article_attachment/new/42c0ccc52b_66902eb3a0_new.png")
+  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test/categories/two_points_attachment/sections/two_points_attachment/articles/Multi_attachments/article_attachment/new/42c0ccc52b_66902eb3a0_new.png")
   _parent = [
     zendesk.article.instance.Multi_attachments_two_points_attachment_two_points_attachment_anotherBrand___Eden_test_sbss_ssuuuuum_ssuuuuuuuuum@suuuuuuuuuuuuum,
   ]

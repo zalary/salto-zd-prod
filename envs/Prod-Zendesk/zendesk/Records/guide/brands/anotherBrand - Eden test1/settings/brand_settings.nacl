@@ -34,5 +34,5 @@ zendesk.guide_settings anotherBrand___Eden_test1_sbss@uuuum {
   }
   brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
   default_locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_en_us@uuuumub
-  _alias = "anotherBrand - Eden test1 Settings"
+  _alias = "anotherBrand - Eden test Settings"
 }

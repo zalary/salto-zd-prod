@@ -3,7 +3,7 @@ zendesk.article_attachment path_test_test1_section_test1_category_anotherBrand__
   content_type = "unknown"
   inline = false
   brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
-  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test1/categories/test1_category/sections/test1_section/articles/path_test/article_attachment/a/34c5841289_ba1f2511fc_a")
+  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test/categories/test1_category/sections/test1_section/articles/path_test/article_attachment/a/34c5841289_ba1f2511fc_a")
   _parent = [
     zendesk.article.instance.path_test_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@suuuuuuuuuuum,
   ]

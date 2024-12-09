@@ -2,7 +2,7 @@ zendesk.article_translation deleted_attachments_deleted_attachments_deleted_atta
   locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_en_us@uuuumub
   title = "deleted attachments"
   body = file(
-    "zendesk/translations/guide/brands/anotherBrand - Eden test1/categories/deleted_attachments/sections/deleted_attachments/articles/deleted_attachments/translations/95ab8a3b16_deleted_attachments",
+    "zendesk/translations/guide/brands/anotherBrand - Eden test/categories/deleted_attachments/sections/deleted_attachments/articles/deleted_attachments/translations/95ab8a3b16_deleted_attachments",
     "template",
   )
   outdated = false

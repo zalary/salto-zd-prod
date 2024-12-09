@@ -2,7 +2,7 @@ zendesk.article_translation test_attachment__test_attachment_1_test_attachment_1
   locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_en_us@uuuumub
   title = "test attachment "
   body = file(
-    "zendesk/translations/guide/brands/anotherBrand - Eden test1/categories/test_attachment_1/sections/test_attachment_1/articles/test_attachment_/translations/dba546d4b4_test_attachment_",
+    "zendesk/translations/guide/brands/anotherBrand - Eden test/categories/test_attachment_1/sections/test_attachment_1/articles/test_attachment_/translations/dba546d4b4_test_attachment_",
     "template",
   )
   outdated = false
