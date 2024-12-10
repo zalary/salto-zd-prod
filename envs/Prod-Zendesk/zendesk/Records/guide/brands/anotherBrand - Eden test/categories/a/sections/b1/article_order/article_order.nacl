@@ -1,0 +1,22 @@
+zendesk.article_order b1_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@uuuuuuuum {
+  articles = [
+    zendesk.article.instance.user_segment_ids_test_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@sssuuuuuuuuum,
+    zendesk.article.instance.Article_with_attachment_SALTO_954_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@sssbuuuuuuuuum,
+    zendesk.article.instance.test_space4_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@suuuuuuuuum,
+    zendesk.article.instance.test_space3_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@suuuuuuuuum,
+    zendesk.article.instance.test_space2_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@suuuuuuuuum,
+    zendesk.article.instance.test_space_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@suuuuuuuuum,
+    zendesk.article.instance.schedual_test_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@suuuuuuuuum,
+    zendesk.article.instance.edenTest_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@uuuuuuuuum,
+    zendesk.article.instance.test100_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@uuuuuuuuum,
+    zendesk.article.instance.test_with_same_attachment_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@sssuuuuuuuuum,
+    zendesk.article.instance.another_test_two_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@ssuuuuuuuuum,
+    zendesk.article.instance.link_to_another_article_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@sssuuuuuuuuum,
+    zendesk.article.instance.c_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@uuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
+  _parent = [
+    zendesk.section.instance.b1_a_anotherBrand___Eden_test_sbss_uuuuum@uuuuuuum,
+  ]
+  _alias = "b1 Article Order"
+}

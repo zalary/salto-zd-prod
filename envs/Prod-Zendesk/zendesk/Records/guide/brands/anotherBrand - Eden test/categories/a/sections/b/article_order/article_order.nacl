@@ -1,0 +1,10 @@
+zendesk.article_order b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@uuuuuuuum {
+  articles = [
+    zendesk.article.instance.testing_things_in_articles_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@sssuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
+  _parent = [
+    zendesk.section.instance.b_a_anotherBrand___Eden_test_sbss_uuuuum@uuuuuuum,
+  ]
+  _alias = "b Article Order"
+}

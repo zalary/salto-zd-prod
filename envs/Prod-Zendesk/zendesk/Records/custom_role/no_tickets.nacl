@@ -57,6 +57,7 @@ zendesk.custom_role no_tickets@s {
       ticket_access = "none"
     }
     assign_agent_statuses = false
+    assign_tickets_to_any_brand = false
   }
   _alias = "no tickets"
 }

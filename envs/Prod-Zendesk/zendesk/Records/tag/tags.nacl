@@ -115,3 +115,7 @@ zendesk.tag new_tag3 {
   id = "new_tag3"
   _alias = "new_tag3"
 }
+zendesk.tag n_tag {
+  id = "n_tag"
+  _alias = "n_tag"
+}
