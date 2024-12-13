@@ -56,7 +56,6 @@ zendesk.custom_role role4 {
       ticket_access = "none"
     }
     assign_agent_statuses = false
-    assign_tickets_to_any_brand = false
   }
   _alias = "role4"
 }

@@ -56,7 +56,6 @@ zendesk.custom_role Contributor {
       ticket_access = "all"
     }
     assign_agent_statuses = false
-    assign_tickets_to_any_brand = false
     custom_objects = {
       stagingtest = {
         scopes = [
