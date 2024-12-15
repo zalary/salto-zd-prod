@@ -28,6 +28,7 @@ zendesk.trigger_order {
         zendesk.trigger.instance.null_user@s,
         zendesk.trigger.instance.notification_webhook@s,
         zendesk.trigger.instance.webhook_test@s,
+        zendesk.trigger.instance.INCIDENT_26442_trigger@b,
       ]
       inactive = [
       ]
