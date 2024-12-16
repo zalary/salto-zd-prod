@@ -16,7 +16,7 @@ zendesk.article test_pdf_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@suuuu
   ]
   brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
   attachments = [
-    zendesk.article_attachment.instance.test_pdf_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum_suuuuuuuuum__Part_A_of_project2_pdf_false@uuuuuuuuuuumuusssvu,
+    zendesk.article_attachment.instance.test_pdf_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum_suuuuuuuuum__hi_my_name_pdf_false@uuuuuuuuuuumuuuuvu,
   ]
   _alias = "test pdf"
 }

@@ -1,0 +1,11 @@
+zendesk.article_attachment test_pdf_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum_suuuuuuuuum__hi_my_name_pdf_false@uuuuuuuuuuumuuuuvu {
+  file_name = "hi_my_name.pdf"
+  content_type = "text/html"
+  inline = false
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
+  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test/categories/a/sections/b/articles/test_pdf/article_attachment/hi_my_name/3354fd428e_744980a59e_hi_my_name.pdf")
+  _parent = [
+    zendesk.article.instance.test_pdf_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@suuuuuuuuum,
+  ]
+  _alias = "hi_my_name.pdf - test pdf"
+}
