@@ -36,7 +36,6 @@ zendesk.view_order {
     zendesk.view.instance.Pending_tickets@s,
     zendesk.view.instance.View_from_Sharing_Agreement@s,
     zendesk.view.instance.Parent__Child__Baby@f,
-    zendesk.view.instance.INCIDENT_27300_view@b,
   ]
   inactive = [
   ]
