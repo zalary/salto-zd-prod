@@ -7,6 +7,6 @@ zendesk.brand ZGY {
   active = true
   default = false
   is_deleted = false
-  signature_template = "different signature"
+  signature_template = "{{agent.signature}}"
   _alias = "ZGY"
 }
