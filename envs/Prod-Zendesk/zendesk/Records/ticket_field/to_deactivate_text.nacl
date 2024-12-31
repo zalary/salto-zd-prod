@@ -1,7 +1,7 @@
 zendesk.ticket_field to_deactivate_text@su {
   type = "text"
   raw_title = "to deactivate"
-  raw_description = ""
+  raw_description = "kubg"
   active = true
   required = false
   collapsed_for_agents = false
