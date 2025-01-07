@@ -5,5 +5,5 @@ zendesk.ticket_field__custom_field_options _eshed__Categories_of_Newsletter_mult
   _parent = [
     zendesk.ticket_field.instance._eshed__Categories_of_Newsletter_multiselect@hisssu,
   ]
-  _alias = "Trips & Tours"
+  _alias = "trips___tours"
 }

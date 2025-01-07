@@ -6,4 +6,5 @@ zendesk.ticket_field__custom_field_options EdenTest3_tagger____dc_eden2__@uuuuuv
     zendesk.ticket_field.instance.EdenTest3_tagger,
   ]
   
+  _alias = "__dc.eden2__"
 }

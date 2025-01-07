@@ -4,5 +4,5 @@ zendesk.organization_field__custom_field_options neta_drop_down_123__somethinge_
   _parent = [
     zendesk.organization_field.instance.neta_drop_down_123,
   ]
-  _alias = "something else"
+  _alias = "somethinge_else"
 }

@@ -6,4 +6,5 @@ zendesk.ticket_field__custom_field_options Neta_multiselect_123_multiselect_ssu_
     zendesk.ticket_field.instance.Neta_multiselect_123_multiselect@ssu,
   ]
   
+  _alias = "__dc.about_option_-_late_order___nnn"
 }

@@ -5,5 +5,5 @@ zendesk.ticket_field__custom_field_options Coffee_Type_tagger_su__flat_white@uum
   _parent = [
     zendesk.ticket_field.instance.Coffee_Type_tagger@su,
   ]
-  _alias = "Flat White"
+  _alias = "flat_white"
 }

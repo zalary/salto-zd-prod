@@ -5,5 +5,5 @@ zendesk.ticket_field__custom_field_options Cloud_Model_tagger_su__premier@uumuu 
   _parent = [
     zendesk.ticket_field.instance.Cloud_Model_tagger@su,
   ]
-  _alias = "Premier"
+  _alias = "premier"
 }

@@ -5,5 +5,5 @@ zendesk.organization_field__custom_field_options edentest1__test {
     zendesk.organization_field.instance.edentest1,
   ]
   
-  _alias = "bloop"
+  _alias = "test"
 }

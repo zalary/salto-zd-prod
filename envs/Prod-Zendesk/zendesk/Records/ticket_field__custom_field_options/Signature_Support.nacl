@@ -5,5 +5,5 @@ zendesk.ticket_field__custom_field_options Support_Level_tagger_su__signature_su
   _parent = [
     zendesk.ticket_field.instance.Support_Level_tagger@su,
   ]
-  _alias = "Signature Support"
+  _alias = "signature_support"
 }

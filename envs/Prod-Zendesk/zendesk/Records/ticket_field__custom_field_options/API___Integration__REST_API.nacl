@@ -5,5 +5,5 @@ zendesk.ticket_field__custom_field_options Product_Area_tagger_su__api___integra
   _parent = [
     zendesk.ticket_field.instance.Product_Area_tagger@su,
   ]
-  _alias = "API & Integration::REST API"
+  _alias = "api___integration__rest_api"
 }

@@ -5,5 +5,5 @@ zendesk.ticket_field__custom_field_options Preferred_Game_multiselect_su__chess@
   _parent = [
     zendesk.ticket_field.instance.Preferred_Game_multiselect@su,
   ]
-  _alias = "Chess"
+  _alias = "chess"
 }

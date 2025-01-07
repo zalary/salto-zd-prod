@@ -5,5 +5,5 @@ zendesk.ticket_field__custom_field_options eden_check_multiselect_su__bla_bla@uu
   _parent = [
     zendesk.ticket_field.instance.eden_check_multiselect@su,
   ]
-  _alias = "bla bla"
+  _alias = "bla_bla"
 }

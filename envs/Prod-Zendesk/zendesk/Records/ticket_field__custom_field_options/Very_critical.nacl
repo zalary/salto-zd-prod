@@ -5,5 +5,5 @@ zendesk.ticket_field__custom_field_options Customer_Priority_tagger_su__very_cri
   _parent = [
     zendesk.ticket_field.instance.Customer_Priority_tagger@su,
   ]
-  _alias = "Very critical"
+  _alias = "very_critical"
 }
