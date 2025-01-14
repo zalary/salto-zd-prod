@@ -1,6 +1,6 @@
 zendesk.webhook test1 {
   name = "test1"
-  description = "desc"
+  description = "prod webhook"
   status = "active"
   subscriptions = [
     "conditional_ticket_events",
