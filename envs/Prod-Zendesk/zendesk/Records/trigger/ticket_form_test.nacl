@@ -7,10 +7,6 @@ zendesk.trigger ticket_form_test@s {
       field = "group_id"
       value = zendesk.group.instance.audit_test2@s
     },
-    {
-      field = "ticket_form_id"
-      value = ""
-    },
   ]
   conditions = {
     all = [
