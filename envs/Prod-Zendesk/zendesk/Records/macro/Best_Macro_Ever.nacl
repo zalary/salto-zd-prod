@@ -6,7 +6,7 @@ zendesk.macro Best_Macro_Ever@s {
   actions = [
     {
       field = "ticket_form_id"
-      value = zendesk.ticket_form.instance.TicketFormOne
+      value = zendesk.ticket_form.instance.tf_2@zb
     },
   ]
   raw_title = "Best Macro Ever"
