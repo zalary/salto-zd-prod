@@ -124,7 +124,7 @@ zendesk.trigger michel_scott_trigger@s {
       {
         field = "recipient"
         operator = "is"
-        value = "support@d3v-salto2.zendesk.com"
+        value = zendesk.support_address.instance.Salto_support_Salto_subdomain_zendesk_com@umvvv
       },
       {
         field = "update_type"

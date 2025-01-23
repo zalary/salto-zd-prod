@@ -281,6 +281,7 @@ Please choose your issue below
     accept_wildcard_emails = false
     custom_dkim_domain = false
     email_sender_authentication = true
+    email_sender_authentication_profile = "default"
     email_template_photos = true
     email_template_selection = false
     gmail_actions = true
