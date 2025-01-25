@@ -1,5 +1,5 @@
 zendesk.trigger "3@" {
-  title = "3"
+  title = "33testbyadamold"
   active = true
   default = false
   actions = [
@@ -17,7 +17,7 @@ zendesk.trigger "3@" {
       },
     ]
   }
-  raw_title = "3"
+  raw_title = "33testbyadamold"
   category_id = zendesk.trigger_category.instance.audit_test@s
-  _alias = "3"
+  _alias = "33testbyadamold"
 }

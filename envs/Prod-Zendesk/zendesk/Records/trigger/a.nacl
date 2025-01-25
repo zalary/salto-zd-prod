@@ -1,5 +1,5 @@
 zendesk.trigger a {
-  title = "a"
+  title = "aa"
   active = true
   default = false
   actions = [
@@ -22,7 +22,7 @@ zendesk.trigger a {
     ]
   }
   description = "a"
-  raw_title = "a"
+  raw_title = "aa"
   category_id = zendesk.trigger_category.instance.Billing
-  _alias = "a"
+  _alias = "aa"
 }

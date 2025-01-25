@@ -26,7 +26,7 @@ zendesk.trigger Received_from@s {
       {
         field = "recipient"
         operator = "is"
-        value = zendesk.support_address.instance.Support_audittest_anotherBrand___Eden_test_sbss_subdomain_zendesk_com@umuuuumvvv
+        value = "audittest@salto87.zendesk.com"
       },
     ]
   }

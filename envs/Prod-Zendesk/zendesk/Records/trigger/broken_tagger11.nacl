@@ -1,5 +1,5 @@
 zendesk.trigger broken_tagger11@b {
-  title = "broken-tagger11"
+  title = "broken-tagger11-change"
   active = true
   default = false
   actions = [
@@ -25,7 +25,7 @@ zendesk.trigger broken_tagger11@b {
     ]
   }
   description = "tagger11 will delete its option"
-  raw_title = "broken-tagger11"
+  raw_title = "broken-tagger11-change"
   category_id = zendesk.trigger_category.instance.Other
-  _alias = "broken-tagger11"
+  _alias = "broken-tagger11-change"
 }
