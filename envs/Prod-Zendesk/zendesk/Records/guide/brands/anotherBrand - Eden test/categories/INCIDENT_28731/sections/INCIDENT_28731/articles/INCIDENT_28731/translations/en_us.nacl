@@ -1,0 +1,16 @@
+zendesk.article_translation INCIDENT_28731_INCIDENT_28731_INCIDENT_28731_anotherBrand___Eden_test1_sbss_buuuuum_buuuuuuuum_buuuuuuuuuuum__anotherBrand___Eden_test1_sbss_en_us_uuuumub@uuuuuuuuuuuuumuuuuuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_en_us@uuuumub
+  title = "INCIDENT-28731"
+  body = file(
+    "zendesk/translations/guide/brands/anotherBrand - Eden test/categories/INCIDENT_28731/sections/INCIDENT_28731/articles/INCIDENT_28731/translations/5851f3463c_INCIDENT_28731",
+    "template",
+  )
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
+  _parent = [
+    zendesk.article.instance.INCIDENT_28731_INCIDENT_28731_INCIDENT_28731_anotherBrand___Eden_test1_sbss_buuuuum_buuuuuuuum@buuuuuuuuuuum,
+  ]
+  _alias = "en-us - INCIDENT-28731"
+}

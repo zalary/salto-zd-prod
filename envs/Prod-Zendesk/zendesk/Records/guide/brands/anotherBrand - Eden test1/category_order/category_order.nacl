@@ -1,5 +1,6 @@
 zendesk.category_order anotherBrand___Eden_test1_sbss@uuuum {
   categories = [
+    zendesk.category.instance.INCIDENT_28731_anotherBrand___Eden_test1_sbss@buuuuum,
     zendesk.category.instance.INCIDENT_23189_anotherBrand___Eden_test_sbss@buuuuum,
     zendesk.category.instance.INCIDENT_15176_anotherBrand___Eden_test_sbss@buuuuum,
     zendesk.category.instance.two_points_attachment_anotherBrand___Eden_test_sbss@ssuuuuum,

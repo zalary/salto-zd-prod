@@ -1,0 +1,10 @@
+zendesk.article_order INCIDENT_28731_INCIDENT_28731_anotherBrand___Eden_test1_sbss_buuuuum_buuuuuuuum@uuuuuuuuuum {
+  articles = [
+    zendesk.article.instance.INCIDENT_28731_INCIDENT_28731_INCIDENT_28731_anotherBrand___Eden_test1_sbss_buuuuum_buuuuuuuum@buuuuuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
+  _parent = [
+    zendesk.section.instance.INCIDENT_28731_INCIDENT_28731_anotherBrand___Eden_test1_sbss_buuuuum@buuuuuuuum,
+  ]
+  _alias = "INCIDENT-28731 Article Order"
+}

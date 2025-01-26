@@ -1,0 +1,10 @@
+zendesk.section_order INCIDENT_28731_anotherBrand___Eden_test1_sbss_buuuuum@uuuuuuum {
+  sections = [
+    zendesk.section.instance.INCIDENT_28731_INCIDENT_28731_anotherBrand___Eden_test1_sbss_buuuuum@buuuuuuuum,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
+  _parent = [
+    zendesk.category.instance.INCIDENT_28731_anotherBrand___Eden_test1_sbss@buuuuum,
+  ]
+  _alias = "INCIDENT-28731 Section Order"
+}

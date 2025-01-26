@@ -1,0 +1,12 @@
+zendesk.category_translation INCIDENT_28731_anotherBrand___Eden_test1_sbss_buuuuum__anotherBrand___Eden_test1_sbss_en_us_uuuumub@uuuuuuumuuuuuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test1_sbss_en_us@uuuumub
+  title = "INCIDENT-28731"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
+  _parent = [
+    zendesk.category.instance.INCIDENT_28731_anotherBrand___Eden_test1_sbss@buuuuum,
+  ]
+  _alias = "en-us - INCIDENT-28731"
+}
