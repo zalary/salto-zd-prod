@@ -18,7 +18,7 @@ zendesk.trigger ticket_form_test@s {
       {
         field = "group_id"
         operator = "is"
-        value = ""
+        value = zendesk.group.instance.Support
       },
     ]
     any = [
@@ -34,6 +34,7 @@ zendesk.trigger ticket_form_test@s {
       },
     ]
   }
+  description = ""
   raw_title = "ticket form test"
   category_id = zendesk.trigger_category.instance.Notifications
   _alias = "ticket form test"

@@ -37,6 +37,7 @@ zendesk.trigger_order {
       category = zendesk.trigger_category.instance.Billing
       active = [
         zendesk.trigger.instance.michel_scott_trigger@s,
+        zendesk.trigger.instance.many_references_trigger@s,
         zendesk.trigger.instance.TestTestTest,
         zendesk.trigger.instance.Test1,
         zendesk.trigger.instance.Neta_trigger_123@s,

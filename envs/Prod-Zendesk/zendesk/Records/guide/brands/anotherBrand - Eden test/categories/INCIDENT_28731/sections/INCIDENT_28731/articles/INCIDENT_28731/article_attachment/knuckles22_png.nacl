@@ -1,0 +1,12 @@
+zendesk.article_attachment INCIDENT_28731_INCIDENT_28731_INCIDENT_28731_anotherBrand___Eden_test1_sbss_buuuuum_buuuuuuuum_buuuuuuuuuuum__knuckles22_png_true@uuuuuuuuuuuuumuuvu {
+  file_name = "knuckles22.png"
+  locale = "en-us"
+  content_type = "image/png"
+  inline = true
+  brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
+  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test/categories/INCIDENT_28731/sections/INCIDENT_28731/articles/INCIDENT_28731/article_attachment/knuckles22/d98317a982_80f6f478ed_knuckles22.png")
+  _parent = [
+    zendesk.article.instance.INCIDENT_28731_INCIDENT_28731_INCIDENT_28731_anotherBrand___Eden_test1_sbss_buuuuum_buuuuuuuum@buuuuuuuuuuum,
+  ]
+  _alias = "knuckles22.png - INCIDENT-28731"
+}
