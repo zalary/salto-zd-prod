@@ -57,6 +57,7 @@ zendesk.custom_role testForFailureB {
       ticket_access = "none"
     }
     assign_agent_statuses = false
+    manage_malicious_attachments = false
   }
   _alias = "testForFailureB"
 }

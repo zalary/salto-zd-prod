@@ -57,6 +57,7 @@ zendesk.custom_role eden_test5@s {
       ticket_access = "none"
     }
     assign_agent_statuses = false
+    manage_malicious_attachments = false
     custom_objects = {
       stagingtest1 = {
         scopes = [

@@ -57,6 +57,7 @@ zendesk.custom_role Role_with_associated_agent@s {
       ticket_access = "none"
     }
     assign_agent_statuses = false
+    manage_malicious_attachments = false
   }
   _alias = "Role with associated agent"
 }
