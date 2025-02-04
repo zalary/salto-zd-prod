@@ -4,7 +4,7 @@ zendesk.webhook test6 {
   subscriptions = [
     "conditional_ticket_events",
   ]
-  endpoint = "${ zendesk.brand.instance.anotherBrand___Eden_test1@sbss.brand_url }/api/v2/ticket/update_many.js"
+  endpoint = "https://${ zendesk.brand.instance.anotherBrand___Eden_test1@sbss.subdomain }.zendesk.com/api/v2/ticket/update_many.js"
   http_method = "POST"
   request_format = "json"
   authentication = {
