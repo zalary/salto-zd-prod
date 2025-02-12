@@ -13,12 +13,11 @@ zendesk.view_order {
     zendesk.view.instance.Recently_solved_tickets@s,
     zendesk.view.instance.Support_Tickets_APAC@s,
     zendesk.view.instance.BrokenView,
-    zendesk.view.instance.Management_Escalation_Cases___All@sssbs,
     zendesk.view.instance.Created_Today@s,
+    zendesk.view.instance.Management_Escalation_Cases___All@sssbs,
     zendesk.view.instance.support_engineer___My_own_tickets@ssbsss,
     zendesk.view.instance.Platinum,
     zendesk.view.instance.ViewWithMissingTicketForm,
-    zendesk.view.instance.EdenTest3,
     zendesk.view.instance.Tickets_by_preferred_games@s,
     zendesk.view.instance.shir_view_test@s,
     zendesk.view.instance.audit_test@s,
@@ -37,6 +36,7 @@ zendesk.view_order {
     zendesk.view.instance.View_from_Sharing_Agreement@s,
     zendesk.view.instance.Parent__Child__Baby@f,
     zendesk.view.instance.INCIDENT_27300_view@b,
+    zendesk.view.instance.EdenTest3,
   ]
   inactive = [
   ]
