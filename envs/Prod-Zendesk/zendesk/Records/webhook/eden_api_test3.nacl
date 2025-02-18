@@ -23,5 +23,6 @@ zendesk.webhook eden_api_test3@s {
   _alias = "eden api test3"
   custom_headers = {
     tomodify = "ab"
+    x_bu_code@b = "test"
   }
 }
