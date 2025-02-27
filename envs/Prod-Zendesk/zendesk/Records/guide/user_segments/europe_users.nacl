@@ -1,0 +1,9 @@
+zendesk.user_segment europe_users {
+  user_type = "signed_in_users"
+  tags = [
+    zendesk.tag.instance.europe_users,
+  ]
+  built_in = false
+  name = "europe_users"
+  _alias = "europe_users"
+}

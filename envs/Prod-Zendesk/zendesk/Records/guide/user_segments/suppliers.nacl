@@ -1,0 +1,9 @@
+zendesk.user_segment suppliers {
+  user_type = "signed_in_users"
+  tags = [
+    zendesk.tag.instance.suppliers,
+  ]
+  built_in = false
+  name = "suppliers"
+  _alias = "suppliers"
+}

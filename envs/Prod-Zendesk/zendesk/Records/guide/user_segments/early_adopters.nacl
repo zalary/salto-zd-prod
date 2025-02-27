@@ -1,0 +1,9 @@
+zendesk.user_segment early_adopters {
+  user_type = "signed_in_users"
+  tags = [
+    zendesk.tag.instance.early_adopters,
+  ]
+  built_in = false
+  name = "early_adopters"
+  _alias = "early_adopters"
+}

@@ -1,0 +1,9 @@
+zendesk.user_segment oceania_users {
+  user_type = "signed_in_users"
+  tags = [
+    zendesk.tag.instance.oceania_users,
+  ]
+  built_in = false
+  name = "oceania_users"
+  _alias = "oceania_users"
+}

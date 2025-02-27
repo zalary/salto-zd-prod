@@ -1,0 +1,9 @@
+zendesk.user_segment engineering_team {
+  user_type = "signed_in_users"
+  tags = [
+    zendesk.tag.instance.engineering_team,
+  ]
+  built_in = false
+  name = "engineering_team"
+  _alias = "engineering_team"
+}

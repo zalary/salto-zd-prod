@@ -1,0 +1,9 @@
+zendesk.user_segment trial_users {
+  user_type = "signed_in_users"
+  tags = [
+    zendesk.tag.instance.trial_users,
+  ]
+  built_in = false
+  name = "trial_users"
+  _alias = "trial_users"
+}

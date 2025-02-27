@@ -1,0 +1,9 @@
+zendesk.user_segment mobile_users {
+  user_type = "signed_in_users"
+  tags = [
+    zendesk.tag.instance.mobile_users,
+  ]
+  built_in = false
+  name = "mobile_users"
+  _alias = "mobile_users"
+}

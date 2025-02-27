@@ -123,3 +123,143 @@ zendesk.tag zgy {
   id = "zgy"
   _alias = "zgy"
 }
+zendesk.tag africa_users {
+  id = "africa_users"
+  _alias = "africa_users"
+}
+zendesk.tag americas_users {
+  id = "americas_users"
+  _alias = "americas_users"
+}
+zendesk.tag analysts {
+  id = "analysts"
+  _alias = "analysts"
+}
+zendesk.tag consultants {
+  id = "consultants"
+  _alias = "consultants"
+}
+zendesk.tag contributors {
+  id = "contributors"
+  _alias = "contributors"
+}
+zendesk.tag customer_success {
+  id = "customer_success"
+  _alias = "customer_success"
+}
+zendesk.tag designers {
+  id = "designers"
+  _alias = "designers"
+}
+zendesk.tag desktop_users {
+  id = "desktop_users"
+  _alias = "desktop_users"
+}
+zendesk.tag distributors {
+  id = "distributors"
+  _alias = "distributors"
+}
+zendesk.tag documentation_team {
+  id = "documentation_team"
+  _alias = "documentation_team"
+}
+zendesk.tag early_adopters {
+  id = "early_adopters"
+  _alias = "early_adopters"
+}
+zendesk.tag engineering_team {
+  id = "engineering_team"
+  _alias = "engineering_team"
+}
+zendesk.tag enterprise_customers {
+  id = "enterprise_customers"
+  _alias = "enterprise_customers"
+}
+zendesk.tag enterprise_tier_users {
+  id = "enterprise_tier_users"
+  _alias = "enterprise_tier_users"
+}
+zendesk.tag europe_users {
+  id = "europe_users"
+  _alias = "europe_users"
+}
+zendesk.tag finance_team {
+  id = "finance_team"
+  _alias = "finance_team"
+}
+zendesk.tag freelancers {
+  id = "freelancers"
+  _alias = "freelancers"
+}
+zendesk.tag inactive_users {
+  id = "inactive_users"
+  _alias = "inactive_users"
+}
+zendesk.tag managers {
+  id = "managers"
+  _alias = "managers"
+}
+zendesk.tag marketing_team {
+  id = "marketing_team"
+  _alias = "marketing_team"
+}
+zendesk.tag mobile_users {
+  id = "mobile_users"
+  _alias = "mobile_users"
+}
+zendesk.tag moderators {
+  id = "moderators"
+  _alias = "moderators"
+}
+zendesk.tag oceania_users {
+  id = "oceania_users"
+  _alias = "oceania_users"
+}
+zendesk.tag operations_team {
+  id = "operations_team"
+  _alias = "operations_team"
+}
+zendesk.tag partners {
+  id = "partners"
+  _alias = "partners"
+}
+zendesk.tag premium_customers {
+  id = "premium_customers"
+  _alias = "premium_customers"
+}
+zendesk.tag product_team {
+  id = "product_team"
+  _alias = "product_team"
+}
+zendesk.tag qa_team {
+  id = "qa_team"
+  _alias = "qa_team"
+}
+zendesk.tag resellers {
+  id = "resellers"
+  _alias = "resellers"
+}
+zendesk.tag reviewers {
+  id = "reviewers"
+  _alias = "reviewers"
+}
+zendesk.tag suppliers {
+  id = "suppliers"
+  _alias = "suppliers"
+}
+zendesk.tag support_team {
+  id = "support_team"
+  _alias = "support_team"
+}
+zendesk.tag tablet_users {
+  id = "tablet_users"
+  _alias = "tablet_users"
+}
+zendesk.tag testers {
+  id = "testers"
+  _alias = "testers"
+}
+zendesk.tag trial_users {
+  id = "trial_users"
+  _alias = "trial_users"
+}
