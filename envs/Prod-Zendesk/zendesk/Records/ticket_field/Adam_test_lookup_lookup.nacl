@@ -10,7 +10,7 @@ zendesk.ticket_field Adam_test_lookup_lookup@ssu {
   editable_in_portal = false
   required_in_portal = false
   removable = true
-  agent_description = "This looks up"
+  agent_description = "This looks down"
   relationship_target_type = "zen:user"
   _alias = "Adam test lookup"
 }
