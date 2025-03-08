@@ -9,6 +9,7 @@ zendesk.ticket_field TestMultiLine1_textarea {
   visible_in_portal = true
   editable_in_portal = true
   required_in_portal = true
+  agent_can_edit = true
   removable = true
   _alias = "TestMultiLine1"
 }

@@ -9,6 +9,7 @@ zendesk.ticket_field _eshed__Subscribed_to_Newsletter_checkbox@hisssu {
   visible_in_portal = false
   editable_in_portal = false
   required_in_portal = false
+  agent_can_edit = true
   tag = zendesk.tag.instance.eshed
   removable = true
   agent_description = "Is customer subscribed to our fancy newsletter"

@@ -16,4 +16,5 @@ zendesk.ticket_field eden_check_multiselect@su {
     zendesk.ticket_field__custom_field_options.instance.eden_check_multiselect_su__bbbla@uumuu,
   ]
   _alias = "eden check change test2"
+  agent_can_edit = true
 }

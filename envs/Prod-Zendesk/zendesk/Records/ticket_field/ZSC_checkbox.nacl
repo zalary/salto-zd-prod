@@ -9,6 +9,7 @@ zendesk.ticket_field ZSC_checkbox {
   visible_in_portal = true
   editable_in_portal = false
   required_in_portal = false
+  agent_can_edit = true
   removable = true
   agent_description = "For ZSC requests"
   _alias = "ZSC"

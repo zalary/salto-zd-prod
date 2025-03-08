@@ -11,4 +11,5 @@ zendesk.ticket_field Subject_subject {
   required_in_portal = true
   removable = false
   _alias = "Sujet"
+  agent_can_edit = true
 }

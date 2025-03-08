@@ -9,6 +9,7 @@ zendesk.ticket_field noam_lookup_user_lookup {
   visible_in_portal = false
   editable_in_portal = false
   required_in_portal = false
+  agent_can_edit = true
   removable = true
   agent_description = "noam_lookup_user_description"
   relationship_target_type = "zen:user"

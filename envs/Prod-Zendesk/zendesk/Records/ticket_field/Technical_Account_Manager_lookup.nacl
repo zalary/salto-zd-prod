@@ -9,6 +9,7 @@ zendesk.ticket_field Technical_Account_Manager_lookup@ssu {
   visible_in_portal = false
   editable_in_portal = false
   required_in_portal = false
+  agent_can_edit = true
   removable = true
   relationship_target_type = "zen:user"
   relationship_filter = {

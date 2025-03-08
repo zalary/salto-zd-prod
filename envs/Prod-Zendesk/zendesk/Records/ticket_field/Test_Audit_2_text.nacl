@@ -9,6 +9,7 @@ zendesk.ticket_field Test_Audit_2_text@ssu {
   visible_in_portal = false
   editable_in_portal = false
   required_in_portal = false
+  agent_can_edit = true
   removable = true
   _alias = "Test Audit 2"
 }

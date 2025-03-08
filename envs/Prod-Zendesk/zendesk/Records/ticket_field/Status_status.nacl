@@ -30,4 +30,5 @@ zendesk.ticket_field Status_status {
   ]
   sub_type_id = 1
   _alias = "Statut"
+  agent_can_edit = true
 }

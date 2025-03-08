@@ -15,4 +15,5 @@ zendesk.ticket_field __dc_about_field_title___tagger@_00123_00123vuu_00125_00125
     zendesk.ticket_field__custom_field_options.instance.__dc_about_field_title___tagger__00123_00123vuu_00125_00125u__missed_package@uuuuuuuumuuuuuuu,
   ]
   _alias = "hi"
+  agent_can_edit = true
 }

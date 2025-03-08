@@ -9,6 +9,7 @@ zendesk.ticket_field Product_Area_tagger@su {
   visible_in_portal = true
   editable_in_portal = true
   required_in_portal = true
+  agent_can_edit = true
   removable = true
   agent_description = "The high-level product area that this ticket is about"
   custom_field_options = [

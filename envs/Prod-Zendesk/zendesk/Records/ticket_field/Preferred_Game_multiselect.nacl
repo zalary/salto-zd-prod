@@ -9,6 +9,7 @@ zendesk.ticket_field Preferred_Game_multiselect@su {
   visible_in_portal = true
   editable_in_portal = true
   required_in_portal = true
+  agent_can_edit = true
   removable = true
   agent_description = "What is your preferred game?"
   custom_field_options = [

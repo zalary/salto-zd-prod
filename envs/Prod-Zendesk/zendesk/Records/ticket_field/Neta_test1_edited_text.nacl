@@ -9,6 +9,7 @@ zendesk.ticket_field Neta_test1_edited_text@ssu {
   visible_in_portal = true
   editable_in_portal = true
   required_in_portal = false
+  agent_can_edit = true
   removable = true
   _alias = "Neta test1 edited"
 }

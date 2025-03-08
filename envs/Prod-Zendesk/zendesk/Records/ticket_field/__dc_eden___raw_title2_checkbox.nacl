@@ -9,6 +9,7 @@ zendesk.ticket_field __dc_eden___raw_title2_checkbox@_00123_00123v_00125_00125ss
   visible_in_portal = true
   editable_in_portal = true
   required_in_portal = false
+  agent_can_edit = true
   removable = true
   _alias = "edenContent changed ... raw title2"
 }

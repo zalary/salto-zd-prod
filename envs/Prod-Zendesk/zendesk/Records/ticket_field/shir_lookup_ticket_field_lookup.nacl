@@ -9,6 +9,7 @@ zendesk.ticket_field shir_lookup_ticket_field_lookup@sssu {
   visible_in_portal = false
   editable_in_portal = false
   required_in_portal = false
+  agent_can_edit = true
   removable = true
   agent_description = "test"
   relationship_target_type = "zen:ticket"

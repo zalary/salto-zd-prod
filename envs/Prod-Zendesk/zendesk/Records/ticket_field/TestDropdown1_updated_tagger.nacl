@@ -9,6 +9,7 @@ zendesk.ticket_field TestDropdown1_updated_tagger@su {
   visible_in_portal = true
   editable_in_portal = true
   required_in_portal = true
+  agent_can_edit = true
   removable = true
   agent_description = "The desc updated again.."
   custom_field_options = [

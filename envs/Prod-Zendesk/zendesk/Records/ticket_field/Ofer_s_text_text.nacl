@@ -9,6 +9,7 @@ zendesk.ticket_field Ofer_s_text_text@tsu {
   visible_in_portal = false
   editable_in_portal = false
   required_in_portal = false
+  agent_can_edit = true
   removable = true
   _alias = "Ofer's text"
 }

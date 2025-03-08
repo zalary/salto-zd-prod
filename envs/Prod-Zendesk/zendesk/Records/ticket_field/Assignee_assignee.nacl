@@ -11,4 +11,5 @@ zendesk.ticket_field Assignee_assignee {
   required_in_portal = false
   removable = false
   _alias = "Assigné"
+  agent_can_edit = true
 }

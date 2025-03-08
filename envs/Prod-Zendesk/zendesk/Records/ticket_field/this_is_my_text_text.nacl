@@ -9,6 +9,7 @@ zendesk.ticket_field this_is_my_text_text@sssu {
   visible_in_portal = false
   editable_in_portal = false
   required_in_portal = false
+  agent_can_edit = true
   removable = true
   _alias = "this is my text"
 }

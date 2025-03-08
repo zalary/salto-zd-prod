@@ -9,6 +9,7 @@ zendesk.ticket_field TestMultiSelect12_multiselect {
   visible_in_portal = true
   editable_in_portal = false
   required_in_portal = false
+  agent_can_edit = true
   removable = true
   agent_description = "The desc..."
   custom_field_options = [

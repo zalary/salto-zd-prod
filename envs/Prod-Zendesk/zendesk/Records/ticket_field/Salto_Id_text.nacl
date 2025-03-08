@@ -9,6 +9,7 @@ zendesk.ticket_field Salto_Id_text@su {
   visible_in_portal = true
   editable_in_portal = true
   required_in_portal = false
+  agent_can_edit = true
   removable = true
   _alias = "Salto Id"
 }

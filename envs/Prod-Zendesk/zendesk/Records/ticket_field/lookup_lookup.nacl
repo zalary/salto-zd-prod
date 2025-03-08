@@ -9,6 +9,7 @@ zendesk.ticket_field lookup_lookup {
   visible_in_portal = false
   editable_in_portal = false
   required_in_portal = false
+  agent_can_edit = true
   removable = true
   relationship_target_type = zendesk.custom_object.instance.stagingtest
   relationship_filter = {

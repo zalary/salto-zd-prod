@@ -9,6 +9,7 @@ zendesk.ticket_field EdenTest2_textarea {
   visible_in_portal = true
   editable_in_portal = true
   required_in_portal = false
+  agent_can_edit = true
   removable = true
   agent_description = "my description"
   _alias = "EdenTest2"

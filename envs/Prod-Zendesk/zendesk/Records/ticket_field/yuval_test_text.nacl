@@ -9,6 +9,7 @@ zendesk.ticket_field yuval_test_text {
   visible_in_portal = false
   editable_in_portal = false
   required_in_portal = false
+  agent_can_edit = true
   removable = true
   agent_description = "test123"
   _alias = "yuval_test"
@@ -24,6 +25,7 @@ zendesk.ticket_field yuval_test_text@su {
   visible_in_portal = false
   editable_in_portal = false
   required_in_portal = false
+  agent_can_edit = true
   removable = true
   agent_description = "test"
   _alias = "yuval test"

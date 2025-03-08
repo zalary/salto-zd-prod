@@ -30,4 +30,5 @@ zendesk.ticket_field Priority_priority {
   ]
   sub_type_id = 0
   _alias = "Priorité"
+  agent_can_edit = true
 }
