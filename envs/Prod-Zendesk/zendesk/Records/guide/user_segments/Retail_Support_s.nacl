@@ -1,0 +1,9 @@
+zendesk.user_segment Retail_Support@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Retail Support"
+  _alias = "Retail Support"
+}

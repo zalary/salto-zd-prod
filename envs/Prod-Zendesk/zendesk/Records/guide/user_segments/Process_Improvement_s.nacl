@@ -1,0 +1,9 @@
+zendesk.user_segment Process_Improvement@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Process Improvement"
+  _alias = "Process Improvement"
+}

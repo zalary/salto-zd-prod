@@ -1,0 +1,9 @@
+zendesk.user_segment Cyber_Threat_Intelligence@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Cyber Threat Intelligence"
+  _alias = "Cyber Threat Intelligence"
+}

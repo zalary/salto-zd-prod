@@ -1,0 +1,9 @@
+zendesk.user_segment Space_Mission_Design@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Space Mission Design"
+  _alias = "Space Mission Design"
+}

@@ -1,0 +1,9 @@
+zendesk.user_segment Backend_Development@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Backend Development"
+  _alias = "Backend Development"
+}

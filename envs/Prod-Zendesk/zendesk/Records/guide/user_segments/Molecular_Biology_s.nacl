@@ -1,0 +1,9 @@
+zendesk.user_segment Molecular_Biology@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Molecular Biology"
+  _alias = "Molecular Biology"
+}

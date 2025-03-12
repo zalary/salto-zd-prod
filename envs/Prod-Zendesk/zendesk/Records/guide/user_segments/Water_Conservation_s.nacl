@@ -1,0 +1,9 @@
+zendesk.user_segment Water_Conservation@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Water Conservation"
+  _alias = "Water Conservation"
+}

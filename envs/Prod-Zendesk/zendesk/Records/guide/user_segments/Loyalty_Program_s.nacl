@@ -1,0 +1,6 @@
+zendesk.user_segment Loyalty_Program@s {
+  user_type = "signed_in_users"
+  built_in = false
+  name = "Loyalty Program"
+  _alias = "Loyalty Program"
+}

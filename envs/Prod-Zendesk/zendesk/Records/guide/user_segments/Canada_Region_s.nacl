@@ -1,0 +1,9 @@
+zendesk.user_segment Canada_Region@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Canada Region"
+  _alias = "Canada Region"
+}

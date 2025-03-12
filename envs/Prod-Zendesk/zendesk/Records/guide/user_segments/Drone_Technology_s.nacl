@@ -1,0 +1,9 @@
+zendesk.user_segment Drone_Technology@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Drone Technology"
+  _alias = "Drone Technology"
+}

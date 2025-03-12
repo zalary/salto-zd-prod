@@ -1,0 +1,6 @@
+zendesk.user_segment Feedback_Program@s {
+  user_type = "signed_in_users"
+  built_in = false
+  name = "Feedback Program"
+  _alias = "Feedback Program"
+}

@@ -1,0 +1,9 @@
+zendesk.user_segment South_Asia@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "South Asia"
+  _alias = "South Asia"
+}

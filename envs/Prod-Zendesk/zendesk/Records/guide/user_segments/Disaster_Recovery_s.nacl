@@ -1,0 +1,9 @@
+zendesk.user_segment Disaster_Recovery@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Disaster Recovery"
+  _alias = "Disaster Recovery"
+}

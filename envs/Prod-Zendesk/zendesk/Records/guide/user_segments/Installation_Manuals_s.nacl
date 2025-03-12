@@ -1,0 +1,6 @@
+zendesk.user_segment Installation_Manuals@s {
+  user_type = "signed_in_users"
+  built_in = false
+  name = "Installation Manuals"
+  _alias = "Installation Manuals"
+}

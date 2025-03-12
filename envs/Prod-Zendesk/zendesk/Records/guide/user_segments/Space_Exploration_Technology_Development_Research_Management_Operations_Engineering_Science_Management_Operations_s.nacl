@@ -1,0 +1,9 @@
+zendesk.user_segment Space_Exploration_Technology_Development_Research_Management_Operations_Engineering_Science_Management_Operations@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Space Exploration Technology Development Research Management Operations Engineering Science Management Operations"
+  _alias = "Space Exploration Technology Development Research Management Operations Engineering Science Management Operations"
+}

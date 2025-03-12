@@ -1,0 +1,9 @@
+zendesk.user_segment Learning___Development@ses {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Learning & Development"
+  _alias = "Learning & Development"
+}

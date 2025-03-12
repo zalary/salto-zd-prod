@@ -1,0 +1,6 @@
+zendesk.user_segment Customer_Insights@s {
+  user_type = "signed_in_users"
+  built_in = false
+  name = "Customer Insights"
+  _alias = "Customer Insights"
+}

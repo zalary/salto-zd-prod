@@ -1,0 +1,9 @@
+zendesk.user_segment UX_Design@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "UX Design"
+  _alias = "UX Design"
+}

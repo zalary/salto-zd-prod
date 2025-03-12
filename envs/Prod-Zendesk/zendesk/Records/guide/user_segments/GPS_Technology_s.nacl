@@ -1,0 +1,9 @@
+zendesk.user_segment GPS_Technology@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "GPS Technology"
+  _alias = "GPS Technology"
+}

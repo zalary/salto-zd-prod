@@ -1,0 +1,9 @@
+zendesk.user_segment Aviation_Resources@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Aviation Resources"
+  _alias = "Aviation Resources"
+}

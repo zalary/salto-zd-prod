@@ -1,0 +1,9 @@
+zendesk.user_segment Infectious_Disease@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Infectious Disease"
+  _alias = "Infectious Disease"
+}

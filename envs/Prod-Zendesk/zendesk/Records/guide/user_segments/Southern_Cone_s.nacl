@@ -1,0 +1,9 @@
+zendesk.user_segment Southern_Cone@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Southern Cone"
+  _alias = "Southern Cone"
+}

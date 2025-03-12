@@ -1,0 +1,9 @@
+zendesk.user_segment IT_Asset_Management@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "IT Asset Management"
+  _alias = "IT Asset Management"
+}

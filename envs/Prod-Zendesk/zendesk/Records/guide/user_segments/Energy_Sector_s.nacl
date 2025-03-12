@@ -1,0 +1,9 @@
+zendesk.user_segment Energy_Sector@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Energy Sector"
+  _alias = "Energy Sector"
+}

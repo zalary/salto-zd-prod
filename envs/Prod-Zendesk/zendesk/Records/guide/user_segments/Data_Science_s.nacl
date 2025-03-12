@@ -1,0 +1,9 @@
+zendesk.user_segment Data_Science@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Data Science"
+  _alias = "Data Science"
+}

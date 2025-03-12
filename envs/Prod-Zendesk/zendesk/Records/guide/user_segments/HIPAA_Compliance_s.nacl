@@ -1,0 +1,9 @@
+zendesk.user_segment HIPAA_Compliance@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "HIPAA Compliance"
+  _alias = "HIPAA Compliance"
+}

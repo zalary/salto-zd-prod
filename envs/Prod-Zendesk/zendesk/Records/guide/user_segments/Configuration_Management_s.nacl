@@ -1,0 +1,9 @@
+zendesk.user_segment Configuration_Management@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Configuration Management"
+  _alias = "Configuration Management"
+}

@@ -1,0 +1,9 @@
+zendesk.user_segment Product_Innovation@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Product Innovation"
+  _alias = "Product Innovation"
+}

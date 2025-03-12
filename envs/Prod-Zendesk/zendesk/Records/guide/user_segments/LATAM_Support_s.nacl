@@ -1,0 +1,9 @@
+zendesk.user_segment LATAM_Support@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "LATAM Support"
+  _alias = "LATAM Support"
+}

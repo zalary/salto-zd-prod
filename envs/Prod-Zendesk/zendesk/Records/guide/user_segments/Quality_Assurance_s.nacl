@@ -1,0 +1,9 @@
+zendesk.user_segment Quality_Assurance@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Quality Assurance"
+  _alias = "Quality Assurance"
+}

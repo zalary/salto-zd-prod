@@ -1,0 +1,9 @@
+zendesk.user_segment Firmware_Development@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Firmware Development"
+  _alias = "Firmware Development"
+}

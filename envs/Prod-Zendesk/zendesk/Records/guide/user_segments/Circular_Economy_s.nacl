@@ -1,0 +1,9 @@
+zendesk.user_segment Circular_Economy@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Circular Economy"
+  _alias = "Circular Economy"
+}

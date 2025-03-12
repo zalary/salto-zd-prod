@@ -1,0 +1,9 @@
+zendesk.user_segment Direct_Sales@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Direct Sales"
+  _alias = "Direct Sales"
+}

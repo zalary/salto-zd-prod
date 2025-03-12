@@ -1,0 +1,9 @@
+zendesk.user_segment Social_Media_Team@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Social Media Team"
+  _alias = "Social Media Team"
+}

@@ -1,0 +1,9 @@
+zendesk.user_segment Evolutionary_Biology@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Evolutionary Biology"
+  _alias = "Evolutionary Biology"
+}

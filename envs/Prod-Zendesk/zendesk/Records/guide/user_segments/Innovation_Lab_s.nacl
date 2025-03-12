@@ -1,0 +1,9 @@
+zendesk.user_segment Innovation_Lab@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Innovation Lab"
+  _alias = "Innovation Lab"
+}

@@ -1,0 +1,9 @@
+zendesk.user_segment Technical_KB@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Technical KB"
+  _alias = "Technical KB"
+}

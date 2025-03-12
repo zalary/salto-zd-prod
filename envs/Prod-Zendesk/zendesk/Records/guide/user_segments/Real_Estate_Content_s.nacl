@@ -1,0 +1,9 @@
+zendesk.user_segment Real_Estate_Content@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Real Estate Content"
+  _alias = "Real Estate Content"
+}

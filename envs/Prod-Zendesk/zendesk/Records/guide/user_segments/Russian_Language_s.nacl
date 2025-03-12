@@ -1,0 +1,9 @@
+zendesk.user_segment Russian_Language@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Russian Language"
+  _alias = "Russian Language"
+}

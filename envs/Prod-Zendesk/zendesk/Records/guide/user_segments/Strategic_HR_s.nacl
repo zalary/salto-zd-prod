@@ -1,0 +1,9 @@
+zendesk.user_segment Strategic_HR@s {
+  user_type = "staff"
+  group_ids = [
+    zendesk.group.instance.Tier_3___EMEA@ssbs,
+  ]
+  built_in = false
+  name = "Strategic HR"
+  _alias = "Strategic HR"
+}
