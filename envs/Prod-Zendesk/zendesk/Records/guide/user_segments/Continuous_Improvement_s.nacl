@@ -1,9 +1,0 @@
-zendesk.user_segment Continuous_Improvement@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Continuous Improvement"
-  _alias = "Continuous Improvement"
-}

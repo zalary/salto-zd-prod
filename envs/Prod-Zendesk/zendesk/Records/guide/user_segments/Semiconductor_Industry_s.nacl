@@ -1,9 +1,0 @@
-zendesk.user_segment Semiconductor_Industry@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Semiconductor Industry"
-  _alias = "Semiconductor Industry"
-}

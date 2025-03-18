@@ -1,9 +1,0 @@
-zendesk.user_segment Conversational_AI@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Conversational AI"
-  _alias = "Conversational AI"
-}

@@ -1,9 +1,0 @@
-zendesk.user_segment SOX_Compliance@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "SOX Compliance"
-  _alias = "SOX Compliance"
-}

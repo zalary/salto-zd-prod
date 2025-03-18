@@ -1,9 +1,0 @@
-zendesk.user_segment ISO_Compliance@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "ISO Compliance"
-  _alias = "ISO Compliance"
-}

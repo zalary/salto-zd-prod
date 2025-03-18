@@ -1,9 +1,0 @@
-zendesk.user_segment Business_Continuity@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Business Continuity"
-  _alias = "Business Continuity"
-}

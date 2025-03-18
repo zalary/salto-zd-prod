@@ -1,6 +1,0 @@
-zendesk.user_segment Startup_Resources@s {
-  user_type = "signed_in_users"
-  built_in = false
-  name = "Startup Resources"
-  _alias = "Startup Resources"
-}

@@ -1,9 +1,0 @@
-zendesk.user_segment Nonprofit_Support@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Nonprofit Support"
-  _alias = "Nonprofit Support"
-}

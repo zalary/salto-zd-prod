@@ -1,9 +1,0 @@
-zendesk.user_segment Autonomous_Vehicles@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Autonomous Vehicles"
-  _alias = "Autonomous Vehicles"
-}

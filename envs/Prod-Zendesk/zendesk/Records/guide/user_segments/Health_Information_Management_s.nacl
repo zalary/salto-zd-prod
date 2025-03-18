@@ -1,9 +1,0 @@
-zendesk.user_segment Health_Information_Management@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Health Information Management"
-  _alias = "Health Information Management"
-}

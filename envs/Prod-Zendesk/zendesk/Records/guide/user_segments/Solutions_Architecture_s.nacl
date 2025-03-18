@@ -1,9 +1,0 @@
-zendesk.user_segment Solutions_Architecture@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Solutions Architecture"
-  _alias = "Solutions Architecture"
-}

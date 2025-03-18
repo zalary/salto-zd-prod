@@ -1,9 +1,0 @@
-zendesk.user_segment Developmental_Biology@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Developmental Biology"
-  _alias = "Developmental Biology"
-}

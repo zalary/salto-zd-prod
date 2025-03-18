@@ -1,9 +1,0 @@
-zendesk.user_segment Health_Services_Research@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Health Services Research"
-  _alias = "Health Services Research"
-}

@@ -1,6 +1,0 @@
-zendesk.user_segment Partner_Resources@s {
-  user_type = "signed_in_users"
-  built_in = false
-  name = "Partner Resources"
-  _alias = "Partner Resources"
-}

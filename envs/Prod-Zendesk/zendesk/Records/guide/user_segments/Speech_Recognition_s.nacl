@@ -1,9 +1,0 @@
-zendesk.user_segment Speech_Recognition@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Speech Recognition"
-  _alias = "Speech Recognition"
-}

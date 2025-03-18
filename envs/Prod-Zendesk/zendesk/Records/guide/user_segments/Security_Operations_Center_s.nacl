@@ -1,9 +1,0 @@
-zendesk.user_segment Security_Operations_Center@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Security Operations Center"
-  _alias = "Security Operations Center"
-}

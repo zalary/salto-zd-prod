@@ -1,9 +1,0 @@
-zendesk.user_segment New_Feature_Guides@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "New Feature Guides"
-  _alias = "New Feature Guides"
-}

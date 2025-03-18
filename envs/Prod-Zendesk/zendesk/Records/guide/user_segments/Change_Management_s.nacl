@@ -1,9 +1,0 @@
-zendesk.user_segment Change_Management@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Change Management"
-  _alias = "Change Management"
-}

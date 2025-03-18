@@ -1,9 +1,0 @@
-zendesk.user_segment Strategic_Planning@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Strategic Planning"
-  _alias = "Strategic Planning"
-}

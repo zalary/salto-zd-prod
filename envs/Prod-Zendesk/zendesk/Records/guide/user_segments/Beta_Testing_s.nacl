@@ -1,6 +1,0 @@
-zendesk.user_segment Beta_Testing@s {
-  user_type = "signed_in_users"
-  built_in = false
-  name = "Beta Testing"
-  _alias = "Beta Testing"
-}

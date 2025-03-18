@@ -1,9 +1,0 @@
-zendesk.user_segment Machine_Learning@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Machine Learning"
-  _alias = "Machine Learning"
-}

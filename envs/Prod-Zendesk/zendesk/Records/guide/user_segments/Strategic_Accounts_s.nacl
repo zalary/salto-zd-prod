@@ -1,6 +1,0 @@
-zendesk.user_segment Strategic_Accounts@s {
-  user_type = "signed_in_users"
-  built_in = false
-  name = "Strategic Accounts"
-  _alias = "Strategic Accounts"
-}

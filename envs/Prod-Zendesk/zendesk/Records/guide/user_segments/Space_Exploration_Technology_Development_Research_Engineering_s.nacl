@@ -1,9 +1,0 @@
-zendesk.user_segment Space_Exploration_Technology_Development_Research_Engineering@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Space Exploration Technology Development Research Engineering"
-  _alias = "Space Exploration Technology Development Research Engineering"
-}

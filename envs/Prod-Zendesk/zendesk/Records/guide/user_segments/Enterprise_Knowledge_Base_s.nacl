@@ -1,6 +1,0 @@
-zendesk.user_segment Enterprise_Knowledge_Base@s {
-  user_type = "signed_in_users"
-  built_in = false
-  name = "Enterprise Knowledge Base"
-  _alias = "Enterprise Knowledge Base"
-}

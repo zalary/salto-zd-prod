@@ -1,9 +1,0 @@
-zendesk.user_segment Service_Desk@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Service Desk"
-  _alias = "Service Desk"
-}

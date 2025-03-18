@@ -1,9 +1,0 @@
-zendesk.user_segment HR_Analytics_Tools@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "HR Analytics Tools"
-  _alias = "HR Analytics Tools"
-}

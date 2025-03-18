@@ -1,9 +1,0 @@
-zendesk.user_segment Research_Development@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Research Development"
-  _alias = "Research Development"
-}

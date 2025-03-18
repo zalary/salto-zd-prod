@@ -1,6 +1,0 @@
-zendesk.user_segment Troubleshooting_Guides@s {
-  user_type = "signed_in_users"
-  built_in = false
-  name = "Troubleshooting Guides"
-  _alias = "Troubleshooting Guides"
-}

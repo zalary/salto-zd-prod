@@ -1,6 +1,0 @@
-zendesk.user_segment Early_Adopters@s {
-  user_type = "signed_in_users"
-  built_in = false
-  name = "Early Adopters"
-  _alias = "Early Adopters"
-}

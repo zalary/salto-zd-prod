@@ -1,9 +1,0 @@
-zendesk.user_segment Translational_Research@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Translational Research"
-  _alias = "Translational Research"
-}

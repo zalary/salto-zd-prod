@@ -1,9 +1,0 @@
-zendesk.user_segment Systems_Biology@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Systems Biology"
-  _alias = "Systems Biology"
-}

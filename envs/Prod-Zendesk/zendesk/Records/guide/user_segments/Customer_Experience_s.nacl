@@ -1,6 +1,0 @@
-zendesk.user_segment Customer_Experience@s {
-  user_type = "signed_in_users"
-  built_in = false
-  name = "Customer Experience"
-  _alias = "Customer Experience"
-}

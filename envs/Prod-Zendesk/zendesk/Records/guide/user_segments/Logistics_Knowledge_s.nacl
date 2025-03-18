@@ -1,9 +1,0 @@
-zendesk.user_segment Logistics_Knowledge@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Logistics Knowledge"
-  _alias = "Logistics Knowledge"
-}

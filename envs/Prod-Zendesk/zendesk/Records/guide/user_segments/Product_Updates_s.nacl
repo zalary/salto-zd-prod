@@ -1,6 +1,0 @@
-zendesk.user_segment Product_Updates@s {
-  user_type = "signed_in_users"
-  built_in = false
-  name = "Product Updates"
-  _alias = "Product Updates"
-}

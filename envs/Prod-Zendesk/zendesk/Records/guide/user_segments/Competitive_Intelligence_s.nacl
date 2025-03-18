@@ -1,9 +1,0 @@
-zendesk.user_segment Competitive_Intelligence@s {
-  user_type = "staff"
-  group_ids = [
-    zendesk.group.instance.Tier_3___EMEA@ssbs,
-  ]
-  built_in = false
-  name = "Competitive Intelligence"
-  _alias = "Competitive Intelligence"
-}
