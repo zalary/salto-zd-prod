@@ -1,5 +1,5 @@
 zendesk.group Finance {
-  is_public = true
+  is_public = false
   name = "Finance"
   description = " finance "
   default = false

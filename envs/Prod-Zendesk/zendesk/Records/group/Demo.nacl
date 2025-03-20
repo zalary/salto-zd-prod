@@ -1,5 +1,5 @@
 zendesk.group Demo {
-  is_public = true
+  is_public = false
   name = "Demo"
   description = "This is my demo"
   default = false
