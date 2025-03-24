@@ -15,8 +15,5 @@ zendesk.article INCIDENT_28731_INCIDENT_28731_INCIDENT_28731_anotherBrand___Eden
     zendesk.user_segment.instance.Agents_and_admins@s,
   ]
   brand = zendesk.brand.instance.anotherBrand___Eden_test1@sbss
-  attachments = [
-    zendesk.article_attachment.instance.INCIDENT_28731_INCIDENT_28731_INCIDENT_28731_anotherBrand___Eden_test1_sbss_buuuuum_buuuuuuuum_buuuuuuuuuuum__knuckles22_png_true@uuuuuuuuuuuuumuuvu,
-  ]
   _alias = "INCIDENT-28731"
 }
