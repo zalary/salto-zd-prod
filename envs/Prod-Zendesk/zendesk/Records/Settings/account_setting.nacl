@@ -71,7 +71,7 @@ zendesk.account_setting {
     integrated = false
     available = true
     maximum_request_count = 1
-    welcome_message = "Bonjour. Que puis-je faire pour vous aujourd’hui ?"
+    welcome_message = "Hi there. How can I help today?"
     ctm_auto_activation_status = 0
     ctm_operating_hours_migration_status = 0
     ctm_chat_triggers_migration_status = 0

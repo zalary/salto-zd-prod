@@ -1,7 +1,7 @@
 zendesk.ticket_field toDelete1_text {
   type = "text"
   raw_title = "toDelete1"
-  raw_description = ""
+  raw_description = "im here to be deleted"
   active = true
   required = false
   collapsed_for_agents = false

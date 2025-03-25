@@ -1,6 +1,6 @@
 zendesk.ticket_form Default_Ticket_Form@s {
-  raw_name = "Formulaire de ticket par défaut"
-  raw_display_name = "Formulaire de ticket par défaut"
+  raw_name = "Default Ticket Form"
+  raw_display_name = "Default Ticket Form"
   end_user_visible = true
   ticket_field_ids = [
     zendesk.ticket_field.instance.Status_status,
@@ -15,5 +15,5 @@ zendesk.ticket_form Default_Ticket_Form@s {
   active = true
   default = false
   in_all_brands = true
-  _alias = "Formulaire de ticket par défaut"
+  _alias = "Default Ticket Form"
 }

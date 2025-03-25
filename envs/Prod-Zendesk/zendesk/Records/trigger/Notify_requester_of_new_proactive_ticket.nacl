@@ -1,5 +1,5 @@
 zendesk.trigger Notify_requester_of_new_proactive_ticket@s {
-  title = "Notifier le demandeur du nouveau ticket proactif"
+  title = "Notify requester of new proactive ticket"
   active = true
   default = false
   actions = [
@@ -41,8 +41,8 @@ zendesk.trigger Notify_requester_of_new_proactive_ticket@s {
       },
     ]
   }
-  description = "Un ticket proactif est un ticket créé par un agent pour le compte du demandeur."
-  raw_title = "Notifier le demandeur du nouveau ticket proactif"
+  description = "A proactive ticket is a ticket created by an agent on behalf of the requester."
+  raw_title = "Notify requester of new proactive ticket"
   category_id = zendesk.trigger_category.instance.Notifications
-  _alias = "Notifier le demandeur du nouveau ticket proactif"
+  _alias = "Notify requester of new proactive ticket"
 }

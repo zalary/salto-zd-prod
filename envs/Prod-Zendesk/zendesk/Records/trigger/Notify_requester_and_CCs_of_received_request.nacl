@@ -1,5 +1,5 @@
 zendesk.trigger Notify_requester_and_CCs_of_received_request@s {
-  title = "Notifier le demandeur et les personnes en copie (CC) de la réception de la demande"
+  title = "Notify requester and CCs of received request"
   active = true
   default = false
   actions = [
@@ -7,11 +7,11 @@ zendesk.trigger Notify_requester_and_CCs_of_received_request@s {
       field = "notification_user"
       value = [
         "requester_and_ccs",
-        "[Demande reçue]",
+        "[Request received]",
         '''
-Votre demande ({{ticket.id}}) a été reçue et est en cours de traitement par notre personnel d’assistance.
+Your request ({{ticket.id}}) has been received and is being reviewed by our support staff.
 
-Pour ajouter des commentaires supplémentaires, répondez à cet e-mail.
+To add additional comments, reply to this email.
 ''',
       ]
     },
@@ -45,7 +45,7 @@ Pour ajouter des commentaires supplémentaires, répondez à cet e-mail.
       },
     ]
   }
-  raw_title = "Notifier le demandeur et les personnes en copie (CC) de la réception de la demande"
+  raw_title = "Notify requester and CCs of received request"
   category_id = zendesk.trigger_category.instance.Notifications
-  _alias = "Notifier le demandeur et les personnes en copie (CC) de la réception de la demande"
+  _alias = "Notify requester and CCs of received request"
 }

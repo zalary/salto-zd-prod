@@ -17,11 +17,11 @@ zendesk.macro macro_with_restrictions@s {
   restriction = {
     type = "Group"
     ids = [
-      zendesk.group.instance.Support,
       zendesk.group.instance.Finance,
       zendesk.group.instance.Neta_Dup@s,
       zendesk.group.instance.Platform,
       zendesk.group.instance.SALTO_4956_Group@b,
+      zendesk.group.instance.Support,
     ]
   }
   raw_title = "macro with restrictions"

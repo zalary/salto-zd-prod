@@ -1,5 +1,5 @@
 zendesk.trigger Auto_assign_to_first_email_responding_agent@bsssss {
-  title = "Affecter automatiquement au premier agent répondant par e-mail"
+  title = "Auto-assign to first email responding agent"
   active = true
   default = false
   actions = [
@@ -42,7 +42,7 @@ zendesk.trigger Auto_assign_to_first_email_responding_agent@bsssss {
       },
     ]
   }
-  raw_title = "Affecter automatiquement au premier agent répondant par e-mail"
+  raw_title = "Auto-assign to first email responding agent"
   category_id = zendesk.trigger_category.instance.Notifications
-  _alias = "Affecter automatiquement au premier agent répondant par e-mail"
+  _alias = "Auto-assign to first email responding agent"
 }

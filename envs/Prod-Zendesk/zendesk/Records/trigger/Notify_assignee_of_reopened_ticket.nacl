@@ -1,5 +1,5 @@
 zendesk.trigger Notify_assignee_of_reopened_ticket@s {
-  title = "Notifier l’assigné du ticket réouvert"
+  title = "Notify assignee of reopened ticket"
   active = true
   default = false
   actions = [
@@ -7,9 +7,9 @@ zendesk.trigger Notify_assignee_of_reopened_ticket@s {
       field = "notification_user"
       value = [
         "assignee_id",
-        "[{{ticket.account}}] Sujet : {{ticket.title}}",
+        "[{{ticket.account}}] Re: {{ticket.title}}",
         '''
-Ce ticket (#{{ticket.id}}) a été rouvert.
+This ticket (#{{ticket.id}}) has been reopened.
 
 {{ticket.comments_formatted}}
 ''',
@@ -35,7 +35,7 @@ Ce ticket (#{{ticket.id}}) a été rouvert.
       },
     ]
   }
-  raw_title = "Notifier l’assigné du ticket réouvert"
+  raw_title = "Notify assignee of reopened ticket"
   category_id = zendesk.trigger_category.instance.Notifications
-  _alias = "Notifier l’assigné du ticket réouvert"
+  _alias = "Notify assignee of reopened ticket"
 }

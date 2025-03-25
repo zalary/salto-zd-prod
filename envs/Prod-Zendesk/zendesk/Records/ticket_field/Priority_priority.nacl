@@ -1,11 +1,11 @@
 zendesk.ticket_field Priority_priority {
   type = "priority"
-  raw_title = "Priorité"
-  raw_description = "Priorité de la demande"
+  raw_title = "Priority"
+  raw_description = "Request priority"
   active = true
   required = false
   collapsed_for_agents = false
-  raw_title_in_portal = "Priorité"
+  raw_title_in_portal = "Priority"
   visible_in_portal = true
   editable_in_portal = false
   required_in_portal = false
@@ -29,6 +29,6 @@ zendesk.ticket_field Priority_priority {
     },
   ]
   sub_type_id = 0
-  _alias = "Priorité"
+  _alias = "Priority"
   agent_can_edit = true
 }

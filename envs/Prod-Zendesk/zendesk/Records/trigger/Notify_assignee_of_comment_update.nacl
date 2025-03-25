@@ -1,5 +1,5 @@
 zendesk.trigger Notify_assignee_of_comment_update@s {
-  title = "Notifier l’assigné de la mise à jour des commentaires"
+  title = "Notify assignee of comment update"
   active = true
   default = false
   actions = [
@@ -7,9 +7,9 @@ zendesk.trigger Notify_assignee_of_comment_update@s {
       field = "notification_user"
       value = [
         "assignee_id",
-        "[{{ticket.account}}] Sujet : {{ticket.title}}",
+        "[{{ticket.account}}] Re: {{ticket.title}}",
         '''
-Ce ticket (#{{ticket.id}}) a été mis à jour.
+This ticket (#{{ticket.id}}) has been updated.
 
 {{ticket.comments_formatted}}
 ''',
@@ -44,7 +44,7 @@ Ce ticket (#{{ticket.id}}) a été mis à jour.
       },
     ]
   }
-  raw_title = "Notifier l’assigné de la mise à jour des commentaires"
+  raw_title = "Notify assignee of comment update"
   category_id = zendesk.trigger_category.instance.Notifications
-  _alias = "Notifier l’assigné de la mise à jour des commentaires"
+  _alias = "Notify assignee of comment update"
 }

@@ -117,8 +117,8 @@ zendesk.view Recently_updated_tickets@s {
   restriction = {
     type = "Group"
     ids = [
-      zendesk.group.instance.Support,
       zendesk.group.instance.Neta________@s_00123hjalvi,
+      zendesk.group.instance.Support,
     ]
   }
 }

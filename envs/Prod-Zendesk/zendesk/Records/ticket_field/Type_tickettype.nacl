@@ -1,7 +1,7 @@
 zendesk.ticket_field Type_tickettype {
   type = "tickettype"
   raw_title = "Type"
-  raw_description = "Type de demande"
+  raw_description = "Request type"
   active = true
   required = false
   collapsed_for_agents = false
