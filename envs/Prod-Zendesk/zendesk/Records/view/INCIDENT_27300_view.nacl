@@ -126,11 +126,6 @@ zendesk.view INCIDENT_27300_view@b {
         operator = "less_than"
         value = "closed"
       },
-      {
-        field = "ticket_form_id"
-        operator = "is"
-        value = zendesk.ticket_form.instance.Eden_Test_INCIDENT_27300@ssb
-      },
     ]
   }
   restriction = {

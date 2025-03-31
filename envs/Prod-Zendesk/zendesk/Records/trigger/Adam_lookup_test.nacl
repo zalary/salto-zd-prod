@@ -11,12 +11,13 @@ zendesk.trigger Adam_lookup_test@s {
   conditions = {
     all = [
       {
-        field = "lookup:ticket.ticket_field_${ zendesk.ticket_field.instance.noam_lookup_user_lookup }.custom_fields.${ zendesk.custom_object.instance.missing_undefined }"
+        field = "cc"
         operator = "is"
-        value = "31097284390035"
+        value = "present"
       },
     ]
   }
+  description = ""
   raw_title = "Adam lookup test"
   category_id = zendesk.trigger_category.instance.Notifications
   _alias = "Adam lookup test"
