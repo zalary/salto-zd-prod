@@ -1,0 +1,8 @@
+zendesk.ticket_field__custom_field_options REUT___dropdown_field_test_tagger__green@sbsssuuu {
+  raw_name = "Green"
+  value = "green"
+  _parent = [
+    zendesk.ticket_field.instance.REUT___dropdown_field_test_tagger@sbsssu,
+  ]
+  _alias = "green"
+}
