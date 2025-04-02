@@ -58,7 +58,7 @@ zendesk.account_setting {
     aw_auto_activation_status = 0
     aw_prevent_opt_out = false
     idle_timeout_enabled = false
-    agent_home = true
+    agent_home = false
     agent_as_a_requester = "private-groups"
     dark_mode_agent_workspace = false
     dark_mode_terms_and_conditions_accepted = false
