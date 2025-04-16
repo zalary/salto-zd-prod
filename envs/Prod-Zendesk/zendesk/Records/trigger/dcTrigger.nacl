@@ -14,10 +14,12 @@ zendesk.trigger dcTrigger {
     {
       field = "add_skills"
       value = zendesk.routing_attribute_value.instance.Test__Test1
+      priority = "no_priority"
     },
     {
       field = "set_skills"
       value = zendesk.routing_attribute_value.instance.Test__Test2
+      priority = "no_priority"
     },
     {
       field = "remove_skills"
