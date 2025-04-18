@@ -11,6 +11,9 @@ zendesk.trigger eden1 {
         '''
 another try5
 
+organization: 
+{{ticket.organization.custom_fields.${ zendesk.organization_field.instance.edentest1 }}} this is very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very long 2
+{{ticket.organization.custom_fields.${ zendesk.organization_field.instance.edentest1 }.title}}
 
 organization: 
 {{ticket.organization.custom_fields.${ zendesk.organization_field.instance.edentest1 }}}
