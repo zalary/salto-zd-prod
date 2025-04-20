@@ -1,0 +1,22 @@
+zendesk.support_address eden_test_eden_test2_BrandAForGuide_subdomain_com@bubmvv {
+  brand_id = zendesk.brand.instance.BrandAForGuide
+  name = "eden-test"
+  email = "eden-test2@${ zendesk.brand.instance.BrandAForGuide.subdomain }.com"
+  forwarding_status = "failed"
+  spf_status = "failed"
+  cname_status = "unknown"
+  domain_verification_status = "verified"
+  domain_verification_code = "9dc907279f0f21e2"
+  _alias = "eden-test"
+}
+zendesk.support_address eden_test_eden_test_help_salto_internal_test_com@bubmvbbv {
+  brand_id = zendesk.brand.instance.BrandAForGuide
+  name = "eden-test"
+  email = "eden-test@help.salto-internal-test.com"
+  forwarding_status = "failed"
+  spf_status = "verified"
+  cname_status = "unknown"
+  domain_verification_status = "verified"
+  domain_verification_code = "f7131396e73b0a28"
+  _alias = "eden-test"
+}
