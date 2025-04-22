@@ -19,10 +19,6 @@ zendesk.tag escalated {
   id = "escalated"
   _alias = "escalated"
 }
-zendesk.tag eshed {
-  id = "eshed"
-  _alias = "eshed"
-}
 
 zendesk.tag option2 {
   id = "option2"
