@@ -19,6 +19,20 @@ zendesk.ticket_form Adam_test_sorting@s {
   in_all_brands = true
   agent_conditions = [
     {
+      parent_field_id = zendesk.ticket_field.instance.Customer_Priority_tagger@su
+      parent_field_type = "tagger"
+      value = zendesk.ticket_field__custom_field_options.instance.Customer_Priority_tagger_su__very_critical@uumuuu
+      child_fields = [
+        {
+          id = zendesk.ticket_field.instance._eshed__List_of_Fruit_tagger@hisssu
+          is_required = false
+          required_on_statuses = {
+            type = "NO_STATUSES"
+          }
+        },
+      ]
+    },
+    {
       parent_field_id = zendesk.ticket_field.instance.Is_Pro_Customer_checkbox@ssu
       parent_field_type = "checkbox"
       value = false
@@ -67,20 +81,6 @@ zendesk.ticket_form Adam_test_sorting@s {
       child_fields = [
         {
           id = zendesk.ticket_field.instance._eshed__Categories_of_Newsletter_multiselect@hisssu
-          is_required = false
-          required_on_statuses = {
-            type = "NO_STATUSES"
-          }
-        },
-      ]
-    },
-    {
-      parent_field_id = zendesk.ticket_field.instance.Customer_Priority_tagger@su
-      parent_field_type = "tagger"
-      value = zendesk.ticket_field__custom_field_options.instance.Customer_Priority_tagger_su__very_critical@uumuuu
-      child_fields = [
-        {
-          id = zendesk.ticket_field.instance._eshed__List_of_Fruit_tagger@hisssu
           is_required = false
           required_on_statuses = {
             type = "NO_STATUSES"
