@@ -11,7 +11,7 @@ zendesk.ticket_form digest_test@s {
     zendesk.ticket_field.instance.Description_description,
     zendesk.ticket_field.instance.digest_test_text@su,
   ]
-  active = true
+  active = false
   default = false
   in_all_brands = true
   _alias = "digest test"
