@@ -10,26 +10,12 @@ zendesk.ticket_form ZGY_Form_with_Conditionals@s {
     zendesk.ticket_field.instance.Subject_subject,
     zendesk.ticket_field.instance.Description_description,
     zendesk.ticket_field.instance.zgy_list_tagger,
-    zendesk.ticket_field.instance.zgy_checkbox_checkbox,
+    zendesk.ticket_field.instance.ZGY_Explain_Name_text@ssu,
+    zendesk.ticket_field.instance.zip_code_with_validation_regexp@sssu,
+    zendesk.ticket_field.instance.test_multiselect,
   ]
   active = true
   default = false
   in_all_brands = true
   _alias = "ZGY Form with Conditionals"
-  agent_conditions = [
-    {
-      parent_field_id = zendesk.ticket_field.instance.zgy_list_tagger
-      parent_field_type = "tagger"
-      value = zendesk.ticket_field__custom_field_options.instance.zgy_list_tagger__pop
-      child_fields = [
-        {
-          id = zendesk.ticket_field.instance.zgy_checkbox_checkbox
-          is_required = true
-          required_on_statuses = {
-            type = "ALL_STATUSES"
-          }
-        },
-      ]
-    },
-  ]
 }
