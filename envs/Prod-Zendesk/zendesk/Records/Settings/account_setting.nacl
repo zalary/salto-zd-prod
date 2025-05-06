@@ -98,7 +98,7 @@ zendesk.account_setting {
     voice_transcriptions_boosted_keywords = ""
   }
   twitter = {
-    shorten_url = "never"
+    shorten_url = "optional"
   }
   google_apps = {
     has_google_apps = false

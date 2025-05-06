@@ -11,7 +11,7 @@ zendesk.guide_settings ZGY {
       content_moderation_enabled = true
       embeddables_automatic_answers = false
       embeddables_connect_ipms = false
-      embeddables_web_widget = false
+      embeddables_web_widget = true
       enable_article_notification_on_all_articles = false
       google_universal_analytics_enabled = false
       google_analytics_4_enabled = false
