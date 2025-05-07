@@ -3,6 +3,7 @@ zendesk.custom_object stagingtest {
   raw_title = "StagingTest"
   raw_title_pluralized = "StagingTests"
   raw_description = "staging"
+  allows_photos = false
   custom_object_fields = [
     zendesk.custom_object_field.instance.stagingtest__relatedtomyself,
     zendesk.custom_object_field.instance.stagingtest__relationfield,
