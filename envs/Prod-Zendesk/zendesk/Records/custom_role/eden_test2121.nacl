@@ -57,6 +57,7 @@ zendesk.custom_role eden_test2121@s {
       ticket_access = "none"
     }
     assign_agent_statuses = false
+    assign_tickets_to_any_brand = false
     manage_malicious_attachments = false
   }
   _alias = "eden test2121"
