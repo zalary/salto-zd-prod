@@ -7,6 +7,10 @@ zendesk.trigger NoamTest {
       field = "status"
       value = "closed"
     },
+    {
+      field = "reply_internal"
+      value = "<p>This is a paragraph, let's see how it looks</p><p>{{ticket.requester.name}}&nbsp;</p><p><strong>Anfragender:</strong> {{ticket.ticket_field_7132593847315}}</p><p><strong>Vom Kunden gewähltes Hauptthema:</strong> {{ticket.ticket_field_option_title_16984867673235}}</p><p>{% if ticket.ticket_field_option_title_16984867673235 == \"Heizkostenabrechnung\" %}</p><p><strong>Vom Kunden gewähltes Unterthema:</strong> {{ticket.ticket_field_option_title_16984867673235}}</p><p>{% endif %}</p>"
+    },
   ]
   conditions = {
     all = [
@@ -22,6 +26,7 @@ zendesk.trigger NoamTest {
       },
     ]
   }
+  description = ""
   raw_title = "NoamTest"
   category_id = zendesk.trigger_category.instance.Notifications
   _alias = "NoamTest"

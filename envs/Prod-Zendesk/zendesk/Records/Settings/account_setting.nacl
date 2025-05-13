@@ -60,7 +60,7 @@ zendesk.account_setting {
     idle_timeout_enabled = false
     agent_home = false
     agent_as_a_requester = "private-groups"
-    dark_mode_agent_workspace = false
+    dark_mode_agent_workspace = true
     dark_mode_terms_and_conditions_accepted = false
   }
   groups = {

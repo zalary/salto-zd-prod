@@ -1,7 +1,7 @@
 zendesk.ticket_field toDelete2___bla_tagger@sbsu {
   type = "tagger"
   raw_title = "toDelete2 - bla"
-  raw_description = ""
+  raw_description = "safv"
   active = true
   required = false
   collapsed_for_agents = false
