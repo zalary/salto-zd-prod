@@ -9,7 +9,7 @@ zendesk.trigger NoamTest {
     },
     {
       field = "reply_internal"
-      value = "<p>This is a paragraph, let's see how it looks</p><p>{{ticket.requester.name}}&nbsp;</p><p><strong>Anfragender:</strong> {{ticket.ticket_field_7132593847315}}</p><p><strong>Vom Kunden gewähltes Hauptthema:</strong> {{ticket.ticket_field_option_title_16984867673235}}</p><p>{% if ticket.ticket_field_option_title_16984867673235 == \"Heizkostenabrechnung\" %}</p><p><strong>Vom Kunden gewähltes Unterthema:</strong> {{ticket.ticket_field_option_title_16984867673235}}</p><p>{% endif %}</p>"
+      value = "<p>This is a paragraph, let's see how it looks</p><p>{{ticket.requester.name}}&nbsp;</p><p><strong>Anfragender:</strong> {{ticket.ticket_field_7132593847315}}</p><p><strong>Vom Kunden gewähltes Hauptthema:</strong> {{ticket.ticket_field_option_title_7132593847315}}</p><p>{% if ticket.ticket_field_option_title_16984867673235 == \"Heizkostenabrechnung\" %}</p><p><strong>Vom Kunden gewähltes Unterthema:</strong> {{ticket.ticket_field_option_title_16984867673235}}</p><p>{% endif %}</p>"
     },
   ]
   conditions = {
