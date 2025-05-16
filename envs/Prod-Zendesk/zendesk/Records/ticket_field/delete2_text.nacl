@@ -1,7 +1,7 @@
 zendesk.ticket_field delete2_text {
   type = "text"
   raw_title = "delete2"
-  raw_description = "1"
+  raw_description = "erag1"
   active = true
   required = false
   collapsed_for_agents = false
