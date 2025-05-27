@@ -77,6 +77,7 @@ zendesk.account_setting {
     ctm_chat_triggers_migration_status = 0
     ctm_default_setup_csat_status = 0
     ctm_prevent_opt_out = false
+    ctm_segment = 0
   }
   voice = {
     enabled = true
