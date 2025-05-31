@@ -78,6 +78,18 @@ zendesk.account_setting {
     ctm_default_setup_csat_status = 0
     ctm_prevent_opt_out = false
     ctm_segment = 0
+    ctm_pre_chat_form_migration_status = 0
+    ctm_offline_form_migration_status = 0
+    ctm_visitor_ip_banned_migration_status = 0
+    ctm_goals_migration_status = 0
+    ctm_chat_routing_migration_status = 0
+    ctm_device_metadata_migration_status = 0
+    ctm_reporting_migration_status = 0
+    ctm_chat_api_migration_status = 0
+    ctm_mobile_sdk_migration_status = 0
+    ctm_default_setup_end_session_status = 0
+    ctm_default_setup_auto_release_status = 0
+    ctm_default_setup_wait_time_status = 0
   }
   voice = {
     enabled = true
