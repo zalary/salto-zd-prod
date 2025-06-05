@@ -14,4 +14,5 @@ zendesk.ticket_form INCIDENT_273002_form@b {
   default = false
   in_all_brands = true
   _alias = "INCIDENT-273002-form"
+  form_type = "standard"
 }

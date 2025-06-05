@@ -14,4 +14,5 @@ zendesk.ticket_form Copy_of_eden_form@s {
   default = false
   in_all_brands = true
   _alias = "Copy of eden form"
+  form_type = "standard"
 }

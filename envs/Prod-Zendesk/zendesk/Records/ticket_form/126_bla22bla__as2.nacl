@@ -16,4 +16,5 @@ zendesk.ticket_form "126_bla22bla__as2@szcs" {
   default = false
   in_all_brands = true
   _alias = "126 bla22bla$ as2"
+  form_type = "standard"
 }

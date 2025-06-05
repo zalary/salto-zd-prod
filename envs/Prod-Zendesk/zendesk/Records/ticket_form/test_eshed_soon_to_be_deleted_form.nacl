@@ -18,4 +18,5 @@ zendesk.ticket_form test_eshed_soon_to_be_deleted_form@b {
   default = false
   in_all_brands = true
   _alias = "test-eshed-soon-to-be-deleted-form"
+  form_type = "standard"
 }

@@ -38,4 +38,5 @@ zendesk.ticket_form ZGY_Cond2@s {
     },
   ]
   _alias = "ZGY Cond2"
+  form_type = "standard"
 }

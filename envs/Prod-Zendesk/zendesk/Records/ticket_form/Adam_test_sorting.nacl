@@ -90,4 +90,5 @@ zendesk.ticket_form Adam_test_sorting@s {
     },
   ]
   _alias = "Adam test sorting"
+  form_type = "standard"
 }

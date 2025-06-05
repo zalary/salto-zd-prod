@@ -16,4 +16,5 @@ zendesk.ticket_form view_test@s {
   default = false
   in_all_brands = true
   _alias = "view test"
+  form_type = "standard"
 }

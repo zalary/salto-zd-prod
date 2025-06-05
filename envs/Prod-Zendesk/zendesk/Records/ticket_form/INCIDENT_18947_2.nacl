@@ -47,4 +47,5 @@ zendesk.ticket_form INCIDENT_18947_2@b {
     },
   ]
   _alias = "INCIDENT-18947-2"
+  form_type = "standard"
 }

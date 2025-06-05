@@ -14,4 +14,5 @@ zendesk.ticket_form Transformational_Form@s {
   default = false
   in_all_brands = true
   _alias = "Transformational Form"
+  form_type = "standard"
 }

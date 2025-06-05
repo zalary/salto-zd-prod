@@ -14,4 +14,5 @@ zendesk.ticket_form tagger11_form@s {
   default = true
   in_all_brands = true
   _alias = "tagger11 form"
+  form_type = "standard"
 }

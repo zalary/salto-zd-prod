@@ -17,4 +17,5 @@ zendesk.ticket_form daniel_s_ticket_form@tss {
   default = false
   in_all_brands = true
   _alias = "daniel's ticket form"
+  form_type = "standard"
 }

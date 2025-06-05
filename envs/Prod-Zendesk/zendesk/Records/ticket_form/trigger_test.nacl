@@ -19,4 +19,5 @@ zendesk.ticket_form trigger_test@s {
   default = false
   in_all_brands = true
   _alias = "trigger test"
+  form_type = "standard"
 }

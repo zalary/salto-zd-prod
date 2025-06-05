@@ -113,4 +113,5 @@ zendesk.ticket_form Eden_Test1@s {
     },
   ]
   _alias = "Eden Test1"
+  form_type = "standard"
 }

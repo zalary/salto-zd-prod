@@ -21,4 +21,5 @@ zendesk.ticket_form _eshed__Newsletter_Subscription_Details@hisss {
     zendesk.brand.instance.Eshed_Demo@s,
   ]
   _alias = "[eshed] Newsletter Subscription Details"
+  form_type = "standard"
 }

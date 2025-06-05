@@ -15,4 +15,5 @@ zendesk.ticket_form Pro_customers_ticket_form@s {
   default = false
   in_all_brands = true
   _alias = "Pro customers ticket form"
+  form_type = "standard"
 }

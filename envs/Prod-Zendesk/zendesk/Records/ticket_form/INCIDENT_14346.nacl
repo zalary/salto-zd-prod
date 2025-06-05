@@ -52,4 +52,5 @@ zendesk.ticket_form INCIDENT_14346@b {
       ]
     },
   ]
+  form_type = "standard"
 }

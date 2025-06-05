@@ -32,4 +32,5 @@ zendesk.ticket_form inactive_field2@s {
     },
   ]
   _alias = "inactive field2"
+  form_type = "standard"
 }

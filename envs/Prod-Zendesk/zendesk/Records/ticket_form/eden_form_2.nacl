@@ -65,4 +65,5 @@ zendesk.ticket_form eden_form_2@s {
     },
   ]
   _alias = "eden form 2"
+  form_type = "standard"
 }

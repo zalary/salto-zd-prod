@@ -15,4 +15,5 @@ zendesk.ticket_form bug_test@s {
   default = false
   in_all_brands = true
   _alias = "bug test"
+  form_type = "standard"
 }

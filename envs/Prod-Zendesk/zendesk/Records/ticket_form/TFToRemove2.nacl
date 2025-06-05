@@ -61,4 +61,5 @@ zendesk.ticket_form TFToRemove2 {
     },
   ]
   _alias = "TFToRemove2"
+  form_type = "standard"
 }

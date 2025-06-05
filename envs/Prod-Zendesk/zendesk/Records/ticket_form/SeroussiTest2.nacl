@@ -111,4 +111,5 @@ zendesk.ticket_form SeroussiTest2 {
     },
   ]
   _alias = "SeroussiTest2"
+  form_type = "standard"
 }

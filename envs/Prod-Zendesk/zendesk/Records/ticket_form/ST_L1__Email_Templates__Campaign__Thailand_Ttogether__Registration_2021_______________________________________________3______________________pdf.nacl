@@ -13,4 +13,5 @@ zendesk.ticket_form ST_L1__Email_Templates__Campaign__Thailand_Ttogether__Regist
   default = false
   in_all_brands = true
   _alias = "ST L1::Email Templates::Campaign::Thailand Ttogether::Registration 2021__ขั_นตอนการเข_าร_วมโครงการเราเที_ยวด_วยกันเฟส_3__สำหรับผู_ประกอบการ_.pdf"
+  form_type = "standard"
 }

@@ -15,4 +15,5 @@ zendesk.ticket_form eden___test@sbs {
   default = false
   in_all_brands = true
   _alias = "eden - test"
+  form_type = "standard"
 }

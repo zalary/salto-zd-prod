@@ -16,4 +16,5 @@ zendesk.ticket_form EdenForm12 {
   default = false
   in_all_brands = false
   _alias = "EdenForm12"
+  form_type = "standard"
 }

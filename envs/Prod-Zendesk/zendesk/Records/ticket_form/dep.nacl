@@ -32,4 +32,5 @@ zendesk.ticket_form dep {
     },
   ]
   _alias = "dep"
+  form_type = "standard"
 }

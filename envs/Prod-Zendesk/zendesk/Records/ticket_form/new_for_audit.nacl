@@ -14,4 +14,5 @@ zendesk.ticket_form new_for_audit@s {
   default = false
   in_all_brands = true
   _alias = "new for audit"
+  form_type = "standard"
 }

@@ -20,4 +20,5 @@ zendesk.ticket_form Adam_test@s {
     zendesk.brand.instance.support,
   ]
   _alias = "Adam test"
+  form_type = "standard"
 }

@@ -56,4 +56,5 @@ zendesk.ticket_form _eshed__test____conditions@hihisbs {
     },
   ]
   _alias = "[eshed][test] - conditions"
+  form_type = "standard"
 }

@@ -47,4 +47,5 @@ zendesk.ticket_form Other {
     },
   ]
   _alias = "Other"
+  form_type = "standard"
 }

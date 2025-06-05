@@ -16,4 +16,5 @@ zendesk.ticket_form New_form@s {
   default = false
   in_all_brands = true
   _alias = "New form"
+  form_type = "standard"
 }

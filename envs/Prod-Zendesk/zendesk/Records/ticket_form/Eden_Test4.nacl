@@ -122,4 +122,5 @@ zendesk.ticket_form Eden_Test4@s {
     },
   ]
   _alias = "Eden Test4"
+  form_type = "standard"
 }

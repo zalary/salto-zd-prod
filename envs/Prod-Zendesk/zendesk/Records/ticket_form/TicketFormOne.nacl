@@ -16,4 +16,5 @@ zendesk.ticket_form TicketFormOne {
   default = false
   in_all_brands = true
   _alias = "TicketFormOne"
+  form_type = "standard"
 }

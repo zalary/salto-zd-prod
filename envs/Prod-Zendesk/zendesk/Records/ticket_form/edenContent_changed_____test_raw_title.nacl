@@ -34,4 +34,5 @@ zendesk.ticket_form edenContent_changed_____test_raw_title@ssvvvsss {
     },
   ]
   _alias = "edenContent changed ... test raw title"
+  form_type = "standard"
 }

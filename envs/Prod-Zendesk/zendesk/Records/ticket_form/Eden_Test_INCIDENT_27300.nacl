@@ -109,4 +109,5 @@ zendesk.ticket_form Eden_Test_INCIDENT_27300@ssb {
     },
   ]
   _alias = "Eden Test INCIDENT-27300"
+  form_type = "standard"
 }

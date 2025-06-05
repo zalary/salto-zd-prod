@@ -15,4 +15,5 @@ zendesk.ticket_form "1222@" {
   default = false
   in_all_brands = true
   _alias = "1222"
+  form_type = "standard"
 }

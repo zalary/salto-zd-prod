@@ -19,4 +19,5 @@ zendesk.ticket_form Daniel_s_inactive_ticket_form@tsss {
     zendesk.brand.instance.BrandAForGuide,
   ]
   _alias = "Daniel's inactive ticket form"
+  form_type = "standard"
 }

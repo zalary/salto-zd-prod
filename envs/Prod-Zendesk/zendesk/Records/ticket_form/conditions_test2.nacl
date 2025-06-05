@@ -57,4 +57,5 @@ zendesk.ticket_form conditions_test2@s {
     },
   ]
   _alias = "conditions test2"
+  form_type = "standard"
 }

@@ -38,4 +38,5 @@ zendesk.ticket_form INCIDENT_28353@b {
     },
   ]
   _alias = "INCIDENT-28353"
+  form_type = "standard"
 }

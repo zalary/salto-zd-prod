@@ -110,4 +110,5 @@ zendesk.ticket_form Noam_TicketForm@s {
     },
   ]
   _alias = "Noam TicketForm"
+  form_type = "standard"
 }
