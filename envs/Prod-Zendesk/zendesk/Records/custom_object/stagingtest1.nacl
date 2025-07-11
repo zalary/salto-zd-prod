@@ -5,6 +5,7 @@ zendesk.custom_object stagingtest1 {
   raw_description = "staging1"
   include_in_list_view = true
   allows_photos = false
+  allows_attachments = false
   custom_object_fields = [
     zendesk.custom_object_field.instance.stagingtest1__dropdown,
   ]
