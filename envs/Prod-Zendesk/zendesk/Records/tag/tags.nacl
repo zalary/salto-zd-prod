@@ -259,3 +259,35 @@ zendesk.tag trial_users {
   id = "trial_users"
   _alias = "trial_users"
 }
+zendesk.tag automation {
+  id = "automation"
+  _alias = "automation"
+}
+zendesk.tag cusotmer_engineering {
+  id = "cusotmer_engineering"
+  _alias = "cusotmer_engineering"
+}
+zendesk.tag dp_09876@b {
+  id = "dp-09876"
+  _alias = "dp-09876"
+}
+zendesk.tag dp_12345@b {
+  id = "dp-12345"
+  _alias = "dp-12345"
+}
+zendesk.tag dp_12346@b {
+  id = "dp-12346"
+  _alias = "dp-12346"
+}
+zendesk.tag dp_98765@b {
+  id = "dp-98765"
+  _alias = "dp-98765"
+}
+zendesk.tag ll {
+  id = "ll"
+  _alias = "ll"
+}
+zendesk.tag test {
+  id = "test"
+  _alias = "test"
+}
