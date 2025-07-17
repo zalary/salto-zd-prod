@@ -1,0 +1,22 @@
+zendesk.ticket_field __zd_approval_workflow_status_ticket_field___tagger@_00123_00123vuuuu_00125_00125u {
+  type = "tagger"
+  raw_title = "{{zd.approval_workflow_status_ticket_field}}"
+  raw_description = "{{zd.approval_workflow_status_ticket_field_description}}"
+  active = true
+  required = false
+  collapsed_for_agents = false
+  raw_title_in_portal = "{{zd.approval_workflow_status_ticket_field}}"
+  visible_in_portal = false
+  editable_in_portal = false
+  required_in_portal = false
+  agent_can_edit = false
+  removable = true
+  key = "standard::approval_workflow_status"
+  custom_field_options = [
+    zendesk.ticket_field__custom_field_options.instance.__zd_approval_workflow_status_ticket_field___tagger__zd_es_approval_pending@_00123_00123vuuuu_00125_00125uuuuuu,
+    zendesk.ticket_field__custom_field_options.instance.__zd_approval_workflow_status_ticket_field___tagger__zd_es_approval_approved@_00123_00123vuuuu_00125_00125uuuuuu,
+    zendesk.ticket_field__custom_field_options.instance.__zd_approval_workflow_status_ticket_field___tagger__zd_es_approval_rejected@_00123_00123vuuuu_00125_00125uuuuuu,
+    zendesk.ticket_field__custom_field_options.instance.__zd_approval_workflow_status_ticket_field___tagger__zd_es_approval_withdrawn@_00123_00123vuuuu_00125_00125uuuuuu,
+  ]
+  _alias = "Approval status"
+}

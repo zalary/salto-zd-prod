@@ -1,0 +1,8 @@
+zendesk.ticket_field__custom_field_options __zd_approval_workflow_status_ticket_field___tagger__zd_es_approval_withdrawn@_00123_00123vuuuu_00125_00125uuuuuu {
+  raw_name = "{{zd.approval_workflow_status_withdrawn}}"
+  value = "zd_es_approval_withdrawn"
+  _parent = [
+    zendesk.ticket_field.instance.__zd_approval_workflow_status_ticket_field___tagger@_00123_00123vuuuu_00125_00125u,
+  ]
+  _alias = "zd_es_approval_withdrawn"
+}
