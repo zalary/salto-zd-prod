@@ -18,7 +18,7 @@ zendesk.automation Close_ticket_4_days_after_status_is_set_to_solved@s {
       {
         field = "SOLVED"
         operator = "greater_than"
-        value = "480"
+        value = "96"
       },
     ]
   }
