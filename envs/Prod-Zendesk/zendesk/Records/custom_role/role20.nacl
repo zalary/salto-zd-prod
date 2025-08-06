@@ -59,6 +59,7 @@ zendesk.custom_role role20 {
     manage_approval_requests = false
     assign_tickets_to_any_brand = false
     manage_malicious_attachments = false
+    manage_ip_bans = "none"
   }
   _alias = "role20"
 }

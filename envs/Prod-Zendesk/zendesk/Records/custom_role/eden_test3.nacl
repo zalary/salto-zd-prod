@@ -60,6 +60,7 @@ zendesk.custom_role eden_test3@s {
     manage_approval_requests = false
     assign_tickets_to_any_brand = false
     manage_malicious_attachments = false
+    manage_ip_bans = "none"
     custom_objects = {
       stagingtest1 = {
         scopes = [

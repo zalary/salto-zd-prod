@@ -59,6 +59,7 @@ zendesk.custom_role Admin {
     manage_approval_requests = true
     assign_tickets_to_any_brand = true
     manage_malicious_attachments = true
+    manage_ip_bans = "all"
     custom_objects = {
       stagingtest = {
         scopes = [
