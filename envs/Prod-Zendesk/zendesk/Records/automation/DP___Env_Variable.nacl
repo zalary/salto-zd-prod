@@ -1,13 +1,11 @@
-zendesk.automation DP_s_test_automation@tss {
-  title = "DP's test automation"
+zendesk.automation DP___Env_Variable@sbss {
+  title = "DP - Env Variable"
   active = true
   default = false
   actions = [
     {
-      field = "current_tags"
-      value = [
-        zendesk.tag.instance.overdue,
-      ]
+      field = "assignee_id"
+      value = "geoffrey.routledge@salto.io"
     },
   ]
   conditions = {
@@ -24,6 +22,6 @@ zendesk.automation DP_s_test_automation@tss {
       },
     ]
   }
-  raw_title = "DP's test automation"
-  _alias = "DP's test automation"
+  raw_title = "DP - Env Variable"
+  _alias = "DP - Env Variable"
 }
