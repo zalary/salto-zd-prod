@@ -61,6 +61,14 @@ zendesk.custom_role Admin {
     manage_malicious_attachments = true
     manage_ip_bans = "all"
     custom_objects = {
+      a = {
+        scopes = [
+          "read",
+          "create",
+          "update",
+          "delete",
+        ]
+      }
       stagingtest = {
         scopes = [
           "read",

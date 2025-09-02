@@ -61,6 +61,11 @@ zendesk.custom_role Contributor {
     manage_malicious_attachments = false
     manage_ip_bans = "none"
     custom_objects = {
+      a = {
+        scopes = [
+          "read",
+        ]
+      }
       stagingtest = {
         scopes = [
           "read",

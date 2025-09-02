@@ -1,0 +1,11 @@
+zendesk.custom_object a {
+  key = "a"
+  raw_title = "a"
+  raw_title_pluralized = "a"
+  raw_description = ""
+  include_in_list_view = true
+  allows_photos = false
+  custom_object_fields = [
+  ]
+  _alias = "a"
+}
