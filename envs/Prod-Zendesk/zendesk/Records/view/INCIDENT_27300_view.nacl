@@ -37,7 +37,7 @@ zendesk.view INCIDENT_27300_view@b {
       {
         id = "subject"
         title = "Subject"
-        filterable = false
+        filterable = true
         sortable = false
       },
       {
@@ -82,7 +82,7 @@ zendesk.view INCIDENT_27300_view@b {
       {
         id = "subject"
         title = "Subject"
-        filterable = false
+        filterable = true
         sortable = false
       },
       {

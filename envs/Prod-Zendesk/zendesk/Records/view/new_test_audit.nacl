@@ -15,7 +15,7 @@ zendesk.view new_test_audit@s {
       {
         id = "subject"
         title = "Subject"
-        filterable = false
+        filterable = true
         sortable = false
       },
       {
@@ -47,7 +47,7 @@ zendesk.view new_test_audit@s {
       {
         id = "subject"
         title = "Subject"
-        filterable = false
+        filterable = true
         sortable = false
       },
       {

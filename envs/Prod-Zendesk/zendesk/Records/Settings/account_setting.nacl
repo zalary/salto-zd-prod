@@ -52,6 +52,8 @@ zendesk.account_setting {
     chat_sla_enablement = false
     modify_closed_tickets_customer_setting = false
     only_allowed_attachment_file_types = false
+    attachment_public_expiration = false
+    attachment_public_duration = 24
   }
   agents = {
     agent_workspace = true

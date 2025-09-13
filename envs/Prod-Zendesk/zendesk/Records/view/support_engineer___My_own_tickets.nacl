@@ -25,7 +25,7 @@ zendesk.view support_engineer___My_own_tickets@ssbsss {
       {
         id = "subject"
         title = "Subject"
-        filterable = false
+        filterable = true
         sortable = false
       },
       {
@@ -63,7 +63,7 @@ zendesk.view support_engineer___My_own_tickets@ssbsss {
       {
         id = "subject"
         title = "Subject"
-        filterable = false
+        filterable = true
         sortable = false
       },
       {

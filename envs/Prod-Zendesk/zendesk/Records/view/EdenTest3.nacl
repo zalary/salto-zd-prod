@@ -16,7 +16,7 @@ zendesk.view EdenTest3 {
       {
         id = "subject"
         title = "Subject"
-        filterable = false
+        filterable = true
         sortable = false
       },
       {
@@ -48,7 +48,7 @@ zendesk.view EdenTest3 {
       {
         id = "subject"
         title = "Subject"
-        filterable = false
+        filterable = true
         sortable = false
       },
       {

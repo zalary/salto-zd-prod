@@ -9,7 +9,7 @@ zendesk.view Management_Escalation_Cases___All@sssbs {
       {
         id = "subject"
         title = "Subject"
-        filterable = false
+        filterable = true
         sortable = false
       },
       {
@@ -49,7 +49,7 @@ zendesk.view Management_Escalation_Cases___All@sssbs {
       {
         id = "subject"
         title = "Subject"
-        filterable = false
+        filterable = true
         sortable = false
       },
       {
