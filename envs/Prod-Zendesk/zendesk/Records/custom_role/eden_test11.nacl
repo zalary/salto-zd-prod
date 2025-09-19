@@ -63,6 +63,7 @@ zendesk.custom_role eden_test11@s {
     assign_tickets_to_any_brand = false
     manage_approval_requests = false
     manage_ip_bans = "none"
+    export_views = false
   }
   _alias = "eden test1122"
 }

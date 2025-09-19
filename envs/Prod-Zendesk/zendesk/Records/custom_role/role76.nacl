@@ -41,6 +41,7 @@ zendesk.custom_role role76 {
     manage_ticket_forms = false
     manage_user_fields = false
     ticket_redaction = false
+    export_views = false
     manage_roles = "none"
     manage_groups = false
     manage_group_memberships = false

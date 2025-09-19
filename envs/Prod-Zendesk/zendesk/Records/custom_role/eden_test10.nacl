@@ -51,6 +51,7 @@ zendesk.custom_role eden_test10@s {
     read_macro_content_suggestions = true
     view_reduced_count = false
     view_filter_tickets = true
+    export_views = false
     manage_roles = "none"
     manage_deletion_schedules = "all"
     explore_reports = {

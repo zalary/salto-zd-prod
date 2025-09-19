@@ -42,6 +42,7 @@ zendesk.custom_role no_tickets@s {
     manage_ticket_forms = true
     manage_user_fields = true
     ticket_redaction = false
+    export_views = false
     manage_roles = "all-except-self"
     manage_groups = true
     manage_group_memberships = true

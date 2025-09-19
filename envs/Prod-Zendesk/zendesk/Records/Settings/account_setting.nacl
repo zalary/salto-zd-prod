@@ -93,7 +93,7 @@ You are a follower on this request ({{ticket.id}}). {{ticket.follower_reply_type
     ccs_followers_rules_update_required = true
     ccs_followers_no_rollback = true
     sunco_private_attachments_enabled = false
-    only_allowed_attachment_file_types = false
+    only_allowed_attachment_file_types = "all"
     attachment_public_expiration = false
     attachment_public_duration = 24
   }

@@ -44,6 +44,7 @@ zendesk.custom_role edenTest {
     manage_triggers = true
     manage_user_fields = false
     ticket_redaction = false
+    export_views = false
     manage_roles = "none"
     manage_groups = true
     manage_group_memberships = true
