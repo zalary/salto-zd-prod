@@ -10,7 +10,7 @@ zendesk.ticket_form Adam_test@s {
     zendesk.ticket_field.instance.Subject_subject,
     zendesk.ticket_field.instance.Description_description,
   ]
-  active = true
+  active = false
   default = false
   in_all_brands = false
   restricted_brand_ids = [

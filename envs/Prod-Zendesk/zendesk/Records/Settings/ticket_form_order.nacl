@@ -52,7 +52,6 @@ zendesk.ticket_form_order {
     zendesk.ticket_form.instance.INCIDENT_18947_2@b,
     zendesk.ticket_form.instance.ZGY_Cond2@s,
     zendesk.ticket_form.instance.dep,
-    zendesk.ticket_form.instance.Adam_test@s,
     zendesk.ticket_form.instance.Adam_test_sorting@s,
     zendesk.ticket_form.instance.ZGY_Halloween_Form@s,
     zendesk.ticket_form.instance.INCIDENT_273002_form@b,
@@ -62,6 +61,7 @@ zendesk.ticket_form_order {
     zendesk.ticket_form.instance.Free,
   ]
   inactive = [
+    zendesk.ticket_form.instance.Adam_test@s,
     zendesk.ticket_form.instance.digest_test@s,
     zendesk.ticket_form.instance.Daniel_s_inactive_ticket_form@tsss,
     zendesk.ticket_form.instance.view_test@s,
