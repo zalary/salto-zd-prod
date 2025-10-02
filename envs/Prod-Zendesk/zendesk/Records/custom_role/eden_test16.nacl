@@ -56,8 +56,6 @@ zendesk.custom_role eden_test16@s {
     manage_deletion_schedules = "none"
     explore_reports = {
       ticket_access = "none"
-      groups_ticket_access = "none"
-      brands_ticket_access = "none"
     }
     assign_agent_statuses = false
     manage_approval_requests = false

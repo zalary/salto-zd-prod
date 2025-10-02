@@ -55,8 +55,6 @@ zendesk.custom_role Billing_admin@s {
     read_macro_content_suggestions = true
     explore_reports = {
       ticket_access = "all"
-      groups_ticket_access = "all"
-      brands_ticket_access = "all"
     }
     assign_agent_statuses = true
     manage_approval_requests = true
