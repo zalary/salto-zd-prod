@@ -34,7 +34,7 @@ zendesk.view BrokenView {
         id = "subject"
         title = "Subject"
         filterable = true
-        sortable = false
+        sortable = true
       },
       {
         id = "requester"
@@ -73,7 +73,7 @@ zendesk.view BrokenView {
         id = "subject"
         title = "Subject"
         filterable = true
-        sortable = false
+        sortable = true
       },
       {
         id = "requester"

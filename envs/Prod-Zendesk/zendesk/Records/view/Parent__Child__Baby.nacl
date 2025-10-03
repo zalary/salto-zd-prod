@@ -22,7 +22,7 @@ zendesk.view Parent__Child__Baby@f {
         id = "subject"
         title = "Subject"
         filterable = true
-        sortable = false
+        sortable = true
       },
       {
         id = "requester"
@@ -60,7 +60,7 @@ zendesk.view Parent__Child__Baby@f {
         id = "subject"
         title = "Subject"
         filterable = true
-        sortable = false
+        sortable = true
       },
       {
         id = "requester"

@@ -10,7 +10,7 @@ zendesk.view shir_view_test@s {
         id = "subject"
         title = "Subject"
         filterable = true
-        sortable = false
+        sortable = true
       },
       {
         id = "created"
@@ -36,7 +36,7 @@ zendesk.view shir_view_test@s {
         id = "subject"
         title = "Subject"
         filterable = true
-        sortable = false
+        sortable = true
       },
       {
         id = "created"

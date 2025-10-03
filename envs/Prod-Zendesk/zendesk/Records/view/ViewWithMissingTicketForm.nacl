@@ -25,7 +25,7 @@ zendesk.view ViewWithMissingTicketForm {
         id = "subject"
         title = "Subject"
         filterable = true
-        sortable = false
+        sortable = true
       },
       {
         id = "requester"
@@ -49,7 +49,7 @@ zendesk.view ViewWithMissingTicketForm {
         id = "submitter"
         title = "Submitter"
         filterable = false
-        sortable = false
+        sortable = true
       },
     ]
     fields = [
@@ -63,7 +63,7 @@ zendesk.view ViewWithMissingTicketForm {
         id = "subject"
         title = "Subject"
         filterable = true
-        sortable = false
+        sortable = true
       },
       {
         id = "requester"
@@ -87,7 +87,7 @@ zendesk.view ViewWithMissingTicketForm {
         id = "submitter"
         title = "Submitter"
         filterable = false
-        sortable = false
+        sortable = true
       },
     ]
   }

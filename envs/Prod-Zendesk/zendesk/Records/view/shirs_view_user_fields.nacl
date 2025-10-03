@@ -33,7 +33,7 @@ zendesk.view shirs_view_user_fields@s {
         id = "subject"
         title = "Subject"
         filterable = true
-        sortable = false
+        sortable = true
       },
       {
         id = "created"
@@ -59,7 +59,7 @@ zendesk.view shirs_view_user_fields@s {
         id = "subject"
         title = "Subject"
         filterable = true
-        sortable = false
+        sortable = true
       },
       {
         id = "created"

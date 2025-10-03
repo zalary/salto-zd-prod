@@ -32,7 +32,7 @@ zendesk.view Your_unsolved_tickets@s {
         id = "subject"
         title = "Subject"
         filterable = true
-        sortable = false
+        sortable = true
       },
       {
         id = "requester"
@@ -64,7 +64,7 @@ zendesk.view Your_unsolved_tickets@s {
         id = "subject"
         title = "Subject"
         filterable = true
-        sortable = false
+        sortable = true
       },
       {
         id = "requester"

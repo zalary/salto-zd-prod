@@ -15,7 +15,7 @@ zendesk.view INCIDENT_12941___org_reference@bsbss {
         id = "subject"
         title = "Subject"
         filterable = true
-        sortable = false
+        sortable = true
       },
       {
         id = "requester"
@@ -47,7 +47,7 @@ zendesk.view INCIDENT_12941___org_reference@bsbss {
         id = "subject"
         title = "Subject"
         filterable = true
-        sortable = false
+        sortable = true
       },
       {
         id = "requester"

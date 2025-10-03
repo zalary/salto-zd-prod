@@ -10,7 +10,7 @@ zendesk.view Tickets_submitted_for_deletion@s {
         id = "subject"
         title = "Subject"
         filterable = true
-        sortable = false
+        sortable = true
       },
       {
         id = "requester"
@@ -36,7 +36,7 @@ zendesk.view Tickets_submitted_for_deletion@s {
         id = "subject"
         title = "Subject"
         filterable = true
-        sortable = false
+        sortable = true
       },
       {
         id = "requester"
